@@ -1,0 +1,154 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "94a2d42761b0a3fc82955550ad736146",
+      "info": {
+        "title": "Library at Noon",
+        "artist": "Trina Lydia",
+        "genre": "Fantasied Art-waltz",
+        "subtitles": [
+          "[INSANE SPELLZ]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia"
+        ],
+        "difficulty": 5,
+        "level": 13
+      },
+      "noteCount": 2362,
+      "bpm": {
+        "init": 210,
+        "min": 210,
+        "median": 210,
+        "max": 210
+      },
+      "duration": 129.03571428571428,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Library at Noon - 7k Lv13.bms"
+    },
+    {
+      "md5": "c31699fa7d1b6f931095c84196b49979",
+      "info": {
+        "title": "Library at Noon",
+        "artist": "Trina Lydia",
+        "genre": "Fantasied Art-waltz",
+        "subtitles": [
+          "[ANOTHER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1926,
+      "bpm": {
+        "init": 210,
+        "min": 210,
+        "median": 210,
+        "max": 210
+      },
+      "duration": 129.03571428571428,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Library at Noon - 7k Lv12.bms"
+    },
+    {
+      "md5": "1c2f5efa29924a68aeca663e1415b15c",
+      "info": {
+        "title": "Library at Noon",
+        "artist": "Trina Lydia",
+        "genre": "Fantasied Art-waltz",
+        "subtitles": [
+          "[HYPER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia"
+        ],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 1343,
+      "bpm": {
+        "init": 210,
+        "min": 210,
+        "median": 210,
+        "max": 210
+      },
+      "duration": 129.03571428571428,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Library at Noon - 7k Lv10 .bms"
+    },
+    {
+      "md5": "1371f1cbd4cc4202beff4487fc82fcff",
+      "info": {
+        "title": "Library at Noon",
+        "artist": "Trina Lydia",
+        "genre": "Fantasied Art-waltz",
+        "subtitles": [
+          "[NORMAL]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia"
+        ],
+        "difficulty": 2,
+        "level": 7
+      },
+      "noteCount": 819,
+      "bpm": {
+        "init": 210,
+        "min": 210,
+        "median": 210,
+        "max": 210
+      },
+      "duration": 129.03571428571428,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Library at Noon - 7k Lv7.bms"
+    },
+    {
+      "md5": "fa5f0e8b2d9a7feb3615385adbf203ff",
+      "info": {
+        "title": "Library at Noon",
+        "artist": "Trina Lydia",
+        "genre": "Fantasied Art-waltz",
+        "subtitles": [
+          "[BEGINNER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia"
+        ],
+        "difficulty": 1,
+        "level": 2
+      },
+      "noteCount": 326,
+      "bpm": {
+        "init": 210,
+        "min": 210,
+        "median": 210,
+        "max": 210
+      },
+      "duration": 129.03571428571428,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Library at Noon - 7k Lv2.bms"
+    }
+  ],
+  "title": "Library at Noon",
+  "artist": "Trina Lydia",
+  "genre": "Fantasied Art-waltz",
+  "bpm": 210,
+  "replaygain": "-14.17 dB",
+  "back_image_url": "bemuse-data/back_image.jpg",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+  "song_url": "https://soundcloud.com/trainer-lolxd/bofntlibrary-at-noon-trina-lydia",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=130&event=142",
+  "bmssearch_id": "library",
+  "artist_url": "https://twitter.com/lydia_trainer",
+  "readme": "README.md",
+  "preview_offset": 99,
+  "preview_url": "bemuse-data/preview.mp3"
+}
