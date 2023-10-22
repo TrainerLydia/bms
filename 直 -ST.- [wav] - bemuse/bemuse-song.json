@@ -1,0 +1,210 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "d7fcf29edc04eb740ca6dc43f46f2c05",
+      "info": {
+        "title": "뮳",
+        "artist": "Trina Lydia",
+        "genre": "TLCORE+",
+        "subtitles": [
+          "-ST.- [INSANE]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 5,
+        "level": 13
+      },
+      "noteCount": 2098,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 136.97368421052633,
+      "scratch": true,
+      "keys": "7K",
+      "file": "st 7k lv13.bms"
+    },
+    {
+      "md5": "e4013d9769f6ba1a24321fd17459bf28",
+      "info": {
+        "title": "뮳",
+        "artist": "Trina Lydia",
+        "genre": "TLCORE+",
+        "subtitles": [
+          "-ST.- [CURVATURE]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 5,
+        "level": 15
+      },
+      "noteCount": 2677,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 137.01315789473685,
+      "scratch": true,
+      "keys": "7K",
+      "file": "st 7k lv15.bms"
+    },
+    {
+      "md5": "19baa31a235ef6fa0860d86422fdd010",
+      "info": {
+        "title": "뮳",
+        "artist": "Trina Lydia",
+        "genre": "TLCORE+",
+        "subtitles": [
+          "-ST.- [HYPER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 1171,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 136.97368421052633,
+      "scratch": true,
+      "keys": "7K",
+      "file": "st 7k lv10.bms"
+    },
+    {
+      "md5": "3b36fabdb92a3a298cebb2ff87cab6ed",
+      "info": {
+        "title": "뮳",
+        "artist": "Trina Lydia",
+        "genre": "TLCORE+",
+        "subtitles": [
+          "-ST.- [ANOTHER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1989,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 136.97368421052633,
+      "scratch": true,
+      "keys": "7K",
+      "file": "st 7k lv12.bms"
+    },
+    {
+      "md5": "7a6ca8e2678256508426d1ce7c45f940",
+      "info": {
+        "title": "뮳",
+        "artist": "Trina Lydia",
+        "genre": "TLCORE+",
+        "subtitles": [
+          "-ST.- [NORMAL]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 2,
+        "level": 8
+      },
+      "noteCount": 830,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 136.97368421052633,
+      "scratch": true,
+      "keys": "7K",
+      "file": "st 7k lv8.bms"
+    },
+    {
+      "md5": "cca653ae41636067695f44094f0e78a5",
+      "info": {
+        "title": "뮳",
+        "artist": "Trina Lydia",
+        "genre": "TLCORE+",
+        "subtitles": [
+          "-ST.- [BEGINNER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 1,
+        "level": 4
+      },
+      "noteCount": 547,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 136.97368421052633,
+      "scratch": true,
+      "keys": "7K",
+      "file": "st 7k lv4.bms"
+    },
+    {
+      "md5": "d4729fe6415a24bba18b49340842c219",
+      "info": {
+        "title": "뮳",
+        "artist": "Trina Lydia",
+        "genre": "TLCORE+",
+        "subtitles": [
+          "-ST.- [BEGINNER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 1,
+        "level": 1
+      },
+      "noteCount": 229,
+      "bpm": {
+        "init": 190,
+        "min": 190,
+        "median": 190,
+        "max": 190
+      },
+      "duration": 136.97368421052633,
+      "scratch": true,
+      "keys": "7K",
+      "file": "st 7k lv1.bms"
+    }
+  ],
+  "title": "直",
+  "artist": "Trina Lydia",
+  "genre": "TLCORE+",
+  "bpm": 190,
+  "replaygain": "-15.13 dB",
+  "preview_offset": 101,
+  "preview_url": "bemuse-data/preview.mp3",
+  "back_image_url": "bemuse-data/back_image.jpg",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "song_url": "https://soundcloud.com/trainer-lolxd/bofnt-st-trina-lydia",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=142",
+  "youtube_url": "https://www.youtube.com/watch?v=mN3odpRCFNs&ab_channel=TrinaLydia",
+  "bmssearch_id": "st",
+  "artist_url": "https://twitter.com/lydia_trainer",
+  "readme": "README.md"
+}
