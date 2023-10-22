@@ -1,0 +1,183 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "896c3e61bb2a55c492e0f91e0497c0dd",
+      "info": {
+        "title": "Stellar Immortality",
+        "artist": "Trina Lydia",
+        "genre": "Dramatic Orchestral",
+        "subtitles": [
+          "[LOREWISE]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia / obj: Trina Lydia"
+        ],
+        "difficulty": 5,
+        "level": 15
+      },
+      "noteCount": 2539,
+      "bpm": {
+        "init": 185,
+        "min": 185,
+        "median": 185,
+        "max": 185
+      },
+      "duration": 149.83783783783784,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Stellar Immortality - 7k Lv15.bms"
+    },
+    {
+      "md5": "a6bf5f8b8f10cc3f720f8c957d6e41cc",
+      "info": {
+        "title": "Stellar Immortality",
+        "artist": "Trina Lydia",
+        "genre": "Dramatic Orchestral",
+        "subtitles": [
+          "[BEGINNER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia / obj: Kuro, Trina Lydia"
+        ],
+        "difficulty": 1,
+        "level": 2
+      },
+      "noteCount": 243,
+      "bpm": {
+        "init": 185,
+        "min": 185,
+        "median": 185,
+        "max": 185
+      },
+      "duration": 149.83783783783784,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Stellar Immortality - 7k Lv2.bms"
+    },
+    {
+      "md5": "c92eacc8e4291b8936ab53b785400491",
+      "info": {
+        "title": "Stellar Immortality",
+        "artist": "Trina Lydia",
+        "genre": "Dramatic Orchestral",
+        "subtitles": [
+          "[INSANE]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia / obj: Fromost, Trina Lydia"
+        ],
+        "difficulty": 5,
+        "level": 14
+      },
+      "noteCount": 2362,
+      "bpm": {
+        "init": 185,
+        "min": 185,
+        "median": 185,
+        "max": 185
+      },
+      "duration": 149.83783783783784,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Stellar Immortality - 7k Lv14.bms"
+    },
+    {
+      "md5": "4076bf04eed6bc177f53b74bc2f0b3e2",
+      "info": {
+        "title": "Stellar Immortality",
+        "artist": "Trina Lydia",
+        "genre": "Dramatic Orchestral",
+        "subtitles": [
+          "[HYPER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia / obj: Fromost, Trina Lydia"
+        ],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 1215,
+      "bpm": {
+        "init": 185,
+        "min": 185,
+        "median": 185,
+        "max": 185
+      },
+      "duration": 149.83783783783784,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Stellar Immortality - 7k Lv10.bms"
+    },
+    {
+      "md5": "8f75043999b79feb88d72127265d60a8",
+      "info": {
+        "title": "Stellar Immortality",
+        "artist": "Trina Lydia",
+        "genre": "Dramatic Orchestral",
+        "subtitles": [
+          "[ANOTHER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia / obj: Fromost, Trina Lydia"
+        ],
+        "difficulty": 4,
+        "level": 13
+      },
+      "noteCount": 2196,
+      "bpm": {
+        "init": 185,
+        "min": 185,
+        "median": 185,
+        "max": 185
+      },
+      "duration": 149.83783783783784,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Stellar Immortality - 7k Lv13.bms"
+    },
+    {
+      "md5": "f302ad2f0cbfa56245464227d90f0fe3",
+      "info": {
+        "title": "Stellar Immortality",
+        "artist": "Trina Lydia",
+        "genre": "Dramatic Orchestral",
+        "subtitles": [
+          "[NORMAL]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia / obj: Trina Lydia"
+        ],
+        "difficulty": 2,
+        "level": 6
+      },
+      "noteCount": 819,
+      "bpm": {
+        "init": 185,
+        "min": 185,
+        "median": 185,
+        "max": 185
+      },
+      "duration": 149.83783783783784,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Stellar Immortality - 7k Lv6.bms"
+    }
+  ],
+  "title": "Stellar Immortality",
+  "artist": "Trina Lydia",
+  "genre": "Dramatic Orchestral",
+  "bpm": 185,
+  "replaygain": "-13.75 dB",
+  "back_image_url": "bemuse-data/back_image.jpg",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "preview_offset": 105,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/trainer-lolxd/bofntstellar-immortality-trina-lydia",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=111&event=142",
+  "youtube_url": "https://www.youtube.com/watch?v=lGolxUOuVbY&ab_channel=TrinaLydia",
+  "bmssearch_id": "stellar",
+  "artist_url": "https://twitter.com/lydia_trainer",
+  "readme": "README.md"
+}

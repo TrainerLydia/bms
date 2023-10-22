@@ -1,0 +1,2550 @@
+
+*---------------------- HEADER FIELD
+
+#PLAYER 1
+#GENRE Dramatic Orchestral
+#TITLE Stellar Immortality
+#ARTIST Trina Lydia
+#BPM 185
+#PLAYLEVEL 15
+#RANK 3
+
+#SUBTITLE [LOREWISE]
+#SUBARTIST mov: Trina Lydia / obj: Trina Lydia
+#STAGEFILE stagefile.png
+#BANNER banner.png
+#BACKBMP back.png
+
+#DIFFICULTY 5
+#TOTAL 605
+#LNTYPE 1
+
+#WAV01 stellar immortality track 1_001.wav
+#WAV02 stellar immortality track 1_002.wav
+#WAV03 stellar immortality track 1_003.wav
+#WAV04 stellar immortality track 1_004.wav
+#WAV05 stellar immortality track 1_005.wav
+#WAV06 stellar immortality track 1_006.wav
+#WAV07 stellar immortality track 1_007.wav
+#WAV08 stellar immortality track 1_008.wav
+#WAV09 stellar immortality track 1_009.wav
+#WAV0A stellar immortality track 1_010.wav
+#WAV0B stellar immortality track 1_011.wav
+#WAV0C stellar immortality track 1_012.wav
+#WAV0D stellar immortality track 1_013.wav
+#WAV0E stellar immortality track 1_014.wav
+#WAV0F stellar immortality track 1_015.wav
+#WAV0G stellar immortality track 1_016.wav
+#WAV0H stellar immortality track 1_017.wav
+#WAV0I stellar immortality track 1_018.wav
+#WAV0J stellar immortality track 1_019.wav
+#WAV0K stellar immortality track 1_020.wav
+#WAV0L stellar immortality track 1_021.wav
+#WAV0M stellar immortality track 1_022.wav
+#WAV0N stellar immortality track 1_023.wav
+#WAV0O stellar immortality track 1_024.wav
+#WAV0P stellar immortality track 1_025.wav
+#WAV0Q stellar immortality track 1_026.wav
+#WAV0R stellar immortality track 1_027.wav
+#WAV0S stellar immortality track 1_028.wav
+#WAV0T stellar immortality track 1_029.wav
+#WAV0U stellar immortality track 1_030.wav
+#WAV0V stellar immortality track 1_031.wav
+#WAV0W stellar immortality track 1_032.wav
+#WAV0X stellar immortality track 1_033.wav
+#WAV0Y stellar immortality track 1_034.wav
+#WAV0Z stellar immortality track 1_035.wav
+#WAV10 stellar immortality track 1_036.wav
+#WAV11 stellar immortality track 1_037.wav
+#WAV12 stellar immortality track 1_038.wav
+#WAV13 stellar immortality track 1_039.wav
+#WAV14 stellar immortality track 1_040.wav
+#WAV15 stellar immortality track 1_041.wav
+#WAV16 stellar immortality track 1_042.wav
+#WAV17 stellar immortality track 1_043.wav
+#WAV18 stellar immortality track 1_044.wav
+#WAV19 stellar immortality track 1_045.wav
+#WAV1A stellar immortality track 1_046.wav
+#WAV1B stellar immortality track 1_047.wav
+#WAV1C stellar immortality track 1_048.wav
+#WAV1D stellar immortality track 1_049.wav
+#WAV1E stellar immortality track 1_050.wav
+#WAV1F stellar immortality track 1_051.wav
+#WAV1G stellar immortality track 1_052.wav
+#WAV1H stellar immortality track 1_053.wav
+#WAV1I stellar immortality track 1_054.wav
+#WAV1J stellar immortality track 1_055.wav
+#WAV1K stellar immortality track 1_056.wav
+#WAV1L stellar immortality track 1_057.wav
+#WAV1M stellar immortality track 1_058.wav
+#WAV1N stellar immortality track 1_059.wav
+#WAV1O stellar immortality track 1_060.wav
+#WAV1P stellar immortality track 1_061.wav
+#WAV1Q stellar immortality track 1_062.wav
+#WAV1R stellar immortality track 1_063.wav
+#WAV1S stellar immortality track 1_064.wav
+#WAV1T stellar immortality track 1_065.wav
+#WAV1U stellar immortality track 1_066.wav
+#WAV1V stellar immortality track 1_067.wav
+#WAV1W stellar immortality track 1_068.wav
+#WAV1X stellar immortality track 1_069.wav
+#WAV1Y stellar immortality track 1_070.wav
+#WAV1Z stellar immortality track 1_071.wav
+#WAV20 stellar immortality track 1_072.wav
+#WAV21 stellar immortality track 1_073.wav
+#WAV22 stellar immortality track 1_074.wav
+#WAV23 stellar immortality track 1_075.wav
+#WAV24 stellar immortality track 1_076.wav
+#WAV25 stellar immortality track 1_077.wav
+#WAV26 stellar immortality track 1_078.wav
+#WAV27 stellar immortality track 1_079.wav
+#WAV28 stellar immortality track 1_080.wav
+#WAV29 stellar immortality track 1_081.wav
+#WAV2A stellar immortality track 1_082.wav
+#WAV2B stellar immortality track 1_083.wav
+#WAV2C stellar immortality track 1_084.wav
+#WAV2D stellar immortality track 1_085.wav
+#WAV2E stellar immortality track 1_086.wav
+#WAV2F stellar immortality track 1_087.wav
+#WAV2G stellar immortality track 1_088.wav
+#WAV2H stellar immortality track 1_089.wav
+#WAV2I stellar immortality track 1_090.wav
+#WAV2J stellar immortality track 1_091.wav
+#WAV2K stellar immortality track 1_092.wav
+#WAV2L stellar immortality track 1_093.wav
+#WAV2M stellar immortality track 1_094.wav
+#WAV2N stellar immortality track 1_095.wav
+#WAV2O stellar immortality track 1_096.wav
+#WAV2P stellar immortality track 1_097.wav
+#WAV2Q stellar immortality track 1_098.wav
+#WAV2R stellar immortality track 1_099.wav
+#WAV2S stellar immortality track 1_100.wav
+#WAV2T stellar immortality track 1_101.wav
+#WAV2U stellar immortality track 1_102.wav
+#WAV2V stellar immortality track 1_103.wav
+#WAV2W stellar immortality track 1_104.wav
+#WAV2X stellar immortality track 1_105.wav
+#WAV2Y stellar immortality track 1_106.wav
+#WAV2Z stellar immortality track 1_107.wav
+#WAV30 stellar immortality track 1_108.wav
+#WAV31 stellar immortality track 1_109.wav
+#WAV32 stellar immortality track 1_110.wav
+#WAV33 stellar immortality track 1_111.wav
+#WAV34 stellar immortality track 1_112.wav
+#WAV35 stellar immortality track 1_113.wav
+#WAV36 stellar immortality track 1_114.wav
+#WAV37 stellar immortality track 1_115.wav
+#WAV38 stellar immortality track 1_116.wav
+#WAV39 stellar immortality track 1_117.wav
+#WAV3A stellar immortality track 1_118.wav
+#WAV3B stellar immortality track 1_119.wav
+#WAV3C stellar immortality track 1_120.wav
+#WAV3D stellar immortality track 1_121.wav
+#WAV3E stellar immortality track 1_122.wav
+#WAV3F stellar immortality track 1_123.wav
+#WAV3G stellar immortality track 1_124.wav
+#WAV3H stellar immortality track 1_125.wav
+#WAV3I stellar immortality track 1_126.wav
+#WAV3J stellar immortality track 1_127.wav
+#WAV3K stellar immortality track 1_128.wav
+#WAV3L stellar immortality track 1_129.wav
+#WAV3M stellar immortality track 1_130.wav
+#WAV3N stellar immortality track 1_131.wav
+#WAV3O stellar immortality track 1_132.wav
+#WAV3P stellar immortality track 1_133.wav
+#WAV3Q stellar immortality track 1_134.wav
+#WAV3R stellar immortality track 1_135.wav
+#WAV3S stellar immortality track 1_136.wav
+#WAV3T stellar immortality track 1_137.wav
+#WAV3U stellar immortality track 1_138.wav
+#WAV3V stellar immortality track 1_139.wav
+#WAV3W stellar immortality track 1_140.wav
+#WAV3X stellar immortality track 1_141.wav
+#WAV3Y stellar immortality track 1_142.wav
+#WAV3Z stellar immortality track 1_143.wav
+#WAV40 stellar immortality track 1_144.wav
+#WAV41 stellar immortality track 1_145.wav
+#WAV42 stellar immortality track 1_146.wav
+#WAV43 stellar immortality track 1_147.wav
+#WAV44 stellar immortality track 1_148.wav
+#WAV45 stellar immortality track 1_149.wav
+#WAV46 stellar immortality track 1_150.wav
+#WAV47 stellar immortality track 1_151.wav
+#WAV48 stellar immortality track 1_152.wav
+#WAV49 stellar immortality track 1_153.wav
+#WAV4A stellar immortality track 1_154.wav
+#WAV4B stellar immortality track 1_155.wav
+#WAV4C stellar immortality track 1_156.wav
+#WAV4D stellar immortality track 1_157.wav
+#WAV4E stellar immortality track 1_158.wav
+#WAV4F stellar immortality track 1_159.wav
+#WAV4G stellar immortality track 1_160.wav
+#WAV4H stellar immortality track 1_161.wav
+#WAV4I stellar immortality track 1_162.wav
+#WAV4J stellar immortality track 1_163.wav
+#WAV4K stellar immortality track 1_164.wav
+#WAV4L stellar immortality track 1_165.wav
+#WAV4M stellar immortality track 1_166.wav
+#WAV4N stellar immortality track 1_167.wav
+#WAV4O stellar immortality track 1_168.wav
+#WAV4P stellar immortality track 1_169.wav
+#WAV4Q stellar immortality track 1_170.wav
+#WAV4R stellar immortality track 1_171.wav
+#WAV4S stellar immortality track 1_172.wav
+#WAV4T stellar immortality track 1_173.wav
+#WAV4U stellar immortality track 1_174.wav
+#WAV4V stellar immortality track 1_175.wav
+#WAV4W stellar immortality track 1_176.wav
+#WAV4X stellar immortality track 1_177.wav
+#WAV4Y stellar immortality track 1_178.wav
+#WAV4Z stellar immortality track 1_179.wav
+#WAV50 stellar immortality track 1_180.wav
+#WAV51 stellar immortality track 1_181.wav
+#WAV52 stellar immortality track 1_182.wav
+#WAV53 stellar immortality track 1_183.wav
+#WAV54 stellar immortality track 1_184.wav
+#WAV55 stellar immortality track 1_185.wav
+#WAV56 stellar immortality track 1_186.wav
+#WAV57 stellar immortality track 1_187.wav
+#WAV58 stellar immortality track 1_188.wav
+#WAV59 stellar immortality track 1_189.wav
+#WAV5A stellar immortality track 1_190.wav
+#WAV5B stellar immortality track 1_191.wav
+#WAV5C stellar immortality track 1_192.wav
+#WAV5D stellar immortality track 1_193.wav
+#WAV5E stellar immortality track 1_194.wav
+#WAV5F stellar immortality track 1_195.wav
+#WAV5G stellar immortality track 1_196.wav
+#WAV5H stellar immortality track 1_197.wav
+#WAV5I stellar immortality track 1_198.wav
+#WAV5J stellar immortality track 1_199.wav
+#WAV5K stellar immortality track 1_200.wav
+#WAV5L stellar immortality track 1_201.wav
+#WAV5M stellar immortality track 1_202.wav
+#WAV5N stellar immortality track 1_203.wav
+#WAV5O stellar immortality track 1_204.wav
+#WAV5P stellar immortality track 1_205.wav
+#WAV5Q stellar immortality track 1_206.wav
+#WAV5R stellar immortality track 1_207.wav
+#WAV5S stellar immortality track 1_208.wav
+#WAV5T stellar immortality track 1_209.wav
+#WAV5U stellar immortality track 1_210.wav
+#WAV5V stellar immortality track 1_211.wav
+#WAV5W stellar immortality track 1_212.wav
+#WAV5X stellar immortality track 1_213.wav
+#WAV5Y stellar immortality track 1_214.wav
+#WAV5Z stellar immortality track 1_215.wav
+#WAV60 stellar immortality track 1_216.wav
+#WAV61 stellar immortality track 1_217.wav
+#WAV62 stellar immortality track 1_218.wav
+#WAV63 stellar immortality track 1_219.wav
+#WAV64 stellar immortality track 1_220.wav
+#WAV65 stellar immortality track 1_221.wav
+#WAV66 stellar immortality track 1_222.wav
+#WAV67 stellar immortality track 1_223.wav
+#WAV68 stellar immortality track 1_224.wav
+#WAV69 stellar immortality track 1_225.wav
+#WAV6A stellar immortality track 1_226.wav
+#WAV6B stellar immortality track 1_227.wav
+#WAV6C stellar immortality track 1_228.wav
+#WAV6D stellar immortality track 1_229.wav
+#WAV6E stellar immortality track 1_230.wav
+#WAV6F stellar immortality track 1_231.wav
+#WAV6G stellar immortality track 1_232.wav
+#WAV6H stellar immortality track 1_233.wav
+#WAV6I stellar immortality track 1_234.wav
+#WAV6J stellar immortality track 1_235.wav
+#WAV6K stellar immortality track 1_236.wav
+#WAV6L stellar immortality track 1_237.wav
+#WAV6M stellar immortality track 1_238.wav
+#WAV6N stellar immortality track 1_239.wav
+#WAV6O stellar immortality track 1_240.wav
+#WAV6P stellar immortality track 1_241.wav
+#WAV6Q stellar immortality track 1_242.wav
+#WAV6R stellar immortality track 1_243.wav
+#WAV6S stellar immortality track 1_244.wav
+#WAV6T stellar immortality track 1_245.wav
+#WAV6U stellar immortality track 1_246.wav
+#WAV6V stellar immortality track 1_247.wav
+#WAV6W stellar immortality track 1_248.wav
+#WAV6X stellar immortality track 1_249.wav
+#WAV6Y stellar immortality track 1_250.wav
+#WAV6Z stellar immortality track 1_251.wav
+#WAV70 stellar immortality track 1_252.wav
+#WAV71 stellar immortality track 1_253.wav
+#WAV72 stellar immortality track 1_254.wav
+#WAV73 stellar immortality track 1_255.wav
+#WAV74 stellar immortality track 1_256.wav
+#WAV75 stellar immortality track 1_257.wav
+#WAV76 stellar immortality track 1_258.wav
+#WAV77 stellar immortality track 1_259.wav
+#WAV78 stellar immortality track 1_260.wav
+#WAV79 stellar immortality track 1_261.wav
+#WAV7A stellar immortality track 1_262.wav
+#WAV7B stellar immortality track 1_263.wav
+#WAV7C stellar immortality track 1_264.wav
+#WAV7D stellar immortality track 1_265.wav
+#WAV7E stellar immortality track 1_266.wav
+#WAV7F stellar immortality track 1_267.wav
+#WAV7G stellar immortality track 1_268.wav
+#WAV7H stellar immortality track 1_269.wav
+#WAV7I stellar immortality track 1_270.wav
+#WAV7J stellar immortality track 1_271.wav
+#WAV7K stellar immortality track 1_272.wav
+#WAV7L stellar immortality track 1_273.wav
+#WAV7M stellar immortality track 1_274.wav
+#WAV7N stellar immortality track 1_275.wav
+#WAV7O stellar immortality track 1_276.wav
+#WAV7P stellar immortality track 1_277.wav
+#WAV7Q stellar immortality track 1_278.wav
+#WAV7R stellar immortality track 1_279.wav
+#WAV7S stellar immortality track 1_280.wav
+#WAV7T stellar immortality track 1_281.wav
+#WAV7U stellar immortality track 1_282.wav
+#WAV7V stellar immortality track 1_283.wav
+#WAV7W stellar immortality track 1_284.wav
+#WAV7X stellar immortality track 1_285.wav
+#WAV7Y stellar immortality track 1_286.wav
+#WAV7Z stellar immortality track 1_287.wav
+#WAV80 stellar immortality track 1_288.wav
+#WAV81 stellar immortality track 1_289.wav
+#WAV82 stellar immortality track 1_290.wav
+#WAV83 stellar immortality track 1_291.wav
+#WAV84 stellar immortality track 1_292.wav
+#WAV85 stellar immortality track 1_293.wav
+#WAV86 stellar immortality track 1_294.wav
+#WAV87 stellar immortality track 1_295.wav
+#WAV88 stellar immortality track 1_296.wav
+#WAV89 stellar immortality track 1_297.wav
+#WAV8A stellar immortality track 1_298.wav
+#WAV8B stellar immortality track 1_299.wav
+#WAV8C stellar immortality track 1_300.wav
+#WAV8D stellar immortality track 1_301.wav
+#WAV8E stellar immortality track 1_302.wav
+#WAV8F stellar immortality track 1_303.wav
+#WAV8G stellar immortality track 1_304.wav
+#WAV8H stellar immortality track 1_305.wav
+#WAV8I stellar immortality track 1_306.wav
+#WAV8J stellar immortality track 1_307.wav
+#WAV8K stellar immortality track 1_308.wav
+#WAV8L stellar immortality track 1_309.wav
+#WAV8M stellar immortality track 1_310.wav
+#WAV8N stellar immortality track 1_311.wav
+#WAV8O stellar immortality track 1_312.wav
+#WAV8P stellar immortality track 1_313.wav
+#WAV8Q stellar immortality track 1_314.wav
+#WAV8R stellar immortality track 1_315.wav
+#WAV8S stellar immortality track 1_316.wav
+#WAV8T stellar immortality track 1_317.wav
+#WAV8U stellar immortality track 1_318.wav
+#WAV8V stellar immortality track 1_319.wav
+#WAV8W stellar immortality track 1_320.wav
+#WAV8X stellar immortality track 1_321.wav
+#WAV8Y stellar immortality track 1_322.wav
+#WAV8Z stellar immortality track 1_323.wav
+#WAV90 stellar immortality track 1_324.wav
+#WAV91 stellar immortality track 1_325.wav
+#WAV92 stellar immortality track 2 - Corr_001.wav
+#WAV93 stellar immortality track 3 correction_000.wav
+#WAV94 stellar immortality track 3 correction_001.wav
+#WAV95 stellar immortality track 3 correction_002.wav
+#WAV96 stellar immortality track 3 correction_003.wav
+#WAV97 stellar immortality track 3 correction_004.wav
+#WAV98 stellar immortality track 3 correction_005.wav
+#WAV99 stellar immortality track 3 correction_006.wav
+#WAV9A stellar immortality track 3 correction_007.wav
+#WAV9B stellar immortality track 3 correction_008.wav
+#WAV9C stellar immortality track 1_336.wav
+#WAV9D stellar immortality track 1_337.wav
+#WAV9E stellar immortality track 1_338.wav
+#WAV9F stellar immortality track 1_339.wav
+#WAV9G stellar immortality track 1_340.wav
+#WAV9H stellar immortality track 1_341.wav
+#WAV9I stellar immortality track 1_342.wav
+#WAV9J stellar immortality track 1_343.wav
+#WAV9K stellar immortality track 1_344.wav
+#WAV9L stellar immortality track 1_345.wav
+#WAV9M stellar immortality track 1_346.wav
+#WAV9N stellar immortality track 1_347.wav
+#WAV9O stellar immortality track 1_348.wav
+#WAV9P stellar immortality track 1_349.wav
+#WAV9Q stellar immortality track 1_350.wav
+#WAV9R stellar immortality track 1_351.wav
+#WAV9S stellar immortality track 1_352.wav
+#WAV9T stellar immortality track 1_353.wav
+#WAV9U stellar immortality track 1_354.wav
+#WAV9V stellar immortality track 1_355.wav
+#WAV9W stellar immortality track 1_356.wav
+#WAV9X stellar immortality track 1_357.wav
+#WAV9Y stellar immortality track 1_358.wav
+#WAV9Z stellar immortality track 1_359.wav
+#WAVA0 stellar immortality track 1_360.wav
+#WAVA1 stellar immortality track 1_361.wav
+#WAVA2 stellar immortality track 1_362.wav
+#WAVA3 stellar immortality track 1_363.wav
+#WAVA4 stellar immortality track 1_364.wav
+#WAVA5 stellar immortality track 1_365.wav
+#WAVA6 stellar immortality track 1_366.wav
+#WAVA7 stellar immortality track 1_367.wav
+#WAVA8 stellar immortality track 1_368.wav
+#WAVA9 stellar immortality track 1_369.wav
+#WAVAA stellar immortality track 1_370.wav
+#WAVAB stellar immortality track 1_371.wav
+#WAVAC stellar immortality track 1_372.wav
+#WAVAD stellar immortality track 1_373.wav
+#WAVAE stellar immortality track 1_374.wav
+#WAVAF stellar immortality track 1_375.wav
+#WAVAG stellar immortality track 1_376.wav
+#WAVAH stellar immortality track 1_377.wav
+#WAVAI stellar immortality track 1_378.wav
+#WAVAJ stellar immortality track 1_379.wav
+#WAVAK stellar immortality track 1_380.wav
+#WAVAL stellar immortality track 1_381.wav
+#WAVAM stellar immortality track 1_382.wav
+#WAVAN stellar immortality track 1_383.wav
+#WAVAO stellar immortality track 1_384.wav
+#WAVAP stellar immortality track 1_385.wav
+#WAVAQ stellar immortality track 1_386.wav
+#WAVAR stellar immortality track 1_387.wav
+#WAVAS stellar immortality track 1_388.wav
+#WAVAT stellar immortality track 1_389.wav
+#WAVAU stellar immortality track 1_390.wav
+#WAVAV stellar immortality track 1_391.wav
+#WAVAW stellar immortality track 1_392.wav
+#WAVAX stellar immortality track 1_393.wav
+#WAVAY stellar immortality track 1_394.wav
+#WAVAZ stellar immortality track 1_395.wav
+#WAVB0 stellar immortality track 1_396.wav
+#WAVB1 stellar immortality track 1_397.wav
+#WAVB2 stellar immortality track 1_398.wav
+#WAVB3 stellar immortality track 1_399.wav
+#WAVB4 stellar immortality track 1_400.wav
+#WAVB5 stellar immortality track 1_401.wav
+#WAVB6 stellar immortality track 1_402.wav
+#WAVB7 stellar immortality track 1_403.wav
+#WAVB8 stellar immortality track 1_404.wav
+#WAVB9 stellar immortality track 1_405.wav
+#WAVBA stellar immortality track 1_406.wav
+#WAVBB stellar immortality track 1_407.wav
+#WAVBC stellar immortality track 1_408.wav
+#WAVBD stellar immortality track 1_409.wav
+#WAVBE stellar immortality track 1_410.wav
+#WAVBF stellar immortality track 1_411.wav
+#WAVBG stellar immortality track 1_412.wav
+#WAVBH stellar immortality track 1_413.wav
+#WAVBI stellar immortality track 1_414.wav
+#WAVBJ stellar immortality track 1_415.wav
+#WAVBK stellar immortality track 1_416.wav
+#WAVBL stellar immortality track 1_417.wav
+#WAVBM stellar immortality track 1_418.wav
+#WAVBN stellar immortality track 1_419.wav
+#WAVBO stellar immortality track 1_420.wav
+#WAVBP stellar immortality track 1_421.wav
+#WAVBQ stellar immortality track 1_422.wav
+#WAVBR stellar immortality track 1_423.wav
+#WAVBS stellar immortality track 1_424.wav
+#WAVBT stellar immortality track 1_425.wav
+#WAVBU stellar immortality track 1_426.wav
+#WAVBV stellar immortality track 1_427.wav
+#WAVBW stellar immortality track 1_428.wav
+#WAVBX stellar immortality track 1_429.wav
+#WAVBY stellar immortality track 1_430.wav
+#WAVBZ stellar immortality track 1_431.wav
+#WAVC0 stellar immortality track 1_432.wav
+#WAVC1 stellar immortality track 1_433.wav
+#WAVC2 stellar immortality track 1_434.wav
+#WAVC3 stellar immortality track 1_435.wav
+#WAVC4 stellar immortality track 1_436.wav
+#WAVC5 stellar immortality track 1_437.wav
+#WAVC6 stellar immortality track 1_438.wav
+#WAVC7 stellar immortality track 1_439.wav
+#WAVC8 stellar immortality track 1_440.wav
+#WAVC9 stellar immortality track 1_441.wav
+#WAVCA stellar immortality track 1_442.wav
+#WAVCB stellar immortality track 1_443.wav
+#WAVCC stellar immortality track 1_444.wav
+#WAVCD stellar immortality track 1_445.wav
+#WAVCE stellar immortality track 1_446.wav
+#WAVCF stellar immortality track 1_447.wav
+#WAVCG stellar immortality track 1_448.wav
+#WAVCH stellar immortality track 1_449.wav
+#WAVCI stellar immortality track 1_450.wav
+#WAVCJ stellar immortality track 1_451.wav
+#WAVCK stellar immortality track 1_452.wav
+#WAVCL stellar immortality track 1_453.wav
+#WAVCM stellar immortality track 1_454.wav
+#WAVCN stellar immortality track 1_455.wav
+#WAVCO stellar immortality track 1_456.wav
+#WAVCP stellar immortality track 1_457.wav
+#WAVCQ stellar immortality track 1_458.wav
+#WAVCR stellar immortality track 1_459.wav
+#WAVCS stellar immortality track 1_460.wav
+#WAVCT stellar immortality track 1_461.wav
+#WAVCU stellar immortality track 1_462.wav
+#WAVCV stellar immortality track 1_463.wav
+#WAVCW stellar immortality track 1_464.wav
+#WAVCX stellar immortality track 1_465.wav
+#WAVCY stellar immortality track 1_466.wav
+#WAVCZ stellar immortality track 1_467.wav
+#WAVD0 stellar immortality track 1_468.wav
+#WAVD1 stellar immortality track 1_469.wav
+#WAVD2 stellar immortality track 1_470.wav
+#WAVD3 stellar immortality track 1_471.wav
+#WAVD4 stellar immortality track 1_472.wav
+#WAVD5 stellar immortality track 1_473.wav
+#WAVD6 stellar immortality track 1_474.wav
+#WAVD7 stellar immortality track 1_475.wav
+#WAVD8 stellar immortality track 1_476.wav
+#WAVD9 stellar immortality track 1_477.wav
+#WAVDA stellar immortality track 1_478.wav
+#WAVDB stellar immortality track 1_479.wav
+#WAVDC stellar immortality track 1_480.wav
+#WAVDD stellar immortality track 1_481.wav
+#WAVDE stellar immortality track 1_482.wav
+#WAVDF stellar immortality track 1_483.wav
+#WAVDG stellar immortality track 1_484.wav
+#WAVDH stellar immortality track 1_485.wav
+#WAVDI stellar immortality track 1_486.wav
+#WAVDJ stellar immortality track 1_487.wav
+#WAVDK stellar immortality track 1_488.wav
+#WAVDL stellar immortality track 1_489.wav
+#WAVDM stellar immortality track 1_490.wav
+#WAVDN stellar immortality track 1_491.wav
+#WAVDO stellar immortality track 1_492.wav
+#WAVDP stellar immortality track 1_493.wav
+#WAVDQ stellar immortality track 1_494.wav
+#WAVDR stellar immortality track 1_495.wav
+#WAVDS stellar immortality track 1_496.wav
+#WAVDT stellar immortality track 1_497.wav
+#WAVDU stellar immortality track 1_498.wav
+#WAVDV stellar immortality track 1_499.wav
+#WAVDW stellar immortality track 1_500.wav
+#WAVDX stellar immortality track 1_501.wav
+#WAVDY stellar immortality track 1_502.wav
+#WAVDZ stellar immortality track 1_503.wav
+#WAVE0 stellar immortality track 1_504.wav
+#WAVE1 stellar immortality track 1_505.wav
+#WAVE2 stellar immortality track 1_506.wav
+#WAVE3 stellar immortality track 1_507.wav
+#WAVE4 stellar immortality track 1_508.wav
+#WAVE5 stellar immortality track 1_509.wav
+#WAVE6 stellar immortality track 1_510.wav
+#WAVE7 stellar immortality track 1_511.wav
+#WAVE8 stellar immortality track 1_512.wav
+#WAVE9 stellar immortality track 1_513.wav
+#WAVEA stellar immortality track 1_514.wav
+#WAVEB stellar immortality track 1_515.wav
+#WAVEC stellar immortality track 1_516.wav
+#WAVED stellar immortality track 1_517.wav
+#WAVEE stellar immortality track 1_518.wav
+#WAVEF stellar immortality track 1_519.wav
+#WAVEG stellar immortality track 1_520.wav
+#WAVEH stellar immortality track 1_521.wav
+#WAVEI stellar immortality track 1_522.wav
+#WAVEJ stellar immortality track 1_523.wav
+#WAVEK stellar immortality track 1_524.wav
+#WAVEL stellar immortality track 1_525.wav
+#WAVEM stellar immortality track 1_526.wav
+#WAVEN stellar immortality track 1_527.wav
+#WAVEO stellar immortality track 1_528.wav
+#WAVEP stellar immortality track 1_529.wav
+#WAVEQ stellar immortality track 1_530.wav
+#WAVER stellar immortality track 1_531.wav
+#WAVES stellar immortality track 1_532.wav
+#WAVET stellar immortality track 1_533.wav
+#WAVEU stellar immortality track 1_534.wav
+#WAVEV stellar immortality track 1_535.wav
+#WAVEW stellar immortality track 1_536.wav
+#WAVEX stellar immortality track 1_537.wav
+#WAVEY stellar immortality track 1_538.wav
+#WAVEZ stellar immortality track 1_539.wav
+#WAVF0 stellar immortality track 1_540.wav
+#WAVF1 stellar immortality track 1_541.wav
+#WAVF2 stellar immortality track 1_542.wav
+#WAVF3 stellar immortality track 1_543.wav
+#WAVF4 stellar immortality track 1_544.wav
+#WAVF5 stellar immortality track 1_545.wav
+#WAVF6 stellar immortality track 1_546.wav
+#WAVF7 stellar immortality track 1_547.wav
+#WAVF8 stellar immortality track 1_548.wav
+#WAVF9 stellar immortality track 1_549.wav
+#WAVFA stellar immortality track 1_550.wav
+#WAVFB stellar immortality track 1_551.wav
+#WAVFC stellar immortality track 1_552.wav
+#WAVFD stellar immortality track 1_553.wav
+#WAVFE stellar immortality track 1_554.wav
+#WAVFF stellar immortality track 1_555.wav
+#WAVFG stellar immortality track 1_556.wav
+#WAVFH stellar immortality track 1_557.wav
+#WAVFI stellar immortality track 1_558.wav
+#WAVFJ stellar immortality track 1_559.wav
+#WAVFK stellar immortality track 1_560.wav
+#WAVFL stellar immortality track 1_561.wav
+#WAVFM stellar immortality track 1_562.wav
+#WAVFN stellar immortality track 1_563.wav
+#WAVFO stellar immortality track 1_564.wav
+#WAVFP stellar immortality track 1_565.wav
+#WAVFQ stellar immortality track 1_566.wav
+#WAVFR stellar immortality track 1_567.wav
+#WAVFS stellar immortality track 1_568.wav
+#WAVFT stellar immortality track 1_569.wav
+#WAVFU stellar immortality track 1_570.wav
+#WAVFV stellar immortality track 1_571.wav
+#WAVFW stellar immortality track 1_572.wav
+#WAVFX stellar immortality track 1_573.wav
+#WAVFY stellar immortality track 1_574.wav
+#WAVFZ stellar immortality track 1_575.wav
+#WAVG0 stellar immortality track 1_576.wav
+#WAVG1 stellar immortality track 1_577.wav
+#WAVG2 stellar immortality track 1_578.wav
+#WAVG3 stellar immortality track 1_579.wav
+#WAVG4 stellar immortality track 1_580.wav
+#WAVG5 stellar immortality track 1_581.wav
+#WAVG6 stellar immortality track 1_582.wav
+#WAVG7 stellar immortality track 1_583.wav
+#WAVG8 stellar immortality track 1_584.wav
+#WAVG9 stellar immortality track 1_585.wav
+#WAVGA stellar immortality track 1_586.wav
+#WAVGB stellar immortality track 1_587.wav
+#WAVGC stellar immortality track 1_588.wav
+#WAVGD stellar immortality track 1_589.wav
+#WAVGE stellar immortality track 1_590.wav
+#WAVGF stellar immortality track 1_591.wav
+#WAVGG stellar immortality track 1_592.wav
+#WAVGH stellar immortality track 1_593.wav
+#WAVGI stellar immortality track 1_594.wav
+#WAVGJ stellar immortality track 1_595.wav
+#WAVGK stellar immortality track 1_596.wav
+#WAVGL stellar immortality track 1_597.wav
+#WAVGM stellar immortality track 1_598.wav
+#WAVGN stellar immortality track 1_599.wav
+#WAVGO stellar immortality track 1_600.wav
+#WAVGP stellar immortality track 1_601.wav
+#WAVGQ stellar immortality track 1_602.wav
+#WAVGR stellar immortality track 1_603.wav
+#WAVGS stellar immortality track 1_604.wav
+#WAVGT stellar immortality track 1_605.wav
+#WAVGU stellar immortality track 1_606.wav
+#WAVGV stellar immortality track 1_607.wav
+#WAVGW stellar immortality track 1_608.wav
+#WAVGX stellar immortality track 1_609.wav
+#WAVGY stellar immortality track 1_610.wav
+#WAVGZ stellar immortality track 1_611.wav
+#WAVH0 stellar immortality track 1_612.wav
+#WAVH1 stellar immortality track 1_613.wav
+#WAVH2 stellar immortality track 1_614.wav
+#WAVH3 stellar immortality track 1_615.wav
+#WAVH4 stellar immortality track 1_616.wav
+#WAVH5 stellar immortality track 1_617.wav
+#WAVH6 stellar immortality track 1_618.wav
+#WAVH7 stellar immortality track 1_619.wav
+#WAVH8 stellar immortality track 1_620.wav
+#WAVH9 stellar immortality track 1_621.wav
+#WAVHA stellar immortality track 1_622.wav
+#WAVHB stellar immortality track 1_623.wav
+#WAVHC stellar immortality track 1_624.wav
+#WAVHD stellar immortality track 1_625.wav
+#WAVHE stellar immortality track 1_626.wav
+#WAVHF stellar immortality track 1_627.wav
+#WAVHG stellar immortality track 1_628.wav
+#WAVHH stellar immortality track 1_629.wav
+#WAVHI stellar immortality track 1_630.wav
+#WAVHJ stellar immortality track 1_631.wav
+#WAVHK stellar immortality track 1_632.wav
+#WAVHL stellar immortality track 1_633.wav
+#WAVHM stellar immortality track 1_634.wav
+#WAVHN stellar immortality track 1_635.wav
+#WAVHO stellar immortality track 1_636.wav
+#WAVHP stellar immortality track 1_637.wav
+#WAVHQ stellar immortality track 1_638.wav
+#WAVHR stellar immortality track 1_639.wav
+#WAVHS stellar immortality track 1_640.wav
+#WAVHT stellar immortality track 1_641.wav
+#WAVHU stellar immortality track 1_642.wav
+#WAVHV stellar immortality track 1_643.wav
+#WAVHW stellar immortality track 1_644.wav
+#WAVHX stellar immortality track 1_645.wav
+#WAVHY stellar immortality track 1_646.wav
+#WAVHZ stellar immortality track 1_647.wav
+#WAVI0 stellar immortality track 1_648.wav
+#WAVI1 stellar immortality track 1_649.wav
+#WAVI2 stellar immortality track 1_650.wav
+#WAVI3 stellar immortality track 1_651.wav
+#WAVI4 stellar immortality track 1_652.wav
+#WAVI5 stellar immortality track 1_653.wav
+#WAVI6 stellar immortality track 1_654.wav
+#WAVI7 stellar immortality track 1_655.wav
+#WAVI8 stellar immortality track 1_656.wav
+#WAVI9 stellar immortality track 1_657.wav
+#WAVIA stellar immortality track 1_658.wav
+#WAVIB stellar immortality track 1_659.wav
+#WAVIC stellar immortality track 1_660.wav
+#WAVID stellar immortality track 1_661.wav
+#WAVIE stellar immortality track 1_662.wav
+#WAVIF stellar immortality track 1_663.wav
+#WAVIG stellar immortality track 1_664.wav
+#WAVIH stellar immortality track 1_665.wav
+#WAVII stellar immortality track 1_666.wav
+#WAVIJ stellar immortality track 1_667.wav
+#WAVIK stellar immortality track 1_668.wav
+#WAVIL stellar immortality track 1_669.wav
+#WAVIM stellar immortality track 1_670.wav
+#WAVIN stellar immortality track 1_671.wav
+#WAVIO stellar immortality track 1_672.wav
+#WAVIP stellar immortality track 1_673.wav
+#WAVIQ stellar immortality track 1_674.wav
+#WAVIR stellar immortality track 1_675.wav
+#WAVIS stellar immortality track 1_676.wav
+#WAVIT stellar immortality track 1_677.wav
+#WAVIU stellar immortality track 1_678.wav
+#WAVIV stellar immortality track 1_679.wav
+#WAVIW stellar immortality track 1_680.wav
+#WAVIX stellar immortality track 1_681.wav
+#WAVIY stellar immortality track 1_682.wav
+#WAVIZ stellar immortality track 1_683.wav
+#WAVJ0 stellar immortality track 1_684.wav
+#WAVJ1 stellar immortality track 1_685.wav
+#WAVJ2 stellar immortality track 1_686.wav
+#WAVJ3 stellar immortality track 1_687.wav
+#WAVJ4 stellar immortality track 1_688.wav
+#WAVJ5 stellar immortality track 1_689.wav
+#WAVJ6 stellar immortality track 1_690.wav
+#WAVJ7 stellar immortality track 1_691.wav
+#WAVJ8 stellar immortality track 1_692.wav
+#WAVJ9 stellar immortality track 1_693.wav
+#WAVJA stellar immortality track 1_694.wav
+#WAVJB stellar immortality track 1_695.wav
+#WAVJC stellar immortality track 1_696.wav
+#WAVJD stellar immortality track 1_697.wav
+#WAVJE stellar immortality track 1_698.wav
+#WAVJF stellar immortality track 1_699.wav
+#WAVJG stellar immortality track 1_700.wav
+#WAVJH stellar immortality track 1_701.wav
+#WAVJI stellar immortality track 1_702.wav
+#WAVJJ stellar immortality track 1_703.wav
+#WAVJK stellar immortality track 1_704.wav
+#WAVJL stellar immortality track 1_705.wav
+#WAVJM stellar immortality track 1_706.wav
+#WAVJN stellar immortality track 1_707.wav
+#WAVJO stellar immortality track 1_708.wav
+#WAVJP stellar immortality track 1_709.wav
+#WAVJQ stellar immortality track 1_710.wav
+#WAVJR stellar immortality track 1_711.wav
+#WAVJS stellar immortality track 1_712.wav
+#WAVJT stellar immortality track 1_713.wav
+#WAVJU stellar immortality track 1_714.wav
+#WAVJV stellar immortality track 1_715.wav
+#WAVJW stellar immortality track 1_716.wav
+#WAVJX stellar immortality track 1_717.wav
+#WAVJY stellar immortality track 1_718.wav
+#WAVJZ stellar immortality track 1_719.wav
+#WAVK0 stellar immortality track 1_720.wav
+#WAVK1 stellar immortality track 1_721.wav
+#WAVK2 stellar immortality track 1_722.wav
+#WAVK3 stellar immortality track 1_723.wav
+#WAVK4 stellar immortality track 1_724.wav
+#WAVK5 stellar immortality track 1_725.wav
+#WAVK6 stellar immortality track 1_726.wav
+#WAVK7 stellar immortality track 1_727.wav
+#WAVK8 stellar immortality track 1_728.wav
+#WAVK9 stellar immortality track 1_729.wav
+#WAVKA stellar immortality track 1_730.wav
+#WAVKB stellar immortality track 1_731.wav
+#WAVKC stellar immortality track 1_732.wav
+#WAVKD stellar immortality track 1_733.wav
+#WAVKE stellar immortality track 1_734.wav
+#WAVKF stellar immortality track 1_735.wav
+#WAVKG stellar immortality track 1_736.wav
+#WAVKH stellar immortality track 3_011.wav
+#WAVKI stellar immortality track 2_001.wav
+#WAVKJ stellar immortality track 2_002.wav
+#WAVKK stellar immortality track 2_003.wav
+#WAVKL stellar immortality track 2_004.wav
+#WAVKM stellar immortality track 2_005.wav
+#WAVKN stellar immortality track 2_006.wav
+#WAVKO stellar immortality track 2_007.wav
+#WAVKP stellar immortality track 2_008.wav
+#WAVKQ stellar immortality track 2_009.wav
+#WAVKR stellar immortality track 2_010.wav
+#WAVKS stellar immortality track 2_011.wav
+#WAVKT stellar immortality track 2_012.wav
+#WAVKU stellar immortality track 2_013.wav
+#WAVKV stellar immortality track 2_014.wav
+#WAVKW stellar immortality track 2_015.wav
+#WAVKX stellar immortality track 2_016.wav
+#WAVKY stellar immortality track 2_017.wav
+#WAVKZ stellar immortality track 2_018.wav
+#WAVL0 stellar immortality track 2_019.wav
+#WAVL1 stellar immortality track 2_020.wav
+#WAVL2 stellar immortality track 2_021.wav
+#WAVL3 stellar immortality track 2_022.wav
+#WAVL4 stellar immortality track 2_023.wav
+#WAVL5 stellar immortality track 2_024.wav
+#WAVL6 stellar immortality track 2_025.wav
+#WAVL7 stellar immortality track 2_026.wav
+#WAVL8 stellar immortality track 2_027.wav
+#WAVL9 stellar immortality track 2_028.wav
+#WAVLA stellar immortality track 2_029.wav
+#WAVLB stellar immortality track 2_030.wav
+#WAVLC stellar immortality track 2_031.wav
+#WAVLD stellar immortality track 2_032.wav
+#WAVLE stellar immortality track 2_033.wav
+#WAVLF stellar immortality track 2_034.wav
+#WAVLG stellar immortality track 2_035.wav
+#WAVLH stellar immortality track 2_036.wav
+#WAVLI stellar immortality track 2_037.wav
+#WAVLJ stellar immortality track 2_038.wav
+#WAVLK stellar immortality track 2_039.wav
+#WAVLL stellar immortality track 2_040.wav
+#WAVLM stellar immortality track 2_041.wav
+#WAVLN stellar immortality track 2_042.wav
+#WAVLO stellar immortality track 2_043.wav
+#WAVLP stellar immortality track 2_044.wav
+#WAVLQ stellar immortality track 2_045.wav
+#WAVLR stellar immortality track 2_046.wav
+#WAVLS stellar immortality track 2_047.wav
+#WAVLT stellar immortality track 2_048.wav
+#WAVLU stellar immortality track 2_049.wav
+#WAVLV stellar immortality track 2_050.wav
+#WAVLW stellar immortality track 2_051.wav
+#WAVLX stellar immortality track 2_052.wav
+#WAVLY stellar immortality track 2_053.wav
+#WAVLZ stellar immortality track 2_054.wav
+#WAVM0 stellar immortality track 2_055.wav
+#WAVM1 stellar immortality track 2_056.wav
+#WAVM2 stellar immortality track 2_057.wav
+#WAVM3 stellar immortality track 2_058.wav
+#WAVM4 stellar immortality track 2_059.wav
+#WAVM5 stellar immortality track 2_060.wav
+#WAVM6 stellar immortality track 2_061.wav
+#WAVM7 stellar immortality track 2_062.wav
+#WAVM8 stellar immortality track 2_063.wav
+#WAVM9 stellar immortality track 2_064.wav
+#WAVMA stellar immortality track 2_065.wav
+#WAVMB stellar immortality track 2_066.wav
+#WAVMC stellar immortality track 2_067.wav
+#WAVMD stellar immortality track 2_068.wav
+#WAVME stellar immortality track 2_069.wav
+#WAVMF stellar immortality track 2_070.wav
+#WAVMG stellar immortality track 2_071.wav
+#WAVMH stellar immortality track 2_072.wav
+#WAVMI stellar immortality track 2_073.wav
+#WAVMJ stellar immortality track 2_074.wav
+#WAVMK stellar immortality track 2_075.wav
+#WAVML stellar immortality track 2_076.wav
+#WAVMM stellar immortality track 2_077.wav
+#WAVMN stellar immortality track 2_078.wav
+#WAVMO stellar immortality track 2_079.wav
+#WAVMP stellar immortality track 2_080.wav
+#WAVMQ stellar immortality track 2_081.wav
+#WAVMR stellar immortality track 2_082.wav
+#WAVMS stellar immortality track 2_083.wav
+#WAVMT stellar immortality track 2_084.wav
+#WAVMU stellar immortality track 2_085.wav
+#WAVMV stellar immortality track 2_086.wav
+#WAVMW stellar immortality track 2_087.wav
+#WAVMX stellar immortality track 2_088.wav
+#WAVMY stellar immortality track 2_089.wav
+#WAVMZ stellar immortality track 2_090.wav
+#WAVN0 stellar immortality track 2_091.wav
+#WAVN1 stellar immortality track 2_092.wav
+#WAVN2 stellar immortality track 2_093.wav
+#WAVN3 stellar immortality track 2_094.wav
+#WAVN4 stellar immortality track 2_095.wav
+#WAVN5 stellar immortality track 2_096.wav
+#WAVN6 stellar immortality track 2_097.wav
+#WAVN7 stellar immortality track 2_098.wav
+#WAVN8 stellar immortality track 2_099.wav
+#WAVN9 stellar immortality track 2_100.wav
+#WAVNA stellar immortality track 2_101.wav
+#WAVNB stellar immortality track 2_102.wav
+#WAVNC stellar immortality track 2_103.wav
+#WAVND stellar immortality track 2_104.wav
+#WAVNE stellar immortality track 2_105.wav
+#WAVNF stellar immortality track 2_106.wav
+#WAVNG stellar immortality track 2_107.wav
+#WAVNH stellar immortality track 2_108.wav
+#WAVNI stellar immortality track 2_109.wav
+#WAVNJ stellar immortality track 2_110.wav
+#WAVNK stellar immortality track 2_111.wav
+#WAVNL stellar immortality track 2_112.wav
+#WAVNM stellar immortality track 2_113.wav
+#WAVNN stellar immortality track 2_114.wav
+#WAVNO stellar immortality track 2_115.wav
+#WAVNP stellar immortality track 2_116.wav
+#WAVNQ stellar immortality track 2_117.wav
+#WAVNR stellar immortality track 2_118.wav
+#WAVNS stellar immortality track 2_119.wav
+#WAVNT stellar immortality track 2_120.wav
+#WAVNU stellar immortality track 2_121.wav
+#WAVNV stellar immortality track 2_122.wav
+#WAVNW stellar immortality track 2_123.wav
+#WAVNX stellar immortality track 2_124.wav
+#WAVNY stellar immortality track 2_125.wav
+#WAVNZ stellar immortality track 2_126.wav
+#WAVO0 stellar immortality track 2_127.wav
+#WAVO1 stellar immortality track 2_128.wav
+#WAVO2 stellar immortality track 2_129.wav
+#WAVO3 stellar immortality track 2_130.wav
+#WAVO4 stellar immortality track 2_131.wav
+#WAVO5 stellar immortality track 2_132.wav
+#WAVO6 stellar immortality track 2_133.wav
+#WAVO7 stellar immortality track 2_134.wav
+#WAVO8 stellar immortality track 2_135.wav
+#WAVO9 stellar immortality track 2_136.wav
+#WAVOA stellar immortality track 2_137.wav
+#WAVOB stellar immortality track 2_138.wav
+#WAVOC stellar immortality track 2_139.wav
+#WAVOD stellar immortality track 2_140.wav
+#WAVOE stellar immortality track 2_141.wav
+#WAVOF stellar immortality track 2_142.wav
+#WAVOG stellar immortality track 2_143.wav
+#WAVOH stellar immortality track 2_144.wav
+#WAVOI stellar immortality track 2_145.wav
+#WAVOJ stellar immortality track 2_146.wav
+#WAVOK stellar immortality track 2_147.wav
+#WAVOL stellar immortality track 2_148.wav
+#WAVOM stellar immortality track 2_149.wav
+#WAVON stellar immortality track 2_150.wav
+#WAVOO stellar immortality track 2_151.wav
+#WAVOP stellar immortality track 2_152.wav
+#WAVOQ stellar immortality track 2_153.wav
+#WAVOR stellar immortality track 2_154.wav
+#WAVOS stellar immortality track 2_155.wav
+#WAVOT stellar immortality track 2_156.wav
+#WAVOU stellar immortality track 2_157.wav
+#WAVOV stellar immortality track 2_158.wav
+#WAVOW stellar immortality track 2_159.wav
+#WAVOX stellar immortality track 2_160.wav
+#WAVOY stellar immortality track 2 - Corr2_001.wav
+#WAVOZ stellar immortality track 2 - Corr2_002.wav
+#WAVP0 stellar immortality track 2 - Corr2_003.wav
+#WAVP1 stellar immortality track 2 - Corr2_004.wav
+#WAVP2 stellar immortality track 2 - Corr2_005.wav
+#WAVP3 stellar immortality track 2 - Corr2_006.wav
+#WAVP4 stellar immortality track 2 - Corr2_007.wav
+#WAVP5 stellar immortality track 2 - Corr2_008.wav
+#WAVP6 stellar immortality track 2 - Corr2_009.wav
+#WAVP7 stellar immortality track 2 - Corr2_010.wav
+#WAVP8 stellar immortality track 2 - Corr2_011.wav
+#WAVP9 stellar immortality track 2 - Corr2_012.wav
+#WAVPA stellar immortality track 2 - Corr2_013.wav
+#WAVPB stellar immortality track 2 - Corr2_014.wav
+#WAVPC stellar immortality track 2 - Corr2_015.wav
+#WAVPD stellar immortality track 2 - Corr2_016.wav
+#WAVPE stellar immortality track 2 - Corr2_017.wav
+#WAVPF stellar immortality track 2 - Corr2_018.wav
+#WAVPG stellar immortality track 2 - Corr2_019.wav
+#WAVPH stellar immortality track 2 - Corr2_020.wav
+#WAVPI stellar immortality track 2 - Corr2_021.wav
+#WAVPJ stellar immortality track 2 - Corr2_022.wav
+#WAVPK stellar immortality track 2 - Corr2_023.wav
+#WAVPL stellar immortality track 2 - Corr2_024.wav
+#WAVPM stellar immortality track 2 - Corr2_025.wav
+#WAVPN stellar immortality track 2 - Corr2_026.wav
+#WAVPO stellar immortality track 2 - Corr2_027.wav
+#WAVPP stellar immortality track 2 - Corr2_028.wav
+#WAVPQ stellar immortality track 2 - Corr2_029.wav
+#WAVPR stellar immortality track 2 - Corr2_030.wav
+#WAVPS stellar immortality track 2 - Corr2_031.wav
+#WAVPT stellar immortality track 2 - Corr2_032.wav
+#WAVPU stellar immortality track 2 - Corr2_033.wav
+#WAVPV stellar immortality track 2 - Corr2_034.wav
+#WAVPW stellar immortality track 2 - Corr2_035.wav
+#WAVPX stellar immortality track 2 - Corr2_036.wav
+#WAVPY stellar immortality track 2 - Corr2_037.wav
+#WAVPZ stellar immortality track 2 - Corr2_038.wav
+#WAVQ0 stellar immortality track 2 - Corr2_039.wav
+#WAVQ1 stellar immortality track 2 - Corr2_040.wav
+#WAVQ2 stellar immortality track 2 - Corr2_041.wav
+#WAVQ3 stellar immortality track 2 - Corr2_042.wav
+#WAVQ4 stellar immortality track 2 - Corr2_043.wav
+#WAVQ5 stellar immortality track 2 - Corr2_044.wav
+#WAVQ6 stellar immortality track 2 - Corr2_045.wav
+#WAVQ7 stellar immortality track 2 - Corr2_046.wav
+#WAVQ8 stellar immortality track 2 - Corr2_047.wav
+#WAVQ9 stellar immortality track 2 - Corr2_048.wav
+#WAVQQ stellar immortality track 2_225.wav
+#WAVQR stellar immortality track 2_226.wav
+#WAVQS stellar immortality track 2_227.wav
+#WAVQT stellar immortality track 2_228.wav
+#WAVQU stellar immortality track 2_229.wav
+#WAVQV stellar immortality track 2_230.wav
+#WAVQW stellar immortality track 2_231.wav
+#WAVQX stellar immortality track 2_232.wav
+#WAVQY stellar immortality track 2_233.wav
+#WAVQZ stellar immortality track 2_234.wav
+#WAVR0 stellar immortality track 2_235.wav
+#WAVR1 stellar immortality track 2_236.wav
+#WAVR2 stellar immortality track 2_237.wav
+#WAVR3 stellar immortality track 2_238.wav
+#WAVR4 stellar immortality track 2_239.wav
+#WAVR5 stellar immortality track 2_240.wav
+#WAVR6 stellar immortality track 2_241.wav
+#WAVR7 stellar immortality track 2_242.wav
+#WAVR8 stellar immortality track 2_243.wav
+#WAVR9 stellar immortality track 2_244.wav
+#WAVRA stellar immortality track 2_245.wav
+#WAVRB stellar immortality track 2_246.wav
+#WAVRC stellar immortality track 2_247.wav
+#WAVRD stellar immortality track 2_248.wav
+#WAVRE stellar immortality track 2_249.wav
+#WAVRF stellar immortality track 2_250.wav
+#WAVRG stellar immortality track 2_251.wav
+#WAVRH stellar immortality track 2_252.wav
+#WAVRI stellar immortality track 2_253.wav
+#WAVRJ stellar immortality track 2_254.wav
+#WAVRK stellar immortality track 2_255.wav
+#WAVRL stellar immortality track 2_256.wav
+#WAVRM stellar immortality track 2_257.wav
+#WAVRN stellar immortality track 2_258.wav
+#WAVRO stellar immortality track 2_259.wav
+#WAVRP stellar immortality track 2_260.wav
+#WAVRQ stellar immortality track 2_261.wav
+#WAVRR stellar immortality track 2_262.wav
+#WAVRS stellar immortality track 2_263.wav
+#WAVRT stellar immortality track 2_264.wav
+#WAVRU stellar immortality track 2_265.wav
+#WAVRV stellar immortality track 2_266.wav
+#WAVRW stellar immortality track 2_267.wav
+#WAVRX stellar immortality track 2_268.wav
+#WAVRY stellar immortality track 2_269.wav
+#WAVRZ stellar immortality track 2_270.wav
+#WAVS0 stellar immortality track 2_271.wav
+#WAVS1 stellar immortality track 2_272.wav
+#WAVS2 stellar immortality track 2_273.wav
+#WAVS3 stellar immortality track 2_274.wav
+#WAVS4 stellar immortality track 2_275.wav
+#WAVS5 stellar immortality track 2_276.wav
+#WAVS6 stellar immortality track 2_277.wav
+#WAVS7 stellar immortality track 2_278.wav
+#WAVS8 stellar immortality track 2_279.wav
+#WAVS9 stellar immortality track 2_280.wav
+#WAVSB stellar immortality track 2_282.wav
+#WAVSC stellar immortality track 2_283.wav
+#WAVSD stellar immortality track 2_284.wav
+#WAVSE stellar immortality track 2_285.wav
+#WAVSF stellar immortality track 2_286.wav
+#WAVSG stellar immortality track 2_287.wav
+#WAVSH stellar immortality track 2_288.wav
+#WAVSI stellar immortality track 2_289.wav
+#WAVSJ stellar immortality track 2_290.wav
+#WAVSK stellar immortality track 2_291.wav
+#WAVSL stellar immortality track 2_292.wav
+#WAVSM stellar immortality track 2_293.wav
+#WAVSN stellar immortality track 2_294.wav
+#WAVSO stellar immortality track 2_295.wav
+#WAVSP stellar immortality track 2_296.wav
+#WAVSQ stellar immortality track 2_297.wav
+#WAVSR stellar immortality track 2_298.wav
+#WAVSS stellar immortality track 2_299.wav
+#WAVST stellar immortality track 2_300.wav
+#WAVSU stellar immortality track 2_301.wav
+#WAVSV stellar immortality track 2_302.wav
+#WAVSW stellar immortality track 2_303.wav
+#WAVSX stellar immortality track 2_304.wav
+#WAVSY stellar immortality track 2_305.wav
+#WAVSZ stellar immortality track 2_306.wav
+#WAVT8 stellar immortality track 2_315.wav
+#WAVT9 stellar immortality track 2_316.wav
+#WAVTA stellar immortality track 2_317.wav
+#WAVTB stellar immortality track 2_318.wav
+#WAVTC stellar immortality track 2_319.wav
+#WAVTD stellar immortality track 2_320.wav
+#WAVTE stellar immortality track 2_321.wav
+#WAVTF stellar immortality track 2_322.wav
+#WAVTG stellar immortality track 2_323.wav
+#WAVTH stellar immortality track 2_324.wav
+#WAVTI stellar immortality track 2_325.wav
+#WAVTJ stellar immortality track 2_326.wav
+#WAVTK stellar immortality track 2_327.wav
+#WAVTL stellar immortality track 2_328.wav
+#WAVTM stellar immortality track 2_329.wav
+#WAVTN stellar immortality track 2_330.wav
+#WAVTO stellar immortality track 2_331.wav
+#WAVTP stellar immortality track 2_332.wav
+#WAVTQ stellar immortality track 2_333.wav
+#WAVTR stellar immortality track 2_334.wav
+#WAVTS stellar immortality track 2_335.wav
+#WAVTT stellar immortality track 2_336.wav
+#WAVTU stellar immortality track 2_337.wav
+#WAVTV stellar immortality track 2_338.wav
+#WAVTW stellar immortality track 2_339.wav
+#WAVTX stellar immortality track 2_340.wav
+#WAVTY stellar immortality track 2_341_000.wav
+#WAVTZ stellar immortality track 2_342.wav
+#WAVU0 stellar immortality track 2_343.wav
+#WAVU1 stellar immortality track 2_344.wav
+#WAVU2 stellar immortality track 2_345.wav
+#WAVU3 stellar immortality track 2_346.wav
+#WAVU4 stellar immortality track 2_347.wav
+#WAVU5 stellar immortality track 2_348.wav
+#WAVU6 stellar immortality track 2_349.wav
+#WAVU7 stellar immortality track 2_350.wav
+#WAVU8 stellar immortality track 2_351.wav
+#WAVU9 stellar immortality track 2_352.wav
+#WAVUA stellar immortality track 2_353.wav
+#WAVUB stellar immortality track 2_354.wav
+#WAVUC stellar immortality track 2_355.wav
+#WAVUD stellar immortality track 2_356.wav
+#WAVUE stellar immortality track 2_357.wav
+#WAVUF stellar immortality track 2_358.wav
+#WAVUG stellar immortality track 2_359.wav
+#WAVUI stellar immortality track 2_379_000.wav
+#WAVUJ stellar immortality track 2_379_001.wav
+#WAVUM stellar immortality track 2_365.wav
+#WAVUN stellar immortality track 2_366.wav
+#WAVUO stellar immortality track 2_367.wav
+#WAVUP stellar immortality track 2_368.wav
+#WAVUQ stellar immortality track 2_369.wav
+#WAVUR stellar immortality track 2_370.wav
+#WAVUS stellar immortality track 2_371.wav
+#WAVUT stellar immortality track 2_372.wav
+#WAVUU stellar immortality track 2_373.wav
+#WAVUV stellar immortality track 2_375_000.wav
+#WAVUW stellar immortality track 2_375_001.wav
+#WAVUX stellar immortality track 2_376.wav
+#WAVUY stellar immortality track 2_377.wav
+#WAVUZ stellar immortality track 2_378.wav
+#WAVV1 stellar immortality track 2_380.wav
+#WAVV2 stellar immortality track 2_381.wav
+#WAVV3 stellar immortality track 2_382.wav
+#WAVV4 stellar immortality track 2_383.wav
+#WAVV5 stellar immortality track 2_384.wav
+#WAVV6 stellar immortality track 2_385.wav
+#WAVV7 stellar immortality track 2_386.wav
+#WAVV8 stellar immortality track 2_387.wav
+#WAVV9 stellar immortality track 2_388.wav
+#WAVVA stellar immortality track 2_389.wav
+#WAVVB stellar immortality track 2_390.wav
+#WAVVC stellar immortality track 2_391.wav
+#WAVVD stellar immortality track 2_392.wav
+#WAVVE stellar immortality track 2_393.wav
+#WAVVF stellar immortality track 2_394.wav
+#WAVVG stellar immortality track 2_395.wav
+#WAVVH stellar immortality track 2_396.wav
+#WAVVI stellar immortality track 2_397.wav
+#WAVVJ stellar immortality track 2_398.wav
+#WAVVK stellar immortality track 2_399.wav
+#WAVVL stellar immortality track 2_400.wav
+#WAVVM stellar immortality track 2_401.wav
+#WAVVN stellar immortality track 2_402.wav
+#WAVVO stellar immortality track 2_403.wav
+#WAVVP stellar immortality track 2_404.wav
+#WAVVQ stellar immortality track 2_405.wav
+#WAVVR stellar immortality track 2_406.wav
+#WAVVS stellar immortality track 2_407.wav
+#WAVVT stellar immortality track 2_408.wav
+#WAVVU stellar immortality track 2_409.wav
+#WAVVV stellar immortality track 2_410.wav
+#WAVVW stellar immortality track 2_411.wav
+#WAVVX stellar immortality track 2_412.wav
+#WAVVY stellar immortality track 2_413.wav
+#WAVVZ stellar immortality track 2_414.wav
+#WAVW0 stellar immortality track 2_415.wav
+#WAVW1 stellar immortality track 2_416.wav
+#WAVW2 stellar immortality track 2_417.wav
+#WAVW3 stellar immortality track 2_418.wav
+#WAVW4 stellar immortality track 2_419.wav
+#WAVW5 stellar immortality track 2_420.wav
+#WAVW6 stellar immortality track 2_421.wav
+#WAVW7 stellar immortality track 2_422.wav
+#WAVW8 stellar immortality track 2_423.wav
+#WAVW9 stellar immortality track 2_424.wav
+#WAVWA stellar immortality track 2_425.wav
+#WAVWB stellar immortality track 2_426.wav
+#WAVWC stellar immortality track 2_427.wav
+#WAVWD stellar immortality track 2_428.wav
+#WAVWE stellar immortality track 2_429.wav
+#WAVWF stellar immortality track 2_430.wav
+#WAVWG stellar immortality track 2_431.wav
+#WAVWH stellar immortality track 2_432.wav
+#WAVWI stellar immortality track 2_433.wav
+#WAVWJ stellar immortality track 2_434.wav
+#WAVWK stellar immortality track 3 correction_009.wav
+#WAVWL stellar immortality track 3 correction_010.wav
+#WAVWM stellar immortality track 3 correction_011.wav
+#WAVWN stellar immortality track 3 correction_012.wav
+#WAVWO stellar immortality track 3 correction_013.wav
+#WAVWP stellar immortality track 3 correction_014.wav
+#WAVWQ stellar immortality track 3 correction_015.wav
+#WAVWR stellar immortality track 3 correction_016.wav
+#WAVWS stellar immortality track 3 correction_017.wav
+#WAVWT stellar immortality track 3 correction_018.wav
+#WAVWU stellar immortality track 3 correction_019.wav
+#WAVWV stellar immortality track 3 correction_020.wav
+#WAVWW stellar immortality track 3 correction_021.wav
+#WAVWX stellar immortality track 3 correction_022.wav
+#WAVWY stellar immortality track 3 correction_023.wav
+#WAVWZ stellar immortality track 3 correction_024.wav
+#WAVX0 stellar immortality track 3 correction_025.wav
+#WAVX1 stellar immortality track 3 correction_026.wav
+#WAVX2 stellar immortality track 3 correction_027.wav
+#WAVX3 stellar immortality track 2_454.wav
+#WAVX4 stellar immortality track 3 correction_028.wav
+#WAVX5 stellar immortality track 3 correction_029.wav
+#WAVX6 stellar immortality track 3 correction_030.wav
+#WAVX7 stellar immortality track 3_042.wav
+#WAVX8 stellar immortality track 3_043.wav
+#WAVX9 stellar immortality track 3_044.wav
+#WAVXA stellar immortality track 3_045.wav
+#WAVXB stellar immortality track 3_046.wav
+#WAVXC stellar immortality track 3_047.wav
+#WAVXD stellar immortality track 3_048.wav
+#WAVXE stellar immortality track 3_049.wav
+#WAVXF stellar immortality track 3_050.wav
+#WAVXG stellar immortality track 3_051.wav
+#WAVXH stellar immortality track 3_052.wav
+#WAVXI stellar immortality track 3_053.wav
+#WAVXJ stellar immortality track 3_054.wav
+#WAVXK stellar immortality track 3_055.wav
+#WAVXL stellar immortality track 3_056.wav
+#WAVXM stellar immortality track 3_057.wav
+#WAVXN stellar immortality track 3 correction_031.wav
+#WAVXO stellar immortality track 3 correction_032.wav
+#WAVXP stellar immortality track 3 correction_033.wav
+#WAVXQ stellar immortality track 3 correction_034.wav
+#WAVXR stellar immortality track 3 correction_035.wav
+#WAVXS stellar immortality track 3 correction_036.wav
+#WAVXT stellar immortality track 3 correction_037.wav
+#WAVXU stellar immortality track 3 correction_038.wav
+#WAVXV stellar immortality track 3 correction_039.wav
+#WAVXW stellar immortality track 3 correction_040.wav
+#WAVXX stellar immortality hard cymbal normal.wav
+#WAVXY stellar immortality hard cymbal softer.wav
+#WAVXZ stellar immortality hard cymbal strong.wav
+#WAVY0 stellar immortality kick.wav
+#WAVY1 stellar immortality percussion hit long.wav
+#WAVY2 stellar immortality percussion hit normal.wav
+#WAVY3 stellar immortality percussion hit short.wav
+#WAVY4 stellar immortality quick snare normal.wav
+#WAVY5 stellar immortality snare chorus.wav
+#WAVY6 stellar immortality snare dense 3-4 time sig.wav
+#WAVY7 stellar immortality snare dense.wav
+#WAVY8 stellar immortality snare normal but softer.wav
+#WAVY9 stellar immortality snare normal.wav
+#WAVYA stellar immortality snare soft.wav
+#WAVYB stellar immortality snare softer.wav
+#WAVYC stellar immortality swipe cymbal normal.wav
+#WAVYD stellar immortality swipe cymbal soft.wav
+#WAVYE stellar immortality Timpani 1 4-hits.wav
+#WAVYF stellar immortality Timpani 1 dense.wav
+#WAVYG stellar immortality Timpani 1 normal.wav
+#WAVYH stellar immortality Timpani 1 strong.wav
+#WAVYI stellar immortality percussion track_000.wav
+#WAVYJ stellar immortality percussion track_001.wav
+#WAVYK stellar immortality percussion track_002.wav
+#WAVYL stellar immortality percussion track_003.wav
+#WAVYM stellar immortality percussion track_004.wav
+#WAVYN stellar immortality percussion track_005.wav
+#WAVYO stellar immortality percussion track_006.wav
+#WAVYP stellar immortality percussion track_007.wav
+#WAVYQ stellar immortality percussion track_008.wav
+#WAVYR stellar immortality percussion track_009.wav
+#WAVYS stellar immortality percussion track_010.wav
+#WAVYT stellar immortality percussion track_011.wav
+#WAVYU stellar immortality percussion track_012.wav
+#WAVYV stellar immortality percussion track_013.wav
+#WAVYW stellar immortality percussion track_014.wav
+#WAVYX stellar immortality percussion track_015.wav
+#WAVYY stellar immortality percussion track_016.wav
+#WAVYZ stellar immortality percussion track_017.wav
+#WAVZ0 stellar immortality percussion track_018.wav
+#WAVZ1 stellar immortality percussion track_019.wav
+#WAVZ2 stellar immortality percussion track_020.wav
+#WAVZ3 stellar immortality percussion track_021.wav
+#WAVZ4 stellar immortality piano chord at 51 (2).wav
+#WAVZ5 stellar immortality percussion track_023.wav
+#WAVZ6 stellar immortality percussion track_024.wav
+#WAVZ7 stellar immortality percussion track_025.wav
+#WAVZ8 stellar immortality percussion track_026.wav
+#WAVZ9 stellar immortality percussion track_027.wav
+#WAVZA stellar immortality percussion track_028.wav
+#WAVZB stellar immortality percussion track_029.wav
+#WAVZC stellar immortality percussion track_030.wav
+#WAVZD stellar immortality percussion track_031.wav
+#WAVZE stellar immortality percussion track_032.wav
+#WAVZF stellar immortality piano chord at 51 (3).wav
+#WAVZG stellar immortality piano chord at 51 (4).wav
+#WAVZH stellar immortality percussion track_035.wav
+#WAVZI stellar immortality percussion track_036.wav
+#WAVZJ stellar immortality percussion track_037.wav
+#WAVZK stellar immortality percussion track_038.wav
+#WAVZL stellar immortality percussion track_039.wav
+#WAVZM stellar immortality percussion track_040.wav
+#WAVZN stellar immortality percussion track_041.wav
+#WAVZO stellar immortality percussion track_042.wav
+#WAVZP stellar immortality percussion track_043.wav
+#WAVZQ stellar immortality percussion track_044.wav
+#WAVZR stellar immortality percussion track_045.wav
+#WAVZS stellar immortality track 2_341_001.wav
+#WAVZT stellar immortality track 2 - Corr_002.wav
+#WAVZU stellar immortality track 2 - Corr_003.wav
+#WAVZV stellar immortality track 2 - Corr_004.wav
+#WAVZX main1.wav
+#WAVZY main2.wav
+#WAVZZ main3.wav
+
+
+
+*---------------------- MAIN DATA FIELD
+
+
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:00
+#00001:0093
+#00001:00
+#00001:00
+#00001:ZX
+
+#00101:00
+#00101:00
+#00101:00
+#00101:00
+#00101:00
+#00101:YG
+#00111:9498
+#00112:0000000000990000
+#00113:0095000005009A00
+#00114:01960007
+#00115:000200000006009B
+#00116:XX
+#00118:0000009700000000
+#00119:0000030400000008
+
+#00211:WKWO
+#00212:00WL000000WP0000
+#00213:000A00000D000000
+#00214:09WM00WQ
+#00215:000000WN000E00WR
+#00216:Y7
+#00218:000B000F
+#00219:0000000C0000000G
+
+#00301:00
+#00301:00
+#00301:00
+#00301:00000000000000000000000000KS0000
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:00
+#00301:000000WV00000000
+#00301:00
+#00301:0000000J000000000000000000000000
+#00311:YH0000000K0000KM0000KP0000000000
+#00312:00WT00KLWW00WY00
+#00313:WS00000000000000WU00000000000000000000000000KQ0000000000KT0000ZW
+#00314:00000I0000KK0000KN00000000Y400KU
+#00315:000000000000KI000000000000000000000000000L000000KR00000000ZW0000
+#00316:Y3
+#00318:0H00KJ00KNWX00WZ
+#00319:000000000000000000KO0000KR0000KU
+
+#00401:00
+#00401:00
+#00401:00
+#00401:00
+#00401:00000000000000000000000000KW0000
+#00411:0000000N00000000
+#00412:0M000000000000000000000000000000000000000O000000KV000000KX0000ZW
+#00413:0000000000000N000000000000Y4000T
+#00414:0M00000000000000000000000000000000000000000000000000000000ZW0000
+#00415:0000000000000N000000000P00000S00
+#00416:0M0000Y900000000
+#00418:0M0000000000000000000000000R0000
+#00419:0000000000000N00000000000Q0000KY
+
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:00
+#00501:0U
+#00511:YG00X50W
+#00512:00L0000000000V000000L9000000XO00
+#00513:Y3000000X20000L600000000XN000000
+#00514:0000L1000000L500L70000LA0000XO00
+#00515:X00000L2000000000000X6000000XO00
+#00516:XX000000000000000000000000Y40000
+#00518:KZ000000L300X40000L800000W000000
+#00519:0000X10000L40000L70000000000XO00
+
+#00611:XP00000Y000Z0000
+#00612:00LC000000000000XT000000LN000000
+#00613:LB000000XR0000LI0000XU0000LO0000
+#00614:00XQ00XS00LL00XW
+#00615:0000LD0000LG0000LJ0000LM000000LQ
+#00618:0X0000LE00000000LJ000000XV000000
+#00619:0X000000LF00LH0000LK0000XV00LP00
+
+#00711:Y3000000110000000000001600000000
+#00712:0000000015000017
+#00713:10000000001200000000001600000000
+#00714:0000001315000017
+#00715:0000000015000017
+#00716:Y7000000000000001500001600001700
+#00718:10000000000000140000001600000000
+#00719:10000000000000001500001600001700
+
+#00811:18
+#00812:000000Y900000000
+#00813:18
+#00814:0000001900000000
+#00815:0000001900000000
+#00816:Y9
+#00818:18
+#00819:0000001900000000
+#00856:000000XY0000XY00
+
+#00911:Y9YAYAY9
+#00912:00YA000000YA00YA
+#00913:Y200000000YA00000000000000000000
+#00914:0000YA000000000000001B00000000YA
+#00915:Y20000Y9001B0000
+#00916:XX
+#00919:Y200001A001B001C
+
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:00
+#01001:000000000000000000000000000000ZV
+#01011:Y9YAYAYA
+#01012:0000YA0000YA0000YA00000000001H00
+#01013:00000000000000000000Y90000YA00YA
+#01014:00001D000000Y9000000000000ZT0000
+#01015:00001E00001G00YA
+#01018:Y90000Y91F009200
+#01019:Y9000000001G00ZU
+
+#01111:Y9YAYAY9
+#01112:00YA0000000000YA
+#01113:0000000000YA00000000YA00000000YA
+#01114:00YA0000YA00Y900
+#01115:000000Y900YA0000
+#01118:00000000YA00001K
+#01119:0000001I001J0000
+
+#01211:Y9YAYAYA
+#01212:00YA000000Y9001P
+#01213:0000000000YA000000001O0000YA00LU
+#01214:000000001N00LRLT
+#01215:Y9001MY9000000YA
+#01218:00001L00000000000000000000LS0000
+#01219:Y90000000000Y90000000000000000YA
+
+#01311:Y8YAYAY8
+#01312:Y8000000YA0000YA
+#01313:0000YA0000YA00000000YA00000000YA
+#01314:Y8000000YA00001S
+#01315:00YA00Y800000000
+#01318:Y8000000001R0000
+#01319:0000001Q00000000
+
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:00
+#01401:000000000000001X
+#01411:Y8YAYAYA
+#01412:00YA00001V000000
+#01413:0000000000YA00000000Y80000LW00YA
+#01414:000000Y8001WLVYA
+#01415:Y80000001U0000001V00000000YA0000
+#01418:001T00Y8001W00LX
+#01419:Y8000000000000001V000000LV0000LY
+
+#01511:Y8YAYAY8
+#01512:00YA000000YA00YA
+#01513:0000000000YA0000000000001Z000000
+#01514:00001Y00000000000000YA00000000YA
+#01515:001Y00Y8YA001Z00
+#01518:Y800YA00YAYA0020
+#01519:000000Y800001Z00
+
+#01601:000000Y4000000000000000000000000
+#01611:2100002200000000
+#01612:0000000000000000000000ZW0000000000000000000000000000000000000000
+#01613:2100000000ZW22000000000000000000
+#01614:000000000000000000ZW00002200000000000000000000000000000000000000
+#01615:21
+#01616:Y7
+#01618:0000002200000000
+#01619:21
+
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:00
+#01701:LZ
+#01701:0000002300000000
+#01711:Y0Y0Y0Y0
+#01712:0000YA0000YA0000YA0000MA00MC0000
+#01713:Y90000M200000000M700M900Y90000ME
+#01714:0000M100YA00Y90000M800000000YA00
+#01715:YG00M300M700MBMD
+#01716:XX
+#01718:00M0000000M400M600002400000000YA
+#01719:Y100M3M5M7YAMB25
+
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:00
+#01801:0000000000MK00000000000000000000
+#01811:Y0Y0Y0Y0
+#01812:Y9000000YA0000000000Y90000YA0000
+#01813:0000YA0000YA0000MN000000YA0000MU
+#01814:00MG0000MJ000000280000MQ0000MT00
+#01815:Y9MH00Y900MP00YA
+#01818:00002600270000MM00MO000000MS00YA
+#01819:MF0000MI0000ML00YA002900MR002A00
+
+#01911:Y0Y0Y0Y0
+#01912:00MX00Y900YA00YA
+#01913:00000000YA0000N200000000Y9002D00
+#01914:Y900YA0000YA00N200N400N6000000YA
+#01915:MV0000MY0000N1000000N50000N800NA
+#01918:00MW000000N00000YA000000N7000000
+#01919:00YAMZ2BN32C00N9
+
+#02001:000000Y000000000
+#02001:00
+#02001:00
+#02001:00
+#02001:00
+#02001:00
+#02001:00
+#02001:00
+#02001:00
+#02001:00
+#02001:00
+#02001:00
+#02001:000000000000000000NK00NM00000000
+#02011:Y000Y000Y000Y0Y0
+#02012:000000NE0000Y9000000NL0000NO002J
+#02013:0000ND00NF0000002G0000Y000002I00
+#02014:000000002E000000000000000000NI00000000002H000000NN000000NP0000ZW
+#02015:00NC000000NG0000NJ00Y00000Y400NQ
+#02016:Y7
+#02018:Y80000000000000000000000000000000000Y00000000000NN00000000ZW0000
+#02019:NBY02FNH00Y9002I
+
+#02101:00
+#02101:000000Y2
+#02101:000000000000000000O0000000000000
+#02101:00
+#02101:000000YF
+#02101:00
+#02101:00
+#02101:00
+#02101:00
+#02101:00
+#02101:00
+#02101:00
+#02101:00
+#02101:0000002Q
+#02111:Y00000Y0002PY000
+#02112:00000000NV0000002O00000000O400O6
+#02113:NRNS00000000NX0000002P00X9000000
+#02114:00000000000000002M0000000000NY0000000000000000ZW00000000O5000000
+#02115:0000NT0000NW0000NZ0000O200O400O6
+#02116:Y00000Y90000Y600
+#02118:X70000002L000000000000002N0000000000Y40000ZW0000X900000000000000
+#02119:2K0000NU0000X8002O00O100O300O500
+
+#02201:00
+#02201:00
+#02201:00
+#02201:00
+#02201:00
+#02201:00
+#02201:00
+#02201:00
+#02201:00
+#02201:00
+#02201:00
+#02201:00
+#02201:00000000000000OE0000000000OJ00OL
+#02211:Y000Y000Y00000Y0
+#02212:00O800OA0000OD000000OG000000Y900
+#02213:O700O90000Y4000000OF0000OI000000
+#02214:O700OBY02W002Y00
+#02215:002R002T00OC000000002X000000OK00
+#02216:Y0000000XA0000XB
+#02218:O70000002U0000002W0000OH00002Z00
+#02219:002S2U2V002X2Y00
+
+#02301:00
+#02301:00
+#02301:00000000000000000000000000Y00000
+#02301:00
+#02301:00
+#02301:00YF0000
+#02301:00
+#02301:00Y20000
+#02311:00Y0Y0Y0
+#02312:OM00310000OR00000000Y00000003400
+#02313:0000ON0000000000XC00000000000000OU0000000000000033000000000000ZW
+#02314:30000000OQ00OS00OU00OW00000000Y0
+#02315:000000000000OP00000000000000000000000000000000000000Y40000ZW0000
+#02316:00Y60000
+#02318:00Y40000000000OT00OV00OX0000Y000
+#02319:30OO3200OU003300
+
+#02401:00
+#02401:00
+#02401:00
+#02401:XD
+#02411:Y00000P1000000P5000000P9000000PD000000PH000000PL
+#02412:35
+#02413:00P000P400P800PC00PG00PK
+#02415:00OZ000000P3000000P7000000PB000000PF000000PJ0000
+#02416:XZ
+#02419:OYP2P6PAPEPI
+
+#02501:00
+#02501:00000000000000000000000000Y40000
+#02511:000000PP000000PT000000PX000000Q1000000Q5000000Q9
+#02512:0000000000003800000000Q8
+#02513:0000PO000000PS000000PW000000Q0000000Q40000Q70000
+#02514:00370000
+#02515:00000000PN000000000000000000000000000000PR000000000000000000000000000000PV000000000000000000000000000000PZ000000000000000000000000000000Q30000000000000000000000Q6000000000000000000000000ZW0000
+#02518:360000000000000000000000390000ZW
+#02519:PM000000000000000000000000000000PQ000000000000000000000000000000PU000000000000000000000000000000PY000000000000000000000000000000Q200000000000000000000000000000000000000000000ZW0000000000000000
+
+#02602:0.75
+#02612:YI00YJ
+#02613:00QR00
+#02614:QQ00QS
+#02615:00QR00
+#02616:YG
+#02619:3A003B
+
+#02702:0.75
+#02711:YK00QV
+#02712:00YL
+#02713:QT003D
+#02714:000000000000000000000000QU0000000000000000YM000000000000000000003E000000
+#02715:3C
+#02718:3C00YN
+#02719:00QUYN
+
+#02802:0.75
+#02811:00YO00
+#02812:QW00YP
+#02813:0000QY
+#02814:00QX00
+#02815:3F003G
+#02818:00QX00
+#02819:00003G
+
+#02902:0.75
+#02911:YQYR
+#02912:00R0R1
+#02913:00000000000000YS00003J00
+#02914:QZR03I
+#02915:0000YT
+#02918:3H000000003J
+#02919:3H00YT
+
+#03002:0.75
+#03011:YU00YV
+#03012:00R300
+#03013:003L00
+#03014:R200R4
+#03015:00003N
+#03018:003L00
+#03019:3K0000000000003M00000000
+
+#03102:0.75
+#03111:YW3P
+#03112:00R6YX
+#03113:R53P
+#03114:00R6R7
+#03115:3O3P
+#03118:3O
+
+#03202:0.75
+#03211:3Q00YZ
+#03212:00YY00
+#03213:R800RA
+#03214:00R900
+#03215:3Q003R
+#03218:00R93R
+#03219:3Q
+
+#03302:0.75
+#03301:00
+#03301:000000Y4
+#03311:00RC3U
+#03312:Z0Z1
+#03313:0000000000000000RC00000000000000RD000000000000ZW
+#03314:RB000000000000Z2000000ZW
+#03315:0000000000000000RC000000000000000000000000ZW0000
+#03318:00003T00Z3ZW
+#03319:3S00Z3
+
+#03402:0.75
+#03411:Y0Y0Y0
+#03412:Y900YA0000YA
+#03413:00YA0000YA00
+#03414:RE00000000YA00003W000000
+#03415:3V00RF00Z5YA
+#03416:YG
+#03418:00Y9
+#03419:YI0000Y9RG00
+
+#03502:0.75
+#03511:Y0Y0Y0
+#03512:00YAYA00YA00
+#03513:Y900000000YA00003Y00YA00
+#03514:RHRIZ9
+#03515:0000YA00000000Z8000000YA
+#03518:Z60000000000000000000000000000000000Y90000000000000000YA000000003Z000000
+#03519:3X0000Z7RJ00
+
+#03602:0.75
+#03611:Y9Y0Y0
+#03612:Y0YAYA
+#03613:0000YA0000YA00000000YA00
+#03614:40ZAZB
+#03615:00YA00Y90000
+#03618:0000ZA00RMYA
+#03619:RK00RLY94100
+
+#03702:0.75
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:00
+#03701:0000YT
+#03711:Y0Y0Y0
+#03712:Y900000000YA000000YA0000
+#03713:00YA00Y9RP00
+#03714:4200YA0000YA
+#03715:ZC0000ZD4300
+#03718:0000YA00YA0000ZE000000YA
+#03719:RN00RO00YA44
+
+#03802:0.75
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:00
+#03801:45
+#03811:Y0Y0Y0
+#03812:00YA000000YA
+#03813:Y9000000YA00004700000000
+#03814:0000YA0000YA0000YA00YA00
+#03815:YUY9
+#03818:0046ZH
+#03819:RQYA00Y94800
+
+#03902:0.75
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00
+#03901:00000000000000ZK00000000
+#03911:Y0Y0Y0
+#03912:000000YA
+#03913:Y900YA00RSYA
+#03914:0000YA0000000000YA0000YA
+#03915:4900000000YA00004B000000
+#03918:RRYA00Y9004C
+#03919:ZI004AZJZL00
+
+#04002:0.75
+#04001:00
+#04001:00
+#04001:00
+#04001:00
+#04001:00
+#04001:00
+#04001:00
+#04001:0000ZN
+#04001:00
+#04001:00
+#04001:00
+#04001:00
+#04001:00
+#04001:004E00
+#04011:Y0Y0Y0
+#04012:00Y000RU00Y0
+#04013:4D00ZMY000YA
+#04014:0000YA000000004F00000000
+#04015:Y9YA4G
+#04018:0000000000YA000000000000
+#04019:RT0000Y9YA00
+
+#04102:0.75
+#04111:Y0Y0Y0
+#04112:00000000000000ZR0000ZW00
+#04113:0000Y0000000000000000000ZQ0000004J00000000ZW0000
+#04114:YF0000004I00000000Y000Y0
+#04115:00000000Y0000000000000000000Y00000000000000000ZW
+#04116:Y6000000ZP00000000Y40000
+#04118:ZO00000000Y00000Z300Y000
+#04119:4HY0Y000
+
+#04201:00
+#04201:00
+#04201:00
+#04201:00
+#04201:00
+#04201:00
+#04201:00
+#04201:00
+#04201:00
+#04201:00
+#04201:00
+#04201:00
+#04201:00
+#04201:00
+#04201:ZY
+#04211:004O
+#04212:4K4L0000004P0000
+#04213:4K4M4O4Q
+#04214:004L000000004Q00
+#04215:0000004N004P004R
+#04216:XX
+#04218:4K4M0000
+#04219:4K00004N0000004R
+
+#04311:4S4W
+#04312:004T0000004X0000
+#04313:004T00004W000000
+#04314:4S4U004Y
+#04315:0000004V004X004Z
+#04316:Y7
+#04318:00004U000000004Z
+#04319:0000004V00004Y00
+
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:00
+#04401:00530000
+#04411:XE000000XG0000000000XJ0000Y40000
+#04412:0000XF0000000000XI000000XK0000S7
+#04413:500000RV00RX00000000S2000000XL00
+#04414:00000000000000000000000000000000S0000000000000000000000000ZW0000
+#04415:000051000000XH00000000S3000000ZW
+#04416:YH
+#04418:0000000000005200000000000000RZ000000S10000000000S4000000S60000ZW
+#04419:00000000RW00RY000000540000S50000
+
+#04501:00
+#04501:00
+#04501:000000Y4000000000000000000000000
+#04501:000000000000000000000000005A0000
+#04511:5500005600570000
+#04512:0000000000000000000000ZW0000000000000000000000000000000000005C00
+#04513:5500000000ZW56000000005800005B00
+#04514:550000000000000000ZW00000000000000000000000000000000Y400000000ZW
+#04515:00000000ZW00560000000000590000ZW
+#04516:Y700005600000000
+#04518:0000000000000000000000005600000000000000000000000000000000ZW0000
+#04519:55000000000000ZW
+
+#04611:XX00005F
+#04612:0000005E00000000
+#04613:YG00005F
+#04614:0000005E00000000
+#04615:0000005F
+#04618:5D00005E00005F00
+#04619:0000005E00000000
+
+#04711:5G000000005I0000
+#04712:5G00005H00000000
+#04713:0000005H005I0000
+#04714:5G000000005I0000
+#04715:0000005H00000000
+#04718:5G000000005I0000
+#04719:0000005H00000000
+
+#04812:5J005K000000005Q
+#04813:00000000000000000000005P00000000
+#04814:5J000000005L00005O00000000005Q00
+#04815:00000000000000000000005P00000000
+#04816:00YC
+#04818:5J00005M5O000000
+#04819:5J0000000000005N0000000000000000
+
+#04951:5R005R5S00005S00
+#04953:0000005S00005S00
+#04954:5R5R0000
+
+#05016:YH
+#05051:XM0000XM
+#05053:00Z400000000000000000000Z4000000
+#05054:00ZF00000000ZF00
+#05056:00S9
+#05058:000000ZG0000000000000000ZG000000
+#05059:00S800S8
+
+#05111:5T
+#05119:005U0000000000000000000000000000
+#05156:S9
+
+#05211:00000000005V0000
+#05213:0000005W
+#05214:000000000000005X
+
+#05311:5Y600064
+#05312:00600000
+#05313:5Y006264
+#05314:00600064
+#05315:5Y62
+#05318:0062
+#05319:005Z006100630065
+
+#05411:6668
+#05412:6668
+#05413:00670069
+#05414:660000006800006A
+#05415:00670000
+#05418:0068
+#05419:00670000
+
+#05511:006C0000
+#05512:6B0000SB00000000
+#05513:6B6E
+#05514:0000006D0000006G
+#05515:6B000000000000SC000000006F000000
+#05518:000000000000006G
+#05519:0000SD6F
+
+#05611:SE6J
+#05612:00SG00SK
+#05613:6HSI
+#05614:006ISI6K
+#05615:6H6I0000
+#05618:0000006K
+#05619:00SF00SH00SJ006L
+
+#05711:6M6Q
+#05712:006O006S
+#05713:6M006Q6S
+#05714:6M6O0000
+#05715:006O006S
+#05718:006Q
+#05719:006N006P006R006T
+
+#05811:6USL
+#05812:00006V000000006Y
+#05813:6U006W6X
+#05814:6U6V00SM
+#05815:006W
+#05818:006V0000
+
+#05911:SNSO
+#05912:00000072
+#05913:0071
+#05914:00700000
+#05915:6Z
+
+#06012:0000000000000075
+#06013:0074
+#06015:73
+#06018:0074
+#06051:SPSP7474
+
+#06112:0078
+#06114:00777800
+#06115:76000079
+#06118:00770000
+#06119:76000079
+#06151:SQSQSRSR
+
+#06213:7A7D
+#06215:7A0000000000007C0000000000000000
+#06219:0000007B00000000
+#06251:SSSSSTST
+
+#06312:7E
+#06314:7E7F0000
+#06315:000000007G00007I
+#06318:00007G7H
+#06319:007F0000
+#06351:SUSUSVSV
+
+#06411:SW0000SZ
+#06412:00SX0000
+#06413:7J00SY7K
+#06414:7JSY
+#06415:00SX007K
+#06418:00SY
+#06419:00SX007K
+
+#06511:YAYBYBYA
+#06512:00YB000000YB0000
+#06513:0000000000YB0000000000000000YB00
+#06514:007M007O
+#06515:000000000000YA0000000000000000YB
+#06518:7L7N
+#06519:000000YA00000000
+
+#06601:00000000000000000000000000YA0000
+#06611:Y8YAYAYA
+#06612:00YA000000Y800ZW
+#06613:00000000000000000000YA000000000000000000000000000000Y40000ZW0000
+#06614:0000YA00000000007R000000000000YA
+#06615:000000000000000000000000Y8000000000000000000000000000000YA0000ZW
+#06618:0000000000Y80000
+#06619:7P00007Q0000007S
+
+#06711:YHYAYAY9
+#06712:00YA00Y900YA00YA
+#06713:7T00007U00000000
+#06714:0000YA0000000000YA0000007V0000YA
+#06715:0000000000YA00000000YA0000000000
+#06716:Y9YC
+#06718:7T
+#06719:00YA007V
+
+#06811:YHYH
+#06812:007X007Z
+#06813:007Y
+#06814:007X007Z
+#06815:00007Y7Z
+#06816:Y7
+#06818:7W7X0000
+#06819:YH007Y7Z
+
+#06911:Y9YAYAY9
+#06912:00YA000000YA0000
+#06913:YH00000000YA0000YA0000000000YA00
+#06914:00YA000000YA0000
+#06915:T80000000000Y90000000000TA0000YA
+#06916:XX
+#06918:00YAYATA
+#06919:800000T900YA00YA
+
+#07011:Y9YAYAYA
+#07012:81000000000000000000Y90000YA0000
+#07013:0000YA0000YA0000000000000000YA00
+#07014:Y9000000000000000000TD00000000YA
+#07015:00YA00Y9YA000000
+#07018:TBYA0000
+#07019:000000TC00TD0000
+
+#07111:TEYAYAY9
+#07112:00YA00TF000000YA
+#07113:8200YA0000YA0000
+#07114:000000000000Y900YA000000TG0000YA
+#07115:Y90000000000TGYA
+#07118:0000YA0000YA00000000YA0000000000
+#07119:Y9YAYATG
+
+#07211:Y9YAYAYA
+#07212:0000YA00000000000089000000008E00
+#07213:0000000000YA000088000000008D0000
+#07214:0000TH000000008700008A000000008F
+#07215:000000Y900008CYA
+#07218:Y900000084008600TI00008B00YA00YA
+#07219:Y9008300008500000000Y900TJ000000
+
+#07311:Y9YAYAY9
+#07312:00YA00TL00YA00YA
+#07313:YH00000000YA000000000000Y9000000
+#07314:0000YA0000000000YA00YA00000000YA
+#07315:TK0000Y90000TM00
+#07316:XX
+#07318:00YAYA00
+#07319:8G0000Y90000TM00
+
+#07411:Y9YAYAYA
+#07412:00YA000000Y90000
+#07413:0000YA0000YA000000000000YA000000
+#07414:00000000YA0000000000TP0000YA0000
+#07415:0000YA000000Y90000000000000000YA
+#07418:TN00000000TP0000
+#07419:8H0000TO000000YA
+
+#07511:TQYAYAY9
+#07512:00YA00TR00YA00YA
+#07513:Y900000000YA0000000000000000YA00
+#07514:00000000YA000000YA000000TS0000YA
+#07515:00YA00Y900YA0000
+#07518:8I0000TS
+#07519:00YA00Y900YA0000
+
+#07611:Y9YAYAYA
+#07612:0000YA0000000000008P00008S000000
+#07613:0000000000YA008N0000008R00YA0000
+#07614:0000TT00008L0000TU00Y9000000YA00
+#07615:00008J000000Y90000000000008T00YA
+#07618:Y9008K00008QTV8U
+#07619:Y900000000008M008O0000008S00008V
+
+#07711:Y9YAYAY9
+#07712:00YA00TX00YA00YA
+#07713:YH00000000YA0000YA000000TY000000
+#07715:0000YA000000Y9000000YA00000000YA
+#07716:XX
+#07718:TWYAYATY
+#07719:00YA00Y900YATYYA
+#07754:8W
+
+#07811:Y9YAYAYA
+#07812:00YA00Y900Y90000
+#07813:ZS00000000YA00000000U00000YA0000
+#07814:00000000YA000000YA000000YA0000YA
+#07815:00YA00Y90000YAYA
+#07819:ZS00YATZ00U000YA
+#07854:8W
+#07858:8X
+
+#07911:Y9YAYAY9
+#07912:00YA00U200YA00YA
+#07913:U100000000YA0000YA000000Y9000000
+#07914:00000000YA000000YA000000U30000YA
+#07915:00YA00Y900YA0000
+#07918:0000YAY90000U300
+#07958:8X
+#07959:8Y
+
+#08011:00U400000000U600
+#08012:0000U5U6
+#08013:00U40000U5000000
+#08014:000000U6
+#08015:00U40000U500U600
+#08016:Y7
+#08019:0000U5U6
+#08058:8Z
+#08059:8Y
+
+#08111:Y0Y0Y0Y0
+#08112:00YA00U89000Y9YA
+#08113:Y900YA9000YA0000
+#08114:0000000000YA0000YA000000U90000YA
+#08115:YH9000Y900910090
+#08116:XX
+#08118:0091YA90
+#08119:U70000Y900910090
+#08158:8Z
+
+#08211:Y0Y0Y0Y0
+#08212:00YA009100Y900UD
+#08213:00YAYAYA
+#08214:0000UA0000000000UB00000000YA0000
+#08215:0000900000YA0000000000UC0000YA00
+#08218:Y90000009000000090000000000000YA
+#08219:910000000000Y900000000UC00000000
+
+#08311:Y0Y0Y0Y0
+#08312:00YA00Y900Y000Y0
+#08313:UE00009F000000009K00009N009P009R
+#08314:9C009E009G00009J0000YA000000YA00
+#08315:0000000000YA0000009L00009O009Q00
+#08318:009D0000009H0000YC000000Y90000YA
+#08319:Y900YA9IYA9M0000
+
+#08411:Y000Y09YY000YH00
+#08412:YH00Y0000000YH0000Y000A300Y00000
+#08413:0000UF00UFY0UFY0
+#08414:0000UG0000Y000Y0000000Y000A500Y0
+#08415:UF00009V0000UG00A000UG00Y000UM00
+#08416:Y7
+#08418:009T0000009X009Z0000A2000000A600
+#08419:9S009U009W00Y00000A10000A40000A7
+
+#08502:0.5
+#08501:00
+#08501:00
+#08501:0000000000Y40000
+#08511:YH0000YH
+#08512:00000000000000000000000000ZW0000
+#08513:YH000000000000ZW
+#08514:000000000000000000000000000000ZW
+#08515:YH
+#08518:YH0000A8
+
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:00
+#08601:ZZ
+#08611:YHY500Y500Y500Y5
+#08612:00AB0000AH000000
+#08613:000000AC000000AG000000AK00AM0000
+#08614:00AA0000AD00000000AI00000000UR00
+#08615:UN0000000000AF0000000000AL0000AO
+#08618:00UOUPUQ
+#08619:A900000000AE00000000AJ000000AN00
+
+#08711:00Y500Y500Y500Y5
+#08712:00AQ000000000000AX000000UV000000
+#08713:AP000000UT0000AW0000AZ0000000000
+#08714:0000AR0000000000UU00000000B20000
+#08715:00000000AT00AV0000AY0000B10000B4
+#08718:US0000AS000000000000AZ000000B300
+#08719:0000000000AU0000000000B00000UW00
+
+#08811:00Y500Y500Y500Y5
+#08812:UX00000000000000BD00000000BI0000
+#08813:B5000000B9000000BD0000BG00000000
+#08814:00B700000000BHBJ
+#08815:000000B800BA0000UZ00BF00000000BK
+#08818:00B60000UY0000BC00000000UI00UJ00
+#08819:0000B7000000BB0000BE000000000000
+
+#08911:00Y500Y500Y500Y5
+#08912:BL00000000BQ000000000000V4000000
+#08913:V10000BO0000BR0000BU0000BX000000
+#08914:00000000V20000BS0000BV0000BY0000
+#08915:00BN0000V300BX00
+#08916:00YE
+#08918:00000000BP000000000000BW0000BZ00
+#08919:00BM000000000000BT000000BX0000C0
+
+#09011:00Y500Y500Y500Y5
+#09012:V500C30000000000V700000000CE0000
+#09013:C10000C4000000C800CA0000V8000000
+#09014:00C20000C50000000000CB000000CF00
+#09015:C10000000000C700000000CC00000000
+#09018:C1000000V6000000C9000000CD0000CG
+#09019:0000000000C600000000000000000000
+
+#09111:00Y500Y500Y500Y5
+#09112:00CI0000VA000000VB00000000CU0000
+#09113:V900CJ00000000CO00000000VC000000
+#09114:000000000000CN0000CQ00000000VD00
+#09115:CH0000CK00000000CP0000CS00000000
+#09118:0000000000CM00000000CR000000CV00
+#09119:CH000000CL000000CP000000CT0000CW
+
+#09211:00Y500Y500Y500Y5
+#09212:00000000VF00000000D60000VH0000DC
+#09213:VE000000000000D40000D70000000000
+#09214:0000D100VG0000DB
+#09215:CX0000D00000D300000000D800000000
+#09216:00YC
+#09218:0000CZ0000000000D500000000DA0000
+#09219:00CY000000D2000000000000D9000000
+
+#09311:00Y500Y500Y500Y5
+#09312:00000000DG00000000000000DN0000DQ
+#09313:VI000000DK0000DP
+#09314:00000000DE0000000000DH0000000000000000000000DM000000000000ZW0000
+#09315:DD00000000000000DK00000000DO00ZW
+#09316:Y7YE
+#09318:000000000000DF0000000000DI00000000000000DL00000000000000000000ZW
+#09319:DD000000000000DJ0000000000Y40000
+
+#09411:00Y500Y500Y500Y5
+#09412:000000DU00000000DZ000000VM000000
+#09413:DR000000VK00DX0000E000000000E500
+#09414:0000DT00000000DY00000000E3000000
+#09415:0000000000DW00000000E100000000E6
+#09418:00DS000000000000VL00000000E40000
+#09419:VJ000000DV000000000000E20000VN00
+
+#09511:00Y500Y500Y500Y5
+#09512:E7000000VP00000000EG0000VR000000
+#09513:0000E90000EC0000EF0000000000VS00
+#09514:VO000000EB000000EF00EH00000000EM
+#09515:000000EA0000ED000000000000EK0000
+#09518:00E8000000000000VQ0000EI0000EL00
+#09519:0000E900000000EE00000000EJ000000
+
+#09611:00Y500Y500Y500Y5
+#09612:VT00VVEZ
+#09613:00000000VU0000EU00EW000000000000
+#09614:00EO0000ER00ET0000000000VW000000
+#09615:EN0000EQ000000000000EX00000000F2
+#09618:0000EP0000ES00000000000000F00000
+#09619:VT00000000000000EV0000EY0000F100
+
+#09711:00Y500Y500Y500Y5
+#09712:00F40000F7000000FB0000000000VZ00
+#09713:VX0000F90000VY00
+#09714:0000F500000000000000000000FD0000
+#09715:0000000000F800FA0000000000000000
+#09716:00YE
+#09718:F30000F60000000000000000FC00FE00
+#09719:00000000F7000000FB000000000000FF
+
+#09811:00Y500Y500Y500Y5
+#09812:000000FJ00000000FO000000W3000000
+#09813:W0000000FK0000000000FQ0000FT0000
+#09814:0000FI0000FL0000000000FR00000000
+#09815:FG0000000000FM0000FP00000000FU00
+#09818:00FH0000000000FN00000000FS000000
+#09819:00000000W1000000W2000000000000FV
+
+#09911:00Y500Y500Y500Y5
+#09912:W4FY0000W700W800
+#09913:00000000W500G20000G500000000GA00
+#09914:00FX0000G0000000G400000000G90000
+#09915:000000000000W6000000G600000000GB
+#09918:FW0000FZ000000G300000000G8000000
+#09919:0000000000G10000000000G700000000
+
+#10011:00Y500Y500Y500Y5
+#10012:W9WAGKWC
+#10013:00GD0000000000GJ0000GM00000000GR
+#10014:00GGYCGO
+#10015:0000GE0000GH000000GL0000GO00GQ00
+#10018:0000000000000000WB0000GN00000000
+#10019:GC0000GF0000GI000000000000GP0000
+
+#10111:00Y500Y500Y500Y5
+#10112:Y700GWWE0000H400
+#10113:000000GV00000000H000000000H500WI
+#10114:WD00GU00000000GZ00H100000000H600
+#10115:00GT00000000GY000000H200000000H7
+#10116:00YE
+#10118:GS00000000GX0000WG0000H300000000
+#10119:00000000000000WF000000000000WH00
+
+#10211:Y0Y0Y0Y0
+#10212:WJY500Y50000HHY5
+#10213:00H90000HEHF0000
+#10214:H8000000HB0000HD000000HG0000HI00
+#10215:000000HA00000000HE000000HH000000
+#10216:XZ
+#10218:0000HBHC00Y5HHHI
+#10219:H800HB00HE0000HI
+
+#10311:Y0Y0Y0Y0
+#10312:00Y500Y500Y500Y5
+#10313:HJ0000HK0000HL000000HN0000000000
+#10314:000000HK00000000HM000000000000HS
+#10315:HJ0000000000HL00000000HO0000HR00
+#10318:HJ0000HK00000000HM00000000HQ0000
+#10319:000000HL0000HP00
+
+#10411:Y0Y0Y0Y0
+#10412:00Y500Y500Y500Y5
+#10413:HT0000HV00000000HY00000000I10000
+#10414:0000HU000000HX00000000I000000000
+#10415:000000HV0000HX000000HZ000000I200
+#10418:HT00000000HW0000HY0000I000000000
+#10419:HT0000HV0000HX00000000I00000I200
+
+#10511:Y0Y0Y0Y0
+#10512:00Y500Y500Y500Y5
+#10513:I3I6I9IC
+#10514:I3000000I600I7000000IA00IC0000IE
+#10515:0000I400000000I80000000000000000
+#10516:00YE
+#10518:I3000000I6000000I90000IB0000ID00
+#10519:000000I500000000I9000000IC00ID00
+
+#10611:Y0Y0Y0Y0
+#10612:00Y500Y500Y500Y5
+#10613:IFIIILIO
+#10614:00IG0000ILIM0000
+#10615:IF000000II0000IK000000IN000000IQ
+#10618:0000II000000IOIP
+#10619:IF0000IH0000IJ00IL000000IO000000
+
+#10711:Y0Y0Y0Y0
+#10712:00Y500Y500Y500Y5
+#10713:IR000000000000IX00000000IZ000000
+#10714:IR00IS0000IV0000IY00000000J00000
+#10715:00000000IU000000IY000000000000J2
+#10718:000000IW0000IZ00
+#10719:IR0000IT00000000IY0000000000J100
+
+#10811:Y000Y000Y0Y0Y0Y0
+#10812:00Y500Y500Y500Y5
+#10813:J30000J400000000J6000000J9000000
+#10814:000000J40000J5000000J7000000JA00
+#10815:000000J400000000J60000J800000000
+#10818:J30000000000J50000000000000000JB
+#10819:000000J400000000J6000000J9000000
+
+#10911:Y0Y0Y0Y0Y0Y0Y0Y0
+#10912:0000JF00000000Y5
+#10913:JC00JD00000000Y000Y0000000Y00000
+#10914:000000JE0000Y50000Y00000JJ0000Y0
+#10915:JC000000JF0000JH000000Y000000000
+#10916:Y7YE
+#10918:0000000000Y00000JI00Y50000000000
+#10919:JCY500JG00000000
+
+#11011:Y0Y0Y0Y0
+#11012:00Y500Y500Y500Y5
+#11013:0000Y0Y0
+#11014:00Y500JL000000Y5
+#11015:0000Y00000Y50000
+#11018:JK0000JM
+#11019:00Y50000Y0000000
+
+#11111:Y0Y0Y0Y0
+#11112:00Y500Y500Y500Y5
+#11113:0000Y00000JP0000
+#11114:JN0000JOY00000Y5
+#11115:JN0000Y0
+#11118:00Y0Y000
+#11119:JN0000JO0000Y000
+
+#11211:Y0Y0Y0Y0
+#11212:00Y500Y500Y500Y5
+#11213:Y00000JS
+#11214:00Y500JRY0Y500Y5
+#11215:JQY0Y0JS
+#11218:000000JR0000JS00
+#11219:JQ000000Y00000Y5
+
+#11311:Y0Y0Y0Y0
+#11312:00Y500Y500Y500Y5
+#11313:00Y000JV
+#11314:Y0000000JU0000Y5
+#11315:00JT000000Y50000
+#11316:00YE
+#11318:00JT0000JU0000Y5
+#11319:00Y000JV
+
+#11411:Y0Y0Y0Y0
+#11412:00Y500Y500Y500Y5
+#11413:00Y50000Y0000000
+#11414:0000Y0JX0000JY00
+#11415:JW0000JY
+#11418:00Y5Y000Y0000000
+#11419:JW0000JX00Y50000
+
+#11511:Y0Y0Y0Y0
+#11512:00Y500Y500Y500Y5
+#11513:JZ00Y000000000Y5
+#11514:00Y500K0Y0K10000
+#11515:00Y500K00000Y000
+#11518:JZY00000
+#11519:00Y5000000K100Y5
+
+#11611:Y0Y0Y0Y0
+#11612:00Y500Y500Y500Y5
+#11613:00Y000K4
+#11614:K20000K3Y00000Y0
+#11615:00Y500K300Y00000
+#11616:00YC
+#11618:K20000K4
+#11619:00Y0Y000
+
+#11711:Y0Y0Y0Y0
+#11712:00Y500Y500Y500Y5
+#11713:0000000000Y000000000Y00000000000
+#11714:000000000000000000Y00000000000Y0
+#11715:Y00000000000Y000000000Y00000Y000
+#11716:Y7YE
+#11718:0000Y00000000000K600000000Y00000
+#11719:0000K500000000Y000000000K7000000
+
+#11811:K8
+#11812:00000000K90000KA
+#11813:K80000000000000000000000000000KB
+#11814:00K9
+#11818:00K9
+#11819:K8
+
+#11911:KC
+#11912:000000KD000000KE
+#11913:000000KD00000000
+#11914:KC0000000000000000000000000000KF
+#11915:000000KD00000000
+#11916:00YD
+#11918:KC
+#11919:KC
+
+#12016:X3
+#12051:KG
+#12053:X3
+#12055:KG
+#12059:X3
+
+#12151:KG
+#12153:X3
+#12155:KG
+#12159:X3
+
+
