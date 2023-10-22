@@ -1,0 +1,167 @@
+Music: Trina Lydia
+
+Movie: Transendium
+
+BMS/obj: Fromost, Trina Lydia
+
+scroll further down for japanese translation
+
+------------------------------------------------------
+
+Entry 01 - From Emmerich's (you) short diary & dialogue record
+
+Location: AXES launch-boosting area #104, Region 5, ready for take-off
+
+LUNA         
+'Just received the King's calling, I have to go on a space mission again...'
+
+(You)        
+'Again? Isn't that exciting? You sound tired...'
+
+LUNA         
+'Yes it is...not if you have like 10 missions every month. Um, speaking of that, you wanna come with me?'
+
+(You)        
+'Wow sure! Have been 1 year since I am in AXES, haven't experienced anything above the skies actually...
+And I probably need some time to try recovering my memories.'
+
+LUNA         
+'How about we have a chat in a place like a cafe after the mission, I will give every bit of mainstream 
+detail of things happened in the "The Chronicles of NOXUS" year 30075 edition, see if it recalls you of
+anything. It covers mostly all the history from the creation of NOXUS to the Great War 10 years ago.'
+
+(You)        
+'Sure, thank you. Hope that helps.'
+
+LUNA         
+'No problem at all. So anyways, lets hop on!'
+
+(The space ship took-off at a relatively high speed. But thanks to the special engineered mech suit you are wearing, you
+feel like there's almost no impact on your body whatsoever.)
+
+LUNA         
+'To be honest, I never thought I would be navigating things beyond the skies. People in NOXUS believes in 
+the Stellar God, as legends had that it granted the people of NOXUS magical powers to navigate through 
+the harsh world. Oh by the way, this is your first time right?'
+
+(You)        
+'Yes it is. Feeling a little bit scared and excited. Also, since when do you start to learn how to pilot a
+space ship?'
+
+LUNA         
+'Since the first day I was deployed into AXES as a spy. Most of the people take AXES and NOXUS as 2 realms
+or 2 different spaces, but it's actually 2 planets with approximately 500 light years of distance. Instead of
+using portals, they could use an unoccupied natural satellite in between for information exchange. 
+So when the portals are closed, space ships are necessary to use. Luckily the technology in AXES is capable 
+for normal people to explore the space with almost no effort.'
+
+(You)        
+'Well, this adds a positive point for the technology but also act as a great flaw, isn't it?'
+
+LUNA         
+'Yes, that's true.'
+
+(You)        
+'Wow, this space construction is enormous! What are we going to do here? Since you say the destination is an 
+natural satellite right?'
+
+LUNA         
+'We are about to make a jump through the hyperspace in the space station's fast-transfer chamber. It takes us
+around half a minute to travel 250 light years.'
+
+(You)        
+'That's real convenience right there!'
+
+LUNA         
+'Yep, sure it is. The only issue is that you have to handle some flashy lights. So get ready and hold tight, 
+to the stars we go!'
+
+(You)        
+'Ahhh! my eyes!'
+
+Entry 01 concludes.
+
+||
+
+エントリー01 - エメリッヒ（あなた）のショート日記＆対話記録より
+
+場所: AXESのローンチブースティングエリア#104、リージョン5、テイクオフ準備完了   
+
+ルナ          
+「ちょうど王様から呼び出しを受けた。また宇宙ミッションに行かなければならないわ…」
+
+(あなた)      
+「また？それってわくわくするじゃん！疲れてるみたいだけど…」
+
+ルナ          
+「そうなの、でも月に10回もミッションがあるとね..でも、.あの、ちなみに一緒に来ない？」
+
+(あなた)      
+「もちろん！AXESに来てから1年経つけど、実は空の上のものは何も経験してないんだよね... それに思い出を取り戻す時間も必要そうだし。」
+
+ルナ          
+「ミッションの後、カフェみたいな場所でおしゃべりしながら、"NOXUS年代記"の30075年版に起こった出来事の細かいところを全部教えるよ。
+何か思い出せることがあるかもしれないからね。それはNOXUSの創造から10年前の大戦までの歴史をほとんど網羅しているんだ。」
+
+(あなた)      
+「もちろん、ありがとうね。それで思い出せるといいんだけど。」
+
+ルナ          
+「全然大丈夫だよ。とにかく、乗り込もう！」
+
+(宇宙船は比較的高速で離陸しましたが、着用している特殊な設計のメックスーツのおかげで、体にほとんど影響がないように感じられます。)
+
+ルナ          
+「正直言って、私は空の向こう側を航行することができるとは思ってなかった。ちなみにNOXUSの人々は、伝説によると、ステラ神を信じてるんだ。それが　　　　　　
+NOXUSの人々に魔法の力を与えて、過酷な世界を航海できるんだって。あ、それで、あなた初めてなんだよね？」
+
+(あなた)      
+「そうだよ。ちょっと怖いけどワクワクもする。それに、君はいつから宇宙船の操縦を学び始めたんだ？」
+
+ルナ          
+「AXESのスパイに派遣された初日からだよ。ほとんどの人は、AXESとNOXUSを2つの領域または2つの違う空間と思ってるけど、実は2つの惑星で距離
+は500光年ぐらいあるんだ。情報交換には、ポータルを使う代わりに、空いてる自然衛星を使うんだ。だから、ポータルが閉じられてる時は、宇宙船を
+使わなきゃいけないんだ。でも、AXESの技術が発達してるから、普通の人でも簡単に宇宙を探索できるよ。」
+
+(あなた)      
+「まあ、それは技術のいい場所だ、でも欠点として大きな問題にもなるよね？」
+
+ルナ          
+「そうだよ。」
+
+(あなた)      
+「わぁ、この宇宙ステーション、めっちゃでかい！ここで何をするの？目的地は自然衛星って言ってたよね？」
+
+ルナ          
+「この宇宙ステーションの高速転送室でハイパースペースジャンプをする予定なんだ。そうすれば、250光年を移動するのに約30秒ぐらいかかるよ。」
+
+(あなた)      
+「それは本当に便利だね！」
+
+ルナ          
+「そうだね、本当に便利だよ。ただ、派手な光をいくつか処理しないといけないのが唯一の問題かな。準備してしっかりつかまって、星たちのもとへ行こう！」
+
+(あなた)      
+「ああっ！目が眩む！」
+
+エントリー01は終了しました。
+
+------------------------------------------------------
+
+Translation by Fromost
+
+------------------------------------------------------
+
+Ad astra itur  ?  
+
+NEURO-TECH
+
+"The first ever space travel"
+
+BPM 161 - 271
+
+4/4
+
+------------------------------------------------------
+
+Thanks For Playing :D

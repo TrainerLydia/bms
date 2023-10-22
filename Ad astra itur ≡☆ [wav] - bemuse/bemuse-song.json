@@ -1,0 +1,210 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "0bc9f20903e8bf725e773002e3f1eaca",
+      "info": {
+        "title": "Ad astra itur ≡☆",
+        "artist": "Trina Lydia",
+        "genre": "NEURO-TECH",
+        "subtitles": [
+          "[ANOTHER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 4,
+        "level": 11
+      },
+      "noteCount": 1920,
+      "bpm": {
+        "init": 161,
+        "min": 161,
+        "median": 161,
+        "max": 176
+      },
+      "duration": 149.154571146025,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Ad astra itur 7k lv11.bms"
+    },
+    {
+      "md5": "0d94ad54aaa0d6808d0885c9c812a1a5",
+      "info": {
+        "title": "Ad astra itur ≡☆",
+        "artist": "Trina Lydia",
+        "genre": "NEURO-TECH",
+        "subtitles": [
+          "[INSANE]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 5,
+        "level": 12
+      },
+      "noteCount": 2405,
+      "bpm": {
+        "init": 161,
+        "min": 161,
+        "median": 161,
+        "max": 176
+      },
+      "duration": 149.154571146025,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Ad astra itur 7k lv12.bms"
+    },
+    {
+      "md5": "332b86d2e79c5f1a9b673ca9ab85fb28",
+      "info": {
+        "title": "Ad astra itur ≡☆",
+        "artist": "Trina Lydia",
+        "genre": "NEURO-TECH",
+        "subtitles": [
+          "[METEORITE]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 5,
+        "level": 15
+      },
+      "noteCount": 2983,
+      "bpm": {
+        "init": 161,
+        "min": 161,
+        "median": 161,
+        "max": 176
+      },
+      "duration": 149.154571146025,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Ad astra itur 7k lv15.bms"
+    },
+    {
+      "md5": "2aa491b69fd74b1f731d130e0d6ed520",
+      "info": {
+        "title": "Ad astra itur ≡☆",
+        "artist": "Trina Lydia",
+        "genre": "NEURO-TECH",
+        "subtitles": [
+          "[BEGINNER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 1,
+        "level": 5
+      },
+      "noteCount": 668,
+      "bpm": {
+        "init": 161,
+        "min": 161,
+        "median": 161,
+        "max": 176
+      },
+      "duration": 149.154571146025,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Ad astra itur 7k lv5.bms"
+    },
+    {
+      "md5": "cb0cc0927e280a3303f329e7ad57d124",
+      "info": {
+        "title": "Ad astra itur ≡☆",
+        "artist": "Trina Lydia",
+        "genre": "NEURO-TECH",
+        "subtitles": [
+          "[NORMAL]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 2,
+        "level": 9
+      },
+      "noteCount": 936,
+      "bpm": {
+        "init": 161,
+        "min": 161,
+        "median": 161,
+        "max": 176
+      },
+      "duration": 149.154571146025,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Ad astra itur 7k lv9.bms"
+    },
+    {
+      "md5": "01e7890c81c60715e0523eb08c7940e7",
+      "info": {
+        "title": "Ad astra itur ≡☆",
+        "artist": "Trina Lydia",
+        "genre": "NEURO-TECH",
+        "subtitles": [
+          "[HYPER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 3,
+        "level": 10
+      },
+      "noteCount": 1491,
+      "bpm": {
+        "init": 161,
+        "min": 161,
+        "median": 161,
+        "max": 176
+      },
+      "duration": 149.154571146025,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Ad astra itur 7k lv10.bms"
+    },
+    {
+      "md5": "38c044c7eb26ad2330f69eae07f1f55c",
+      "info": {
+        "title": "Ad astra itur ≡☆",
+        "artist": "Trina Lydia",
+        "genre": "NEURO-TECH",
+        "subtitles": [
+          "[BEGINNER]"
+        ],
+        "subartists": [
+          "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+        ],
+        "difficulty": 1,
+        "level": 1
+      },
+      "noteCount": 231,
+      "bpm": {
+        "init": 161,
+        "min": 161,
+        "median": 161,
+        "max": 176
+      },
+      "duration": 149.154571146025,
+      "scratch": true,
+      "keys": "7K",
+      "file": "Ad astra itur 7k lv1.bms"
+    }
+  ],
+  "title": "Ad astra itur ≡☆",
+  "artist": "Trina Lydia",
+  "genre": "NEURO-TECH",
+  "bpm": 161,
+  "replaygain": "-14.55 dB",
+  "back_image_url": "bemuse-data/back_image.jpg",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "preview_offset": 112,
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/trainer-lolxd/bofntad-astra-itur-trina-lydia",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=142",
+  "youtube_url": "https://www.youtube.com/watch?v=glAn505__i4&ab_channel=Transendium",
+  "bmssearch_id": "ad astra",
+  "artist_url": "https://twitter.com/lydia_trainer",
+  "readme": "README.md"
+}
