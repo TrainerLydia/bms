@@ -1,0 +1,896 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/main/Ad%20astra%20itur%20%E2%89%A1%E2%98%86%20%5Bwav%5D%20-%20bemuse/",
+      "added": "2023-10-22"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/main/Stellar%20Immortality%20%5Bwav%5D%20-%20bemuse/",
+      "added": "2023-10-22"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/main/%E7%9B%B4%20-ST.-%20%5Bwav%5D%20-%20bemuse/",
+      "added": "2023-10-22"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/main/Library%20at%20Noon%20%5Bwav%5D%20-%20bemuse/",
+      "added": "2023-10-22"
+    },
+  ],
+  "songs": [
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "0bc9f20903e8bf725e773002e3f1eaca",
+          "info": {
+            "title": "Ad astra itur ≡☆",
+            "artist": "Trina Lydia",
+            "genre": "NEURO-TECH",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1920,
+          "bpm": {
+            "init": 161,
+            "min": 161,
+            "median": 161,
+            "max": 176
+          },
+          "duration": 149.154571146025,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Ad astra itur 7k lv11.bms"
+        },
+        {
+          "md5": "0d94ad54aaa0d6808d0885c9c812a1a5",
+          "info": {
+            "title": "Ad astra itur ≡☆",
+            "artist": "Trina Lydia",
+            "genre": "NEURO-TECH",
+            "subtitles": [
+              "[INSANE]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2405,
+          "bpm": {
+            "init": 161,
+            "min": 161,
+            "median": 161,
+            "max": 176
+          },
+          "duration": 149.154571146025,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Ad astra itur 7k lv12.bms"
+        },
+        {
+          "md5": "332b86d2e79c5f1a9b673ca9ab85fb28",
+          "info": {
+            "title": "Ad astra itur ≡☆",
+            "artist": "Trina Lydia",
+            "genre": "NEURO-TECH",
+            "subtitles": [
+              "[METEORITE]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 5,
+            "level": 15
+          },
+          "noteCount": 2983,
+          "bpm": {
+            "init": 161,
+            "min": 161,
+            "median": 161,
+            "max": 176
+          },
+          "duration": 149.154571146025,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Ad astra itur 7k lv15.bms"
+        },
+        {
+          "md5": "2aa491b69fd74b1f731d130e0d6ed520",
+          "info": {
+            "title": "Ad astra itur ≡☆",
+            "artist": "Trina Lydia",
+            "genre": "NEURO-TECH",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 1,
+            "level": 5
+          },
+          "noteCount": 668,
+          "bpm": {
+            "init": 161,
+            "min": 161,
+            "median": 161,
+            "max": 176
+          },
+          "duration": 149.154571146025,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Ad astra itur 7k lv5.bms"
+        },
+        {
+          "md5": "cb0cc0927e280a3303f329e7ad57d124",
+          "info": {
+            "title": "Ad astra itur ≡☆",
+            "artist": "Trina Lydia",
+            "genre": "NEURO-TECH",
+            "subtitles": [
+              "[NORMAL]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 2,
+            "level": 9
+          },
+          "noteCount": 936,
+          "bpm": {
+            "init": 161,
+            "min": 161,
+            "median": 161,
+            "max": 176
+          },
+          "duration": 149.154571146025,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Ad astra itur 7k lv9.bms"
+        },
+        {
+          "md5": "01e7890c81c60715e0523eb08c7940e7",
+          "info": {
+            "title": "Ad astra itur ≡☆",
+            "artist": "Trina Lydia",
+            "genre": "NEURO-TECH",
+            "subtitles": [
+              "[HYPER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 1491,
+          "bpm": {
+            "init": 161,
+            "min": 161,
+            "median": 161,
+            "max": 176
+          },
+          "duration": 149.154571146025,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Ad astra itur 7k lv10.bms"
+        },
+        {
+          "md5": "38c044c7eb26ad2330f69eae07f1f55c",
+          "info": {
+            "title": "Ad astra itur ≡☆",
+            "artist": "Trina Lydia",
+            "genre": "NEURO-TECH",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 1,
+            "level": 1
+          },
+          "noteCount": 231,
+          "bpm": {
+            "init": 161,
+            "min": 161,
+            "median": 161,
+            "max": 176
+          },
+          "duration": 149.154571146025,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Ad astra itur 7k lv1.bms"
+        }
+      ],
+      "title": "Ad astra itur ≡☆",
+      "artist": "Trina Lydia",
+      "genre": "NEURO-TECH",
+      "bpm": 161,
+      "replaygain": "-14.55 dB",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "preview_offset": 112,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/trainer-lolxd/bofntad-astra-itur-trina-lydia",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=74&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=glAn505__i4&ab_channel=Transendium",
+      "bmssearch_id": "ad astra",
+      "artist_url": "https://twitter.com/lydia_trainer",
+      "readme": "README.md",
+      "added": "2023-10-22T00:00:00.000Z",
+      "id": "Ad%20astra%20itur%20%E2%89%A1%E2%98%86%20%5Bwav%5D%20-%20bemuse",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/main/Ad%20astra%20itur%20%E2%89%A1%E2%98%86%20%5Bwav%5D%20-%20bemuse/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "896c3e61bb2a55c492e0f91e0497c0dd",
+          "info": {
+            "title": "Stellar Immortality",
+            "artist": "Trina Lydia",
+            "genre": "Dramatic Orchestral",
+            "subtitles": [
+              "[LOREWISE]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia / obj: Trina Lydia"
+            ],
+            "difficulty": 5,
+            "level": 15
+          },
+          "noteCount": 2539,
+          "bpm": {
+            "init": 185,
+            "min": 185,
+            "median": 185,
+            "max": 185
+          },
+          "duration": 149.83783783783784,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Stellar Immortality - 7k Lv15.bms"
+        },
+        {
+          "md5": "a6bf5f8b8f10cc3f720f8c957d6e41cc",
+          "info": {
+            "title": "Stellar Immortality",
+            "artist": "Trina Lydia",
+            "genre": "Dramatic Orchestral",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia / obj: Kuro, Trina Lydia"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 243,
+          "bpm": {
+            "init": 185,
+            "min": 185,
+            "median": 185,
+            "max": 185
+          },
+          "duration": 149.83783783783784,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Stellar Immortality - 7k Lv2.bms"
+        },
+        {
+          "md5": "c92eacc8e4291b8936ab53b785400491",
+          "info": {
+            "title": "Stellar Immortality",
+            "artist": "Trina Lydia",
+            "genre": "Dramatic Orchestral",
+            "subtitles": [
+              "[INSANE]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia / obj: Fromost, Trina Lydia"
+            ],
+            "difficulty": 5,
+            "level": 14
+          },
+          "noteCount": 2362,
+          "bpm": {
+            "init": 185,
+            "min": 185,
+            "median": 185,
+            "max": 185
+          },
+          "duration": 149.83783783783784,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Stellar Immortality - 7k Lv14.bms"
+        },
+        {
+          "md5": "4076bf04eed6bc177f53b74bc2f0b3e2",
+          "info": {
+            "title": "Stellar Immortality",
+            "artist": "Trina Lydia",
+            "genre": "Dramatic Orchestral",
+            "subtitles": [
+              "[HYPER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia / obj: Fromost, Trina Lydia"
+            ],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 1215,
+          "bpm": {
+            "init": 185,
+            "min": 185,
+            "median": 185,
+            "max": 185
+          },
+          "duration": 149.83783783783784,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Stellar Immortality - 7k Lv10.bms"
+        },
+        {
+          "md5": "8f75043999b79feb88d72127265d60a8",
+          "info": {
+            "title": "Stellar Immortality",
+            "artist": "Trina Lydia",
+            "genre": "Dramatic Orchestral",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia / obj: Fromost, Trina Lydia"
+            ],
+            "difficulty": 4,
+            "level": 13
+          },
+          "noteCount": 2196,
+          "bpm": {
+            "init": 185,
+            "min": 185,
+            "median": 185,
+            "max": 185
+          },
+          "duration": 149.83783783783784,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Stellar Immortality - 7k Lv13.bms"
+        },
+        {
+          "md5": "f302ad2f0cbfa56245464227d90f0fe3",
+          "info": {
+            "title": "Stellar Immortality",
+            "artist": "Trina Lydia",
+            "genre": "Dramatic Orchestral",
+            "subtitles": [
+              "[NORMAL]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia / obj: Trina Lydia"
+            ],
+            "difficulty": 2,
+            "level": 6
+          },
+          "noteCount": 819,
+          "bpm": {
+            "init": 185,
+            "min": 185,
+            "median": 185,
+            "max": 185
+          },
+          "duration": 149.83783783783784,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Stellar Immortality - 7k Lv6.bms"
+        }
+      ],
+      "title": "Stellar Immortality",
+      "artist": "Trina Lydia",
+      "genre": "Dramatic Orchestral",
+      "bpm": 185,
+      "replaygain": "-13.75 dB",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "preview_offset": 105,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/trainer-lolxd/bofntstellar-immortality-trina-lydia",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=111&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=lGolxUOuVbY&ab_channel=TrinaLydia",
+      "bmssearch_id": "stellar",
+      "artist_url": "https://twitter.com/lydia_trainer",
+      "readme": "README.md",
+      "added": "2023-10-22T00:00:00.000Z",
+      "id": "Stellar%20Immortality%20%5Bwav%5D%20-%20bemuse",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/main/Stellar%20Immortality%20%5Bwav%5D%20-%20bemuse/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "d7fcf29edc04eb740ca6dc43f46f2c05",
+          "info": {
+            "title": "뮳 -ST.-",
+            "artist": "Trina Lydia",
+            "genre": "TLCORE+",
+            "subtitles": [
+              "-ST.- [INSANE]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 5,
+            "level": 13
+          },
+          "noteCount": 2098,
+          "bpm": {
+            "init": 190,
+            "min": 190,
+            "median": 190,
+            "max": 190
+          },
+          "duration": 136.97368421052633,
+          "scratch": true,
+          "keys": "7K",
+          "file": "st 7k lv13.bms"
+        },
+        {
+          "md5": "e4013d9769f6ba1a24321fd17459bf28",
+          "info": {
+            "title": "뮳",
+            "artist": "Trina Lydia",
+            "genre": "TLCORE+",
+            "subtitles": [
+              "-ST.- [CURVATURE]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 5,
+            "level": 15
+          },
+          "noteCount": 2677,
+          "bpm": {
+            "init": 190,
+            "min": 190,
+            "median": 190,
+            "max": 190
+          },
+          "duration": 137.01315789473685,
+          "scratch": true,
+          "keys": "7K",
+          "file": "st 7k lv15.bms"
+        },
+        {
+          "md5": "19baa31a235ef6fa0860d86422fdd010",
+          "info": {
+            "title": "뮳",
+            "artist": "Trina Lydia",
+            "genre": "TLCORE+",
+            "subtitles": [
+              "-ST.- [HYPER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 1171,
+          "bpm": {
+            "init": 190,
+            "min": 190,
+            "median": 190,
+            "max": 190
+          },
+          "duration": 136.97368421052633,
+          "scratch": true,
+          "keys": "7K",
+          "file": "st 7k lv10.bms"
+        },
+        {
+          "md5": "3b36fabdb92a3a298cebb2ff87cab6ed",
+          "info": {
+            "title": "뮳",
+            "artist": "Trina Lydia",
+            "genre": "TLCORE+",
+            "subtitles": [
+              "-ST.- [ANOTHER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1989,
+          "bpm": {
+            "init": 190,
+            "min": 190,
+            "median": 190,
+            "max": 190
+          },
+          "duration": 136.97368421052633,
+          "scratch": true,
+          "keys": "7K",
+          "file": "st 7k lv12.bms"
+        },
+        {
+          "md5": "7a6ca8e2678256508426d1ce7c45f940",
+          "info": {
+            "title": "뮳",
+            "artist": "Trina Lydia",
+            "genre": "TLCORE+",
+            "subtitles": [
+              "-ST.- [NORMAL]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 2,
+            "level": 8
+          },
+          "noteCount": 830,
+          "bpm": {
+            "init": 190,
+            "min": 190,
+            "median": 190,
+            "max": 190
+          },
+          "duration": 136.97368421052633,
+          "scratch": true,
+          "keys": "7K",
+          "file": "st 7k lv8.bms"
+        },
+        {
+          "md5": "cca653ae41636067695f44094f0e78a5",
+          "info": {
+            "title": "뮳",
+            "artist": "Trina Lydia",
+            "genre": "TLCORE+",
+            "subtitles": [
+              "-ST.- [BEGINNER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 1,
+            "level": 4
+          },
+          "noteCount": 547,
+          "bpm": {
+            "init": 190,
+            "min": 190,
+            "median": 190,
+            "max": 190
+          },
+          "duration": 136.97368421052633,
+          "scratch": true,
+          "keys": "7K",
+          "file": "st 7k lv4.bms"
+        },
+        {
+          "md5": "d4729fe6415a24bba18b49340842c219",
+          "info": {
+            "title": "뮳",
+            "artist": "Trina Lydia",
+            "genre": "TLCORE+",
+            "subtitles": [
+              "-ST.- [BEGINNER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Transendium / obj: Trina Lydia, fromost"
+            ],
+            "difficulty": 1,
+            "level": 1
+          },
+          "noteCount": 229,
+          "bpm": {
+            "init": 190,
+            "min": 190,
+            "median": 190,
+            "max": 190
+          },
+          "duration": 136.97368421052633,
+          "scratch": true,
+          "keys": "7K",
+          "file": "st 7k lv1.bms"
+        }
+      ],
+      "title": "直",
+      "artist": "Trina Lydia",
+      "genre": "TLCORE+",
+      "bpm": 190,
+      "replaygain": "-15.13 dB",
+      "preview_offset": 101,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "song_url": "https://soundcloud.com/trainer-lolxd/bofnt-st-trina-lydia",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=139&event=142",
+      "youtube_url": "https://www.youtube.com/watch?v=mN3odpRCFNs&ab_channel=TrinaLydia",
+      "bmssearch_id": "st",
+      "artist_url": "https://twitter.com/lydia_trainer",
+      "readme": "README.md",
+      "added": "2023-10-22T00:00:00.000Z",
+      "id": "%E7%9B%B4%20-ST.-%20%5Bwav%5D%20-%20bemuse",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/main/%E7%9B%B4%20-ST.-%20%5Bwav%5D%20-%20bemuse/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "94a2d42761b0a3fc82955550ad736146",
+          "info": {
+            "title": "Library at Noon",
+            "artist": "Trina Lydia",
+            "genre": "Fantasied Art-waltz",
+            "subtitles": [
+              "[INSANE SPELLZ]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia"
+            ],
+            "difficulty": 5,
+            "level": 13
+          },
+          "noteCount": 2362,
+          "bpm": {
+            "init": 210,
+            "min": 210,
+            "median": 210,
+            "max": 210
+          },
+          "duration": 129.03571428571428,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Library at Noon - 7k Lv13.bms"
+        },
+        {
+          "md5": "c31699fa7d1b6f931095c84196b49979",
+          "info": {
+            "title": "Library at Noon",
+            "artist": "Trina Lydia",
+            "genre": "Fantasied Art-waltz",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1926,
+          "bpm": {
+            "init": 210,
+            "min": 210,
+            "median": 210,
+            "max": 210
+          },
+          "duration": 129.03571428571428,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Library at Noon - 7k Lv12.bms"
+        },
+        {
+          "md5": "1c2f5efa29924a68aeca663e1415b15c",
+          "info": {
+            "title": "Library at Noon",
+            "artist": "Trina Lydia",
+            "genre": "Fantasied Art-waltz",
+            "subtitles": [
+              "[HYPER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia"
+            ],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 1343,
+          "bpm": {
+            "init": 210,
+            "min": 210,
+            "median": 210,
+            "max": 210
+          },
+          "duration": 129.03571428571428,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Library at Noon - 7k Lv10 .bms"
+        },
+        {
+          "md5": "1371f1cbd4cc4202beff4487fc82fcff",
+          "info": {
+            "title": "Library at Noon",
+            "artist": "Trina Lydia",
+            "genre": "Fantasied Art-waltz",
+            "subtitles": [
+              "[NORMAL]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia"
+            ],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 819,
+          "bpm": {
+            "init": 210,
+            "min": 210,
+            "median": 210,
+            "max": 210
+          },
+          "duration": 129.03571428571428,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Library at Noon - 7k Lv7.bms"
+        },
+        {
+          "md5": "fa5f0e8b2d9a7feb3615385adbf203ff",
+          "info": {
+            "title": "Library at Noon",
+            "artist": "Trina Lydia",
+            "genre": "Fantasied Art-waltz",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [
+              "mov: Trina Lydia, Kazoo, Mochun / obj: Trina Lydia"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 326,
+          "bpm": {
+            "init": 210,
+            "min": 210,
+            "median": 210,
+            "max": 210
+          },
+          "duration": 129.03571428571428,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Library at Noon - 7k Lv2.bms"
+        }
+      ],
+      "title": "Library at Noon",
+      "artist": "Trina Lydia",
+      "genre": "Fantasied Art-waltz",
+      "bpm": 210,
+      "replaygain": "-14.17 dB",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "song_url": "https://soundcloud.com/trainer-lolxd/bofntlibrary-at-noon-trina-lydia",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=130&event=142",
+      "bmssearch_id": "library",
+      "artist_url": "https://twitter.com/lydia_trainer",
+      "readme": "README.md",
+      "preview_offset": 99,
+      "preview_url": "bemuse-data/preview.mp3",
+      "added": "2023-10-22T00:00:00.000Z",
+      "id": "Library%20at%20Noon%20%5Bwav%5D%20-%20bemuse",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/main/Library%20at%20Noon%20%5Bwav%5D%20-%20bemuse/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "8e50bc56827911833c9700f5acf2a308",
+          "info": {
+            "title": "VECTOR↑ZΣ",
+            "artist": "Trina Lydia",
+            "genre": "Direction and Magnitude",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [
+              "Movie: Transendium / BMS: ToshiyukiDoma"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1897,
+          "bpm": {
+            "init": 178.84,
+            "min": 178.84,
+            "median": 178.84,
+            "max": 178.84
+          },
+          "duration": 141.58605457392082,
+          "scratch": true,
+          "keys": "7K",
+          "file": "vectorize 7k SPA lv12.bms"
+        },
+        {
+          "md5": "602decdce25af82d19fc490b2a995524",
+          "info": {
+            "title": "VECTOR↑ZΣ",
+            "artist": "Trina Lydia",
+            "genre": "Direction and Magnitude",
+            "subtitles": [
+              "[EASY]"
+            ],
+            "subartists": [
+              "Movie: Transendium / BMS: Trina Lydia"
+            ],
+            "difficulty": 1,
+            "level": 4
+          },
+          "noteCount": 343,
+          "bpm": {
+            "init": 178.84,
+            "min": 178.84,
+            "median": 178.84,
+            "max": 178.84
+          },
+          "duration": 141.58605457392082,
+          "scratch": true,
+          "keys": "7K",
+          "file": "vectorize 7k SPB lv4.bms"
+        },
+        {
+          "md5": "624a45dd09a97a1a305984d194668bea",
+          "info": {
+            "title": "VECTOR↑ZΣ",
+            "artist": "Trina Lydia",
+            "genre": "Direction and Magnitude",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [
+              "Movie: Transendium / BMS: Trina Lydia"
+            ],
+            "difficulty": 1,
+            "level": 1
+          },
+          "noteCount": 175,
+          "bpm": {
+            "init": 178.84,
+            "min": 178.84,
+            "median": 178.84,
+            "max": 178.84
+          },
+          "duration": 141.58605457392082,
+          "scratch": false,
+          "keys": "7K",
+          "file": "vectorize 7k SPB lv1.bms"
+        }
+      ],
+      "title": "VECTOR↑ZΣ",
+      "artist": "Trina Lydia",
+      "genre": "Direction and Magnitude",
+      "bpm": 178.84,
+      "song_url": "https://soundcloud.com/trainer-lolxd/bofttvectorz",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=212&event=146",
+      "youtube_url": "https://youtu.be/cEwdCuZaBRM",
+      "artist_url": "https://x.com/trina_lydia",
+      "readme": "README.md",
+      "replaygain": "-12.73 dB",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 1.5,
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "preview_offset": 67,
+      "preview_url": "bemuse-data/preview.mp3",
+      "added": "2024-10-14T00:00:00.000Z",
+      "id": "VECTOR%E2%86%91Z%CE%A3%20%5Bwav%5D%20-%20bemuse",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/VECTOR%E2%86%91Z%CE%A3%20%5Bwav%5D%20-%20bemuse/"
+    }
+  ]
+}

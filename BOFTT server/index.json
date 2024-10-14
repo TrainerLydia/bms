@@ -1,0 +1,115 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/VECTOR%E2%86%91Z%CE%A3%20%5Bwav%5D%20-%20bemuse/",
+      "added": "2024-10-14"
+    },
+  ],
+  "songs": [
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "8e50bc56827911833c9700f5acf2a308",
+          "info": {
+            "title": "VECTOR↑ZΣ",
+            "artist": "Trina Lydia",
+            "genre": "Direction and Magnitude",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [
+              "Movie: Transendium / BMS: ToshiyukiDoma"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1897,
+          "bpm": {
+            "init": 178.84,
+            "min": 178.84,
+            "median": 178.84,
+            "max": 178.84
+          },
+          "duration": 141.58605457392082,
+          "scratch": true,
+          "keys": "7K",
+          "file": "vectorize 7k SPA lv12.bms"
+        },
+        {
+          "md5": "602decdce25af82d19fc490b2a995524",
+          "info": {
+            "title": "VECTOR↑ZΣ",
+            "artist": "Trina Lydia",
+            "genre": "Direction and Magnitude",
+            "subtitles": [
+              "[EASY]"
+            ],
+            "subartists": [
+              "Movie: Transendium / BMS: Trina Lydia"
+            ],
+            "difficulty": 1,
+            "level": 4
+          },
+          "noteCount": 343,
+          "bpm": {
+            "init": 178.84,
+            "min": 178.84,
+            "median": 178.84,
+            "max": 178.84
+          },
+          "duration": 141.58605457392082,
+          "scratch": true,
+          "keys": "7K",
+          "file": "vectorize 7k SPB lv4.bms"
+        },
+        {
+          "md5": "624a45dd09a97a1a305984d194668bea",
+          "info": {
+            "title": "VECTOR↑ZΣ",
+            "artist": "Trina Lydia",
+            "genre": "Direction and Magnitude",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [
+              "Movie: Transendium / BMS: Trina Lydia"
+            ],
+            "difficulty": 1,
+            "level": 1
+          },
+          "noteCount": 175,
+          "bpm": {
+            "init": 178.84,
+            "min": 178.84,
+            "median": 178.84,
+            "max": 178.84
+          },
+          "duration": 141.58605457392082,
+          "scratch": false,
+          "keys": "7K",
+          "file": "vectorize 7k SPB lv1.bms"
+        }
+      ],
+      "title": "VECTOR↑ZΣ",
+      "artist": "Trina Lydia",
+      "genre": "Direction and Magnitude",
+      "bpm": 178.84,
+      "song_url": "https://soundcloud.com/trainer-lolxd/bofttvectorz",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=212&event=146",
+      "youtube_url": "https://youtu.be/cEwdCuZaBRM",
+      "artist_url": "https://x.com/trina_lydia",
+      "readme": "README.md",
+      "replaygain": "-12.73 dB",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 1.5,
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "preview_offset": 67,
+      "preview_url": "bemuse-data/preview.mp3",
+      "added": "2024-10-14T00:00:00.000Z",
+      "id": "VECTOR%E2%86%91Z%CE%A3%20%5Bwav%5D%20-%20bemuse",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/VECTOR%E2%86%91Z%CE%A3%20%5Bwav%5D%20-%20bemuse/"
+    }
+  ]
+}
