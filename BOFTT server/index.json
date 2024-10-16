@@ -89,6 +89,33 @@
           "scratch": false,
           "keys": "7K",
           "file": "vectorize 7k SPB lv1.bms"
+        },
+        {
+          "md5": "9eb00b3ddb9cbe4894b4bff5fb109ab1",
+          "info": {
+            "title": "VECTOR↑ZΣ",
+            "artist": "Trina Lydia",
+            "genre": "Direction and Magnitude",
+            "subtitles": [
+              "[HYPER]"
+            ],
+            "subartists": [
+              "Movie: Transendium / BMS: NXC"
+            ],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 1167,
+          "bpm": {
+            "init": 178.84,
+            "min": 178.84,
+            "median": 178.84,
+            "max": 178.84
+          },
+          "duration": 141.58605457392082,
+          "scratch": true,
+          "keys": "7K",
+          "file": "vectorize 7k SPH lv10.bms"
         }
       ],
       "title": "VECTOR↑ZΣ",
