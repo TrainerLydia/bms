@@ -3,6 +3,10 @@
     {
       "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/VECTOR%E2%86%91Z%CE%A3%20%5Bwav%5D%20-%20bemuse/",
       "added": "2024-10-14"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/20%E5%B9%B4%E4%BB%A5%E4%B8%8A%E3%81%AE%E3%82%BD%E3%83%8A%E3%82%BF%20%5Bwav%5D%20-%20bemuse/",
+      "added": "2024-10-17"
     }
   ],
   "songs": [
@@ -137,6 +141,84 @@
       "added": "2024-10-14T00:00:00.000Z",
       "id": "VECTOR%E2%86%91Z%CE%A3%20%5Bwav%5D%20-%20bemuse",
       "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/VECTOR%E2%86%91Z%CE%A3%20%5Bwav%5D%20-%20bemuse/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "d838a0960b4e14fd483217358278cf35",
+          "info": {
+            "title": "20年以上のソナタ",
+            "artist": "sugosugiii & SiLiS",
+            "genre": "Emotional",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [
+              "Movie: sugosugiii / BMS: Trina Lydia"
+            ],
+            "difficulty": 1,
+            "level": 1
+          },
+          "noteCount": 159,
+          "bpm": {
+            "init": 130,
+            "min": 130,
+            "median": 130,
+            "max": 130
+          },
+          "duration": 140.76923076923077,
+          "scratch": false,
+          "keys": "7K",
+          "file": "20年以上のソナタ 7k SPB lv1.bms"
+        },
+        {
+          "md5": "bfb806106985e0bc5406b02cd1d8eacd",
+          "info": {
+            "title": "20年以上のソナタ",
+            "artist": "sugosugiii & SiLiS",
+            "genre": "Emotional",
+            "subtitles": [
+              "[EASY]"
+            ],
+            "subartists": [
+              "Movie: sugosugiii / BMS: Trina Lydia"
+            ],
+            "difficulty": 1,
+            "level": 3
+          },
+          "noteCount": 242,
+          "bpm": {
+            "init": 130,
+            "min": 130,
+            "median": 130,
+            "max": 130
+          },
+          "duration": 140.76923076923077,
+          "scratch": true,
+          "keys": "7K",
+          "file": "20年以上のソナタ 7k SPB lv3.bms"
+        }
+      ],
+      "title": "20年以上のソナタ",
+      "artist": "sugosugiii & SiLiS",
+      "genre": "Emotional",
+      "bpm": 130,
+      "replaygain": "-8.94 dB",
+      "readme": "README.md",
+      "artist_url": "https://x.com/Cascale2",
+      "song_url": "https://soundcloud.com/sugosugiii/20yearsonata",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=242&event=146",
+      "youtube_url": "https://www.youtube.com/watch?v=zg2tkO3j5Hc&ab_channel=sugosugiii",
+      "preview_offset": 49,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 2.4,
+      "added": "2024-10-17T00:00:00.000Z",
+      "id": "20%E5%B9%B4%E4%BB%A5%E4%B8%8A%E3%81%AE%E3%82%BD%E3%83%8A%E3%82%BF%20%5Bwav%5D%20-%20bemuse",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/20%E5%B9%B4%E4%BB%A5%E4%B8%8A%E3%81%AE%E3%82%BD%E3%83%8A%E3%82%BF%20%5Bwav%5D%20-%20bemuse/"
     }
   ]
 }
