@@ -7,6 +7,10 @@
     {
       "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/20%E5%B9%B4%E4%BB%A5%E4%B8%8A%E3%81%AE%E3%82%BD%E3%83%8A%E3%82%BF%20%5Bwav%5D%20-%20bemuse/",
       "added": "2024-10-17"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/Viva%20la%20SPEEDCORE%20%5Bwav%5D%20-%20bemuse/",
+      "added": "2024-10-17"
     }
   ],
   "songs": [
@@ -219,6 +223,111 @@
       "added": "2024-10-17T00:00:00.000Z",
       "id": "20%E5%B9%B4%E4%BB%A5%E4%B8%8A%E3%81%AE%E3%82%BD%E3%83%8A%E3%82%BF%20%5Bwav%5D%20-%20bemuse",
       "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/20%E5%B9%B4%E4%BB%A5%E4%B8%8A%E3%81%AE%E3%82%BD%E3%83%8A%E3%82%BF%20%5Bwav%5D%20-%20bemuse/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "2e93d19324e1b35000c34ddf8e21b600",
+          "info": {
+            "title": "!Viva la SPEEDCORE!",
+            "artist": "THE BEAT vs THE WIZARD",
+            "genre": "Salsa y Speedcore",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [
+              "Movie: sugosugiii & Trina Lydia / BMS: Trina Lydia"
+            ],
+            "difficulty": 1,
+            "level": 3
+          },
+          "noteCount": 308,
+          "bpm": {
+            "init": 135,
+            "min": 135,
+            "median": 135,
+            "max": 135
+          },
+          "duration": 165.33333333333334,
+          "scratch": false,
+          "keys": "7K",
+          "file": "viva la speedcore 7k SPB Lv2.bms"
+        },
+        {
+          "md5": "a7c5608451b7924398c1fbc1f47748c2",
+          "info": {
+            "title": "!Viva la SPEEDCORE!",
+            "artist": "THE BEAT vs THE WIZARD",
+            "genre": "Salsa y Speedcore",
+            "subtitles": [
+              "[EASY]"
+            ],
+            "subartists": [
+              "Movie: sugosugiii & Trina Lydia / BMS: Trina Lydia"
+            ],
+            "difficulty": 1,
+            "level": 5
+          },
+          "noteCount": 553,
+          "bpm": {
+            "init": 135,
+            "min": 135,
+            "median": 135,
+            "max": 135
+          },
+          "duration": 165.33333333333334,
+          "scratch": true,
+          "keys": "7K",
+          "file": "viva la speedcore 7k SPB Lv5.bms"
+        },
+        {
+          "md5": "3f362ed9ebf1dbc55ee0bc275c8c2365",
+          "info": {
+            "title": "!Viva la SPEEDCORE!",
+            "artist": "THE BEAT vs THE WIZARD",
+            "genre": "Salsa y Speedcore",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [
+              "Movie: sugosugiii & Trina Lydia / BMS: Toshiyuki Doma"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1873,
+          "bpm": {
+            "init": 135,
+            "min": 135,
+            "median": 135,
+            "max": 135
+          },
+          "duration": 165.33333333333334,
+          "scratch": true,
+          "keys": "7K",
+          "file": "viva la speedcore 7k SPA Lv12.bms"
+        }
+      ],
+      "title": "¡Viva la SPEEDCORE!",
+      "artist": "THE BEAT vs THE WIZARD",
+      "genre": "Salsa y Speedcore",
+      "bpm": 135,
+      "song_url": "https://soundcloud.com/the-beat-wizard/viva-la-speedcore",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=262&event=146",
+      "youtube_url": "https://www.youtube.com/watch?v=7ONs7jE6BLs&ab_channel=THEBEATWIZARD",
+      "artist_url": "https://x.com/THE_BEAT_WIZARD",
+      "readme": "README.md",
+      "replaygain": "-10.49 dB",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.jpg",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 1.8,
+      "preview_offset": 90,
+      "preview_url": "bemuse-data/preview.mp3",
+      "added": "2024-10-17T00:00:00.000Z",
+      "id": "Viva%20la%20SPEEDCORE%20%5Bwav%5D%20-%20bemuse",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/Viva%20la%20SPEEDCORE%20%5Bwav%5D%20-%20bemuse/"
     }
   ]
 }
