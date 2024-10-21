@@ -2,7 +2,7 @@
   "bemusepack_url": "bemuse-data/sound/metadata.json",
   "charts": [
     {
-      "md5": "4d01262de1ce610e4b44681fb8c63a7b",
+      "md5": "48b002824c0ad2d9f3fbdd33f9ceb0a1",
       "info": {
         "title": "Crownweaver",
         "artist": "nm-y",
@@ -11,7 +11,7 @@
           "[BEGINNER]"
         ],
         "subartists": [
-          "Movie: Transendium / BMS: ToshiyukiDoma"
+          "Movie: Transendium / BMS: Trina Lydia"
         ],
         "difficulty": 1,
         "level": 2
@@ -29,7 +29,7 @@
       "file": "Crownweaver SPB Lv2.bms"
     },
     {
-      "md5": "3b40f357c4c76cb497e938be91cd962d",
+      "md5": "30822a3484ea28bc38255af8fb3400c7",
       "info": {
         "title": "Crownweaver",
         "artist": "nm-y",
@@ -38,7 +38,7 @@
           "[EASY]"
         ],
         "subartists": [
-          "Movie: Transendium / BMS: ToshiyukiDoma"
+          "Movie: Transendium / BMS: Trina Lydia"
         ],
         "difficulty": 1,
         "level": 5
@@ -56,7 +56,7 @@
       "file": "Crownweaver SPB Lv5.bms"
     },
     {
-      "md5": "a08bd8bb2a9dc931e34b7c0d2f8eb34a",
+      "md5": "c9a366a5ee67799aa2c0e0a7cfc32a13",
       "info": {
         "title": "Crownweaver",
         "artist": "nm-y",
@@ -65,7 +65,7 @@
           "[NORMAL]"
         ],
         "subartists": [
-          "Movie: Transendium / BMS: ToshiyukiDoma"
+          "Movie: Transendium / BMS: Trina Lydia"
         ],
         "difficulty": 2,
         "level": 7
