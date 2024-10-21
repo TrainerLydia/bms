@@ -416,6 +416,60 @@
           "scratch": true,
           "keys": "7K",
           "file": "Crownweaver SPN Lv7.bms"
+        },
+        {
+          "md5": "3b5704888824729d6d3adcf667496872",
+          "info": {
+            "title": "Crownweaver",
+            "artist": "nm-y",
+            "genre": "Sovereign",
+            "subtitles": [
+              "[Weaver of the Crown]"
+            ],
+            "subartists": [
+              "Movie: Transendium / BMS: NXC"
+            ],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1413,
+          "bpm": {
+            "init": 200,
+            "min": 200,
+            "median": 200,
+            "max": 200
+          },
+          "duration": 138.9,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Crownweaver SPA Lv11.bms"
+        },
+        {
+          "md5": "7887ce538a9ad06c3cb8a69ebd2881d8",
+          "info": {
+            "title": "Crownweaver",
+            "artist": "nm-y",
+            "genre": "Sovereign",
+            "subtitles": [
+              "[HJYPER]"
+            ],
+            "subartists": [
+              "Movie: Transendium / BMS: ToshiyukiDoma"
+            ],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 1167,
+          "bpm": {
+            "init": 200,
+            "min": 200,
+            "median": 200,
+            "max": 200
+          },
+          "duration": 138.9,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Crownweaver SPH Lv10.bms"
         }
       ],
       "title": "Crownweaver",
