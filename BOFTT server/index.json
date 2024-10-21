@@ -11,6 +11,10 @@
     {
       "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/Viva%20la%20SPEEDCORE%20%5Bwav%5D%20-%20bemuse/",
       "added": "2024-10-17"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/Crownweaver%20%5Bwav%5D%20-%20bemuse/",
+      "added": "2024-10-21"
     }
   ],
   "songs": [
@@ -328,6 +332,110 @@
       "added": "2024-10-17T00:00:00.000Z",
       "id": "Viva%20la%20SPEEDCORE%20%5Bwav%5D%20-%20bemuse",
       "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/Viva%20la%20SPEEDCORE%20%5Bwav%5D%20-%20bemuse/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "4d01262de1ce610e4b44681fb8c63a7b",
+          "info": {
+            "title": "Crownweaver",
+            "artist": "nm-y",
+            "genre": "Sovereign",
+            "subtitles": [
+              "[BEGINNER]"
+            ],
+            "subartists": [
+              "Movie: Transendium / BMS: ToshiyukiDoma"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 235,
+          "bpm": {
+            "init": 200,
+            "min": 200,
+            "median": 200,
+            "max": 200
+          },
+          "duration": 138.9,
+          "scratch": false,
+          "keys": "7K",
+          "file": "Crownweaver SPB Lv2.bms"
+        },
+        {
+          "md5": "3b40f357c4c76cb497e938be91cd962d",
+          "info": {
+            "title": "Crownweaver",
+            "artist": "nm-y",
+            "genre": "Sovereign",
+            "subtitles": [
+              "[EASY]"
+            ],
+            "subartists": [
+              "Movie: Transendium / BMS: ToshiyukiDoma"
+            ],
+            "difficulty": 1,
+            "level": 5
+          },
+          "noteCount": 421,
+          "bpm": {
+            "init": 200,
+            "min": 200,
+            "median": 200,
+            "max": 200
+          },
+          "duration": 138.9,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Crownweaver SPB Lv5.bms"
+        },
+        {
+          "md5": "a08bd8bb2a9dc931e34b7c0d2f8eb34a",
+          "info": {
+            "title": "Crownweaver",
+            "artist": "nm-y",
+            "genre": "Sovereign",
+            "subtitles": [
+              "[NORMAL]"
+            ],
+            "subartists": [
+              "Movie: Transendium / BMS: ToshiyukiDoma"
+            ],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 778,
+          "bpm": {
+            "init": 200,
+            "min": 200,
+            "median": 200,
+            "max": 200
+          },
+          "duration": 138.9,
+          "scratch": true,
+          "keys": "7K",
+          "file": "Crownweaver SPN Lv7.bms"
+        }
+      ],
+      "title": "Crownweaver",
+      "artist": "nm-y",
+      "genre": "Sovereign",
+      "bpm": 200,
+      "replaygain": "-12.42 dB",
+      "preview_offset": 97,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 1.2,
+      "song_url": "https://soundcloud.com/nm-y/crownweaver",
+      "bms_url": "https://soundcloud.com/nm-y/crownweaver",
+      "artist_url": "https://x.com/nmy_teki",
+      "readme": "README.md",
+      "added": "2024-10-21T00:00:00.000Z",
+      "id": "Crownweaver%20%5Bwav%5D%20-%20bemuse",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/Crownweaver%20%5Bwav%5D%20-%20bemuse/"
     }
   ]
 }
