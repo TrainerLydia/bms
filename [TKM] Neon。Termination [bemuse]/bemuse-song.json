@@ -150,5 +150,8 @@
   "back_image_url": "bemuse-data/back_image.jpg",
   "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
   "video_url": "bemuse-data/bga.mp4",
-  "video_offset": 2.25
+  "video_offset": 2.25,
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=224&event=149",
+  "youtube_url": "https://www.youtube.com/watch?v=IyqZsdw89w8",
+  "bmssearch_id": "ntbof21"
 }
