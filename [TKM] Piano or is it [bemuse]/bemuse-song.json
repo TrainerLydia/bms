@@ -1,0 +1,102 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "2b26db6ba75479085e2d2cd8de93f826",
+      "info": {
+        "title": "Piano...or is it?",
+        "artist": "Trina Lydia",
+        "genre": "Piano...?",
+        "subtitles": [
+          "[HYPER]"
+        ],
+        "subartists": [
+          "mov: Choko, Trina Lydia / obj: LEVenhuk"
+        ],
+        "difficulty": 0,
+        "level": 10
+      },
+      "noteCount": 1353,
+      "bpm": {
+        "init": 145,
+        "min": 145,
+        "median": 145,
+        "max": 145
+      },
+      "duration": 209.17241379310346,
+      "scratch": true,
+      "keys": "7K",
+      "file": "7K_Hyper.bms"
+    },
+    {
+      "md5": "3f3793371dab7713c035d74eca278b46",
+      "info": {
+        "title": "Piano...or is it?",
+        "artist": "Trina Lydia",
+        "genre": "Piano...?",
+        "subtitles": [
+          "[ANOTHER]"
+        ],
+        "subartists": [
+          "mov: Choko, Trina Lydia / obj: LEVenhuk"
+        ],
+        "difficulty": 0,
+        "level": 12
+      },
+      "noteCount": 2036,
+      "bpm": {
+        "init": 145,
+        "min": 145,
+        "median": 145,
+        "max": 145
+      },
+      "duration": 209.17241379310346,
+      "scratch": true,
+      "keys": "7K",
+      "file": "7K_Another.bms"
+    },
+    {
+      "md5": "f5f3dbf16675497ff138dfc670194fd8",
+      "info": {
+        "title": "Piano...or is it?",
+        "artist": "Trina Lydia",
+        "genre": "Piano...?",
+        "subtitles": [
+          "[NORMAL]"
+        ],
+        "subartists": [
+          "mov: Choko, Trina Lydia / obj: LEVenhuk"
+        ],
+        "difficulty": 2,
+        "level": 7
+      },
+      "noteCount": 935,
+      "bpm": {
+        "init": 145,
+        "min": 145,
+        "median": 145,
+        "max": 145
+      },
+      "duration": 209.17241379310346,
+      "scratch": true,
+      "keys": "7K",
+      "file": "7K_Normal.bms"
+    }
+  ],
+  "title": "Piano...or is it?",
+  "artist": "Trina Lydia",
+  "genre": "Piano...?",
+  "bpm": 145,
+  "song_url": "https://soundcloud.com/trainer-lolxd/bof21pio",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=228&event=149",
+  "youtube_url": "https://www.youtube.com/watch?v=wQJ44oRfPyw",
+  "bmssearch_id": "poibof21",
+  "artist_url": "https://x.com/trina_lydia",
+  "readme": "README.md",
+  "replaygain": "-8.31 dB",
+  "back_image_url": "bemuse-data/back_image.png",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "preview_offset": 57,
+  "preview_url": "bemuse-data/preview.mp3"
+}
