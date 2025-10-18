@@ -1,0 +1,525 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5BTKM%5D%20Neon%E3%80%82Termination%20%5Bbemuse%5D/",
+      "added": "2025-10-18"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5BTKM%5D%20Piano%20or%20is%20it%20%5Bbemuse%5D/",
+      "added": "2025-10-18"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5BTKM%5D%20Piano%20or%20is%20it%20%5Bbemuse%5D%20%5Bno%20intro%5D/",
+      "added": "2025-10-18"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5BTKM%5D%20The%20Cosmic%20Letter%20-Intersellar%20ReUNION-%20%5Bbemuse%5D/",
+      "added": "2025-10-18"
+    }
+  ],
+  "songs": [
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "88983c8c3680d95ceca0a499fa9f2840",
+          "info": {
+            "title": "Neon갃Termination",
+            "artist": "Trina Lydia vs. ElectroLYTE",
+            "genre": "Oriental Synthwave",
+            "subtitles": [
+              "[SP Beginner]"
+            ],
+            "subartists": [
+              "mov: Choko, Trina Lydia / obj: OfficialAz3"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 203,
+          "bpm": {
+            "init": 108,
+            "min": 108,
+            "median": 108,
+            "max": 108
+          },
+          "duration": 191.11111111111111,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7k_beginner.bms"
+        },
+        {
+          "md5": "0b2836447765393a3a99200b2c3eae6d",
+          "info": {
+            "title": "Neon갃Termination",
+            "artist": "Trina Lydia vs. ElectroLYTE",
+            "genre": "Oriental Synthwave",
+            "subtitles": [
+              "[SP Normal]"
+            ],
+            "subartists": [
+              "mov: Choko, Trina Lydia / obj: OfficialAz3"
+            ],
+            "difficulty": 2,
+            "level": 5
+          },
+          "noteCount": 664,
+          "bpm": {
+            "init": 108,
+            "min": 108,
+            "median": 108,
+            "max": 108
+          },
+          "duration": 191.11111111111111,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7k_normal.bms"
+        },
+        {
+          "md5": "07c8aa898caec4fcc69e99ab8b6a84eb",
+          "info": {
+            "title": "Neon갃Termination",
+            "artist": "Trina Lydia vs. ElectroLYTE",
+            "genre": "Oriental Synthwave",
+            "subtitles": [
+              "[SP Hyper]"
+            ],
+            "subartists": [
+              "mov: Choko, Trina Lydia / obj: OfficialAz3"
+            ],
+            "difficulty": 3,
+            "level": 8
+          },
+          "noteCount": 838,
+          "bpm": {
+            "init": 108,
+            "min": 108,
+            "median": 108,
+            "max": 108
+          },
+          "duration": 191.11111111111111,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7k_hyper.bms"
+        },
+        {
+          "md5": "8725430b01813a3ffcd5de80aa11e91d",
+          "info": {
+            "title": "Neon갃Termination",
+            "artist": "Trina Lydia vs. ElectroLYTE",
+            "genre": "Oriental Synthwave",
+            "subtitles": [
+              "[SP Terminator]"
+            ],
+            "subartists": [
+              "mov: Choko, Trina Lydia / obj: OfficialAz3"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 1694,
+          "bpm": {
+            "init": 108,
+            "min": 108,
+            "median": 108,
+            "max": 108
+          },
+          "duration": 191.11111111111111,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7k_insane.bms"
+        },
+        {
+          "md5": "8bab624b93bdc019341a1ee811ec7cdf",
+          "info": {
+            "title": "Neon갃Termination",
+            "artist": "Trina Lydia",
+            "genre": "Oriental Synthwave",
+            "subtitles": [
+              "[SP Another]"
+            ],
+            "subartists": [
+              "mov: Choko, Trina Lydia / obj: OfficialAz3"
+            ],
+            "difficulty": 4,
+            "level": 10
+          },
+          "noteCount": 1433,
+          "bpm": {
+            "init": 108,
+            "min": 108,
+            "median": 108,
+            "max": 108
+          },
+          "duration": 191.11111111111111,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7k_another.bms"
+        }
+      ],
+      "title": "Neon。Termination",
+      "artist": "Trina Lydia vs. ElectroLYTE",
+      "genre": "Oriental Synthwave",
+      "bpm": 108,
+      "song_url": "https://soundcloud.com/trainer-lolxd/bof21nt",
+      "artist_url": "https://x.com/trina_lydia",
+      "readme": "README.md",
+      "replaygain": "-10.25 dB",
+      "preview_offset": 57,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 2.25,
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=224&event=149",
+      "youtube_url": "https://www.youtube.com/watch?v=IyqZsdw89w8",
+      "bmssearch_id": "ntbof21",
+      "added": "2025-10-18T00:00:00.000Z",
+      "id": "%5BTKM%5D%20Neon%E3%80%82Termination%20%5Bbemuse%5D",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5BTKM%5D%20Neon%E3%80%82Termination%20%5Bbemuse%5D/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "2b26db6ba75479085e2d2cd8de93f826",
+          "info": {
+            "title": "Piano...or is it?",
+            "artist": "Trina Lydia",
+            "genre": "Piano...?",
+            "subtitles": [
+              "[HYPER]"
+            ],
+            "subartists": [
+              "mov: Choko, Trina Lydia / obj: LEVenhuk"
+            ],
+            "difficulty": 0,
+            "level": 10
+          },
+          "noteCount": 1353,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 209.17241379310346,
+          "scratch": true,
+          "keys": "7K",
+          "file": "7K_Hyper.bms"
+        },
+        {
+          "md5": "3f3793371dab7713c035d74eca278b46",
+          "info": {
+            "title": "Piano...or is it?",
+            "artist": "Trina Lydia",
+            "genre": "Piano...?",
+            "subtitles": [
+              "[ANOTHER]"
+            ],
+            "subartists": [
+              "mov: Choko, Trina Lydia / obj: LEVenhuk"
+            ],
+            "difficulty": 0,
+            "level": 12
+          },
+          "noteCount": 2036,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 209.17241379310346,
+          "scratch": true,
+          "keys": "7K",
+          "file": "7K_Another.bms"
+        },
+        {
+          "md5": "f5f3dbf16675497ff138dfc670194fd8",
+          "info": {
+            "title": "Piano...or is it?",
+            "artist": "Trina Lydia",
+            "genre": "Piano...?",
+            "subtitles": [
+              "[NORMAL]"
+            ],
+            "subartists": [
+              "mov: Choko, Trina Lydia / obj: LEVenhuk"
+            ],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 935,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 209.17241379310346,
+          "scratch": true,
+          "keys": "7K",
+          "file": "7K_Normal.bms"
+        }
+      ],
+      "title": "Piano...or is it?",
+      "artist": "Trina Lydia",
+      "genre": "Piano...?",
+      "bpm": 145,
+      "song_url": "https://soundcloud.com/trainer-lolxd/bof21pio",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=228&event=149",
+      "youtube_url": "https://www.youtube.com/watch?v=wQJ44oRfPyw",
+      "bmssearch_id": "poibof21",
+      "artist_url": "https://x.com/trina_lydia",
+      "readme": "README.md",
+      "replaygain": "-8.31 dB",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "preview_offset": 57,
+      "preview_url": "bemuse-data/preview.mp3",
+      "added": "2025-10-18T00:00:00.000Z",
+      "id": "%5BTKM%5D%20Piano%20or%20is%20it%20%5Bbemuse%5D",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5BTKM%5D%20Piano%20or%20is%20it%20%5Bbemuse%5D/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "bde4361aa66922a79925292b3f651347",
+          "info": {
+            "title": "Piano...or is it? (No intro)",
+            "artist": "Trina Lydia",
+            "genre": "Piano...?",
+            "subtitles": [
+              "[HYPER] (No intro)"
+            ],
+            "subartists": [
+              "mov: Choko, Trina Lydia / obj: LEVenhuk"
+            ],
+            "difficulty": 0,
+            "level": 10
+          },
+          "noteCount": 1353,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 185.3793103448276,
+          "scratch": true,
+          "keys": "7K",
+          "file": "7K_Hyper_nointro.bms"
+        },
+        {
+          "md5": "a9c950c0f57df56fd20cfe370aff847d",
+          "info": {
+            "title": "Piano...or is it?",
+            "artist": "Trina Lydia",
+            "genre": "Piano...?",
+            "subtitles": [
+              "[NORMAL] (No intro)"
+            ],
+            "subartists": [
+              "mov: Choko, Trina Lydia / obj: LEVenhuk"
+            ],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 935,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 185.3793103448276,
+          "scratch": true,
+          "keys": "7K",
+          "file": "7K_Normal_nointro.bms"
+        },
+        {
+          "md5": "6f18ee279485465defd3e3cc2ef655a3",
+          "info": {
+            "title": "Piano...or is it?",
+            "artist": "Trina Lydia",
+            "genre": "Piano...?",
+            "subtitles": [
+              "[ANOTHER] (No intro)"
+            ],
+            "subartists": [
+              "mov: Choko, Trina Lydia / obj: LEVenhuk"
+            ],
+            "difficulty": 0,
+            "level": 12
+          },
+          "noteCount": 2036,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 185.3793103448276,
+          "scratch": true,
+          "keys": "7K",
+          "file": "7K_Another_nointro.bms"
+        }
+      ],
+      "title": "Piano...or is it?",
+      "artist": "Trina Lydia",
+      "genre": "Piano...?",
+      "bpm": 145,
+      "song_url": "https://soundcloud.com/trainer-lolxd/bof21pio",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=228&event=149",
+      "youtube_url": "https://www.youtube.com/watch?v=wQJ44oRfPyw",
+      "bmssearch_id": "poibof21",
+      "readme": "README.md",
+      "artist_url": "https://x.com/trina_lydia",
+      "replaygain": "-8.4 dB",
+      "preview_offset": 32,
+      "preview_url": "bemuse-data/preview.mp3",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "added": "2025-10-18T00:00:00.000Z",
+      "id": "%5BTKM%5D%20Piano%20or%20is%20it%20%5Bbemuse%5D%20%5Bno%20intro%5D",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5BTKM%5D%20Piano%20or%20is%20it%20%5Bbemuse%5D%20%5Bno%20intro%5D/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "a5c838f9093397e2862ea4942a332963",
+          "info": {
+            "title": "The Cosmic Letter -Interstellar Re:UNION-",
+            "artist": "Trina Lydia",
+            "genre": "Space adventure pop",
+            "subtitles": [
+              "[SP ANOTHER]"
+            ],
+            "subartists": [
+              "mov: MM, Trina Lydia / obj: L216"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1792,
+          "bpm": {
+            "init": 185,
+            "min": 185,
+            "median": 185,
+            "max": 185
+          },
+          "duration": 182.9189189189189,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7A.bms"
+        },
+        {
+          "md5": "1a5967de53688e1196cf9961ac034f8a",
+          "info": {
+            "title": "The Cosmic Letter -Interstellar Re:UNION-",
+            "artist": "Trina Lydia",
+            "genre": "Space adventure pop",
+            "subtitles": [
+              "[SP NORMAL]"
+            ],
+            "subartists": [
+              "mov: MM, Trina Lydia / obj: L216"
+            ],
+            "difficulty": 2,
+            "level": 5
+          },
+          "noteCount": 629,
+          "bpm": {
+            "init": 185,
+            "min": 185,
+            "median": 185,
+            "max": 185
+          },
+          "duration": 182.9189189189189,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7N.bms"
+        },
+        {
+          "md5": "2369bb4e4af2d3f563d48d61de00e85c",
+          "info": {
+            "title": "The Cosmic Letter -Interstellar Re:UNION-",
+            "artist": "Trina Lydia",
+            "genre": "Space adventure pop",
+            "subtitles": [
+              "[SP HYPER]"
+            ],
+            "subartists": [
+              "mov: MM, Trina Lydia / obj: L216"
+            ],
+            "difficulty": 3,
+            "level": 9
+          },
+          "noteCount": 1081,
+          "bpm": {
+            "init": 185,
+            "min": 185,
+            "median": 185,
+            "max": 185
+          },
+          "duration": 182.9189189189189,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7H.bms"
+        },
+        {
+          "md5": "03143a4d9f6d7d535cdc840d752998f2",
+          "info": {
+            "title": "The Cosmic Letter -Interstellar Re:UNION-",
+            "artist": "Trina Lydia",
+            "genre": "Space adventure pop",
+            "subtitles": [
+              "[SP BEGINNER]"
+            ],
+            "subartists": [
+              "mov: MM, Trina Lydia / obj: L216"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 339,
+          "bpm": {
+            "init": 185,
+            "min": 185,
+            "median": 185,
+            "max": 185
+          },
+          "duration": 182.9189189189189,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7B.bms"
+        }
+      ],
+      "title": "The Cosmic Letter -Interstellar Re:UNION-",
+      "artist": "Trina Lydia",
+      "genre": "Space adventure pop",
+      "bpm": 185,
+      "song_url": "https://soundcloud.com/trainer-lolxd/bof21tcl",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=149",
+      "youtube_url": "https://www.youtube.com/watch?v=PjQ8SAnj-fY",
+      "bmssearch_id": "tclbof21",
+      "artist_url": "https://x.com/bms_of_fighters",
+      "readme": "README.md",
+      "replaygain": "-10.23 dB",
+      "back_image_url": "bemuse-data/back_image.jpg",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 1.2,
+      "preview_offset": 47,
+      "preview_url": "bemuse-data/preview.mp3",
+      "added": "2025-10-18T00:00:00.000Z",
+      "id": "%5BTKM%5D%20The%20Cosmic%20Letter%20-Intersellar%20ReUNION-%20%5Bbemuse%5D",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5BTKM%5D%20The%20Cosmic%20Letter%20-Intersellar%20ReUNION-%20%5Bbemuse%5D/"
+    }
+  ]
+}
