@@ -1,0 +1,130 @@
+{
+  "bemusepack_url": "bemuse-data/sound/metadata.json",
+  "charts": [
+    {
+      "md5": "a5c838f9093397e2862ea4942a332963",
+      "info": {
+        "title": "The Cosmic Letter -Interstellar Re:UNION-",
+        "artist": "Trina Lydia",
+        "genre": "Space adventure pop",
+        "subtitles": [
+          "[SP ANOTHER]"
+        ],
+        "subartists": [
+          "mov: MM, Trina Lydia / obj: L216"
+        ],
+        "difficulty": 4,
+        "level": 12
+      },
+      "noteCount": 1792,
+      "bpm": {
+        "init": 185,
+        "min": 185,
+        "median": 185,
+        "max": 185
+      },
+      "duration": 182.9189189189189,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_7A.bms"
+    },
+    {
+      "md5": "1a5967de53688e1196cf9961ac034f8a",
+      "info": {
+        "title": "The Cosmic Letter -Interstellar Re:UNION-",
+        "artist": "Trina Lydia",
+        "genre": "Space adventure pop",
+        "subtitles": [
+          "[SP NORMAL]"
+        ],
+        "subartists": [
+          "mov: MM, Trina Lydia / obj: L216"
+        ],
+        "difficulty": 2,
+        "level": 5
+      },
+      "noteCount": 629,
+      "bpm": {
+        "init": 185,
+        "min": 185,
+        "median": 185,
+        "max": 185
+      },
+      "duration": 182.9189189189189,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_7N.bms"
+    },
+    {
+      "md5": "2369bb4e4af2d3f563d48d61de00e85c",
+      "info": {
+        "title": "The Cosmic Letter -Interstellar Re:UNION-",
+        "artist": "Trina Lydia",
+        "genre": "Space adventure pop",
+        "subtitles": [
+          "[SP HYPER]"
+        ],
+        "subartists": [
+          "mov: MM, Trina Lydia / obj: L216"
+        ],
+        "difficulty": 3,
+        "level": 9
+      },
+      "noteCount": 1081,
+      "bpm": {
+        "init": 185,
+        "min": 185,
+        "median": 185,
+        "max": 185
+      },
+      "duration": 182.9189189189189,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_7H.bms"
+    },
+    {
+      "md5": "03143a4d9f6d7d535cdc840d752998f2",
+      "info": {
+        "title": "The Cosmic Letter -Interstellar Re:UNION-",
+        "artist": "Trina Lydia",
+        "genre": "Space adventure pop",
+        "subtitles": [
+          "[SP BEGINNER]"
+        ],
+        "subartists": [
+          "mov: MM, Trina Lydia / obj: L216"
+        ],
+        "difficulty": 1,
+        "level": 2
+      },
+      "noteCount": 339,
+      "bpm": {
+        "init": 185,
+        "min": 185,
+        "median": 185,
+        "max": 185
+      },
+      "duration": 182.9189189189189,
+      "scratch": true,
+      "keys": "7K",
+      "file": "_7B.bms"
+    }
+  ],
+  "title": "The Cosmic Letter -Interstellar Re:UNION-",
+  "artist": "Trina Lydia",
+  "genre": "Space adventure pop",
+  "bpm": 185,
+  "song_url": "https://soundcloud.com/trainer-lolxd/bof21tcl",
+  "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=222&event=149",
+  "youtube_url": "https://www.youtube.com/watch?v=PjQ8SAnj-fY",
+  "bmssearch_id": "tclbof21",
+  "artist_url": "https://x.com/bms_of_fighters",
+  "readme": "README.md",
+  "replaygain": "-10.23 dB",
+  "back_image_url": "bemuse-data/back_image.jpg",
+  "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+  "video_url": "bemuse-data/bga.mp4",
+  "video_offset": 1.2,
+  "preview_offset": 47,
+  "preview_url": "bemuse-data/preview.mp3"
+}
