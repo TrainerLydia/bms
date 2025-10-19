@@ -4,7 +4,7 @@
 #PLAYER 1
 #GENRE Oriental Synthwave
 #TITLE NeonÅBTermination
-#ARTIST Trina Lydia
+#ARTIST Trina Lydia vs. ElectroLYTE
 #BPM 108
 #PLAYLEVEL 10
 #RANK 3
@@ -1200,6 +1200,7 @@
 #WAVZY BG4.wav
 #WAVZZ BG5.wav
 #BMP01 BGA.wmv
+#BMP02 miss.png
 
 
 *---------------------- MAIN DATA FIELD
@@ -1233,6 +1234,7 @@
 #00101:00
 #00101:ZV
 #00104:01
+#00106:02
 
 #00212:01
 
