@@ -22,33 +22,6 @@
       "bemusepack_url": "bemuse-data/sound/metadata.json",
       "charts": [
         {
-          "md5": "88983c8c3680d95ceca0a499fa9f2840",
-          "info": {
-            "title": "Neon갃Termination",
-            "artist": "Trina Lydia vs. ElectroLYTE",
-            "genre": "Oriental Synthwave",
-            "subtitles": [
-              "[SP Beginner]"
-            ],
-            "subartists": [
-              "mov: Choko, Trina Lydia / obj: OfficialAz3"
-            ],
-            "difficulty": 1,
-            "level": 2
-          },
-          "noteCount": 203,
-          "bpm": {
-            "init": 108,
-            "min": 108,
-            "median": 108,
-            "max": 108
-          },
-          "duration": 191.11111111111111,
-          "scratch": true,
-          "keys": "7K",
-          "file": "_7k_beginner.bms"
-        },
-        {
           "md5": "0b2836447765393a3a99200b2c3eae6d",
           "info": {
             "title": "Neon갃Termination",
@@ -76,21 +49,21 @@
           "file": "_7k_normal.bms"
         },
         {
-          "md5": "07c8aa898caec4fcc69e99ab8b6a84eb",
+          "md5": "88983c8c3680d95ceca0a499fa9f2840",
           "info": {
             "title": "Neon갃Termination",
             "artist": "Trina Lydia vs. ElectroLYTE",
             "genre": "Oriental Synthwave",
             "subtitles": [
-              "[SP Hyper]"
+              "[SP Beginner]"
             ],
             "subartists": [
               "mov: Choko, Trina Lydia / obj: OfficialAz3"
             ],
-            "difficulty": 3,
-            "level": 8
+            "difficulty": 1,
+            "level": 2
           },
-          "noteCount": 838,
+          "noteCount": 203,
           "bpm": {
             "init": 108,
             "min": 108,
@@ -100,7 +73,7 @@
           "duration": 191.11111111111111,
           "scratch": true,
           "keys": "7K",
-          "file": "_7k_hyper.bms"
+          "file": "_7k_beginner.bms"
         },
         {
           "md5": "8725430b01813a3ffcd5de80aa11e91d",
@@ -130,10 +103,37 @@
           "file": "_7k_insane.bms"
         },
         {
-          "md5": "8bab624b93bdc019341a1ee811ec7cdf",
+          "md5": "07c8aa898caec4fcc69e99ab8b6a84eb",
           "info": {
             "title": "Neon갃Termination",
-            "artist": "Trina Lydia",
+            "artist": "Trina Lydia vs. ElectroLYTE",
+            "genre": "Oriental Synthwave",
+            "subtitles": [
+              "[SP Hyper]"
+            ],
+            "subartists": [
+              "mov: Choko, Trina Lydia / obj: OfficialAz3"
+            ],
+            "difficulty": 3,
+            "level": 8
+          },
+          "noteCount": 838,
+          "bpm": {
+            "init": 108,
+            "min": 108,
+            "median": 108,
+            "max": 108
+          },
+          "duration": 191.11111111111111,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7k_hyper.bms"
+        },
+        {
+          "md5": "8128a96473212321258f77b73a1d4a2d",
+          "info": {
+            "title": "Neon갃Termination",
+            "artist": "Trina Lydia vs. ElectroLYTE",
             "genre": "Oriental Synthwave",
             "subtitles": [
               "[SP Another]"
