@@ -1,0 +1,222 @@
+{
+  "urls": [
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5B%E6%88%90%E9%9F%B3%E6%BA%90%5D%20%E5%B7%A7%E7%85%A9%E7%89%99!!%20%5Bbemuse%5D/",
+      "added": "2026-10-09"
+    }
+  ],
+  "songs": [
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "3989f803cae4f62bcad1bf7d5c589877",
+          "info": {
+            "title": "●3●+*°°°× 巧煩牙!!＊ T^T 凸",
+            "artist": "<3絶對lunul ^3^<3 .＊曖 +＋rina=Lydi＋+ °°曖＊ 乂殺氣ゑIc*3*乂 (三角関系)",
+            "genre": "+;![].MK.＊ ＣORE _ ×°°°×．__",
+            "subtitles": [
+              "[SP Beginner]"
+            ],
+            "subartists": [
+              "mov: Cruxhkg, LoTag, Trina Lydia / obj: Trina Lydia"
+            ],
+            "difficulty": 1,
+            "level": 2
+          },
+          "noteCount": 214,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 155.2941176470588,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7B.bms"
+        },
+        {
+          "md5": "7e31ae1ecca507e7a83def895c75e02b",
+          "info": {
+            "title": "●3●+*°°°× 巧煩牙!!＊ T^T 凸",
+            "artist": "<3絶對lunul ^3^<3 .＊曖 +＋rina=Lydi＋+ °°曖＊ 乂殺氣ゑIc*3*乂 (三角関系)",
+            "genre": "+;![].MK.＊ ＣORE _ ×°°°×．__",
+            "subtitles": [
+              "[DP Beat & Scratch]"
+            ],
+            "subartists": [
+              "mov: Cruxhkg, Erin Lo, Trina Lydia / obj:lai-"
+            ],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 301,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 155.2941176470588,
+          "scratch": true,
+          "keys": "14K",
+          "file": "_14N.bms"
+        },
+        {
+          "md5": "5c9df03aa7650e6ae8225d01fab263df",
+          "info": {
+            "title": "●3●+*°°°× 巧煩牙!!＊ T^T 凸",
+            "artist": "<3絶對lunul ^3^<3 .＊曖 +＋rina=Lydi＋+ °°曖＊ 乂殺氣ゑIc*3*乂 (三角関系)",
+            "genre": "+;![].MK.＊ ＣORE _ ×°°°×．__",
+            "subtitles": [
+              "[DP Tech]"
+            ],
+            "subartists": [
+              "mov: Cruxhkg, Erin Lo, Trina Lydia / obj:lai-"
+            ],
+            "difficulty": 3,
+            "level": 12
+          },
+          "noteCount": 643,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 155.2941176470588,
+          "scratch": true,
+          "keys": "14K",
+          "file": "_14H.bms"
+        },
+        {
+          "md5": "a828b5fff62486580744439c3c9235b7",
+          "info": {
+            "title": "●3●+*°°°× 巧煩牙!!＊ T^T 凸",
+            "artist": "<3絶對lunul ^3^<3 .＊曖 +＋rina=Lydi＋+ °°曖＊ 乂殺氣ゑIc*3*乂 (三角関系)",
+            "genre": "+;![].MK.＊ ＣORE _ ×°°°×．__",
+            "subtitles": [
+              "[SP Hyper]"
+            ],
+            "subartists": [
+              "mov: Cruxhkg, Erin Lo, Trina Lydia / obj:lai-"
+            ],
+            "difficulty": 3,
+            "level": 11
+          },
+          "noteCount": 1254,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 155.2941176470588,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7H.bms"
+        },
+        {
+          "md5": "267486ab299baf84caed3dd296a91d17",
+          "info": {
+            "title": "●3●+*°°°× 巧煩牙!!＊ T^T 凸",
+            "artist": "<3絶對lunul ^3^<3 .＊曖 +＋rina=Lydi＋+ °°曖＊ 乂殺氣ゑIc*3*乂 (三角関系)",
+            "genre": "+;![].MK.＊ ＣORE _ ×°°°×．__",
+            "subtitles": [
+              "[SP Normal]"
+            ],
+            "subartists": [
+              "mov: Cruxhkg, Erin Lo, Trina Lydia / obj:lai-"
+            ],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 632,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 155.2941176470588,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7N.bms"
+        },
+        {
+          "md5": "0dbf65d0ee88b6fb63c2011b86a42ca6",
+          "info": {
+            "title": "●3●+*°°°× 巧煩牙!!＊ T^T 凸",
+            "artist": "<3絶對lunul ^3^<3 .＊曖 +＋rina=Lydi＋+ °°曖＊ 乂殺氣ゑIc*3*乂 (三角関系)",
+            "genre": "+;![].MK.＊ ＣORE _ ×°°°×．__",
+            "subtitles": [
+              "[SP Another]"
+            ],
+            "subartists": [
+              "mov: Cruxhkg, Erin Lo, Trina Lydia / obj: cloo"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 1820,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 155.2941176470588,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7A.bms"
+        },
+        {
+          "md5": "f390ab504fc6a0b30eb7e3ba8fada262",
+          "info": {
+            "title": "●3●+*°°°× 巧煩牙!!＊ T^T 凸",
+            "artist": "<3絶對lunul ^3^<3 .＊曖 +＋rina=Lydi＋+ °°曖＊ 乂殺氣ゑIc*3*乂 (三角関系)",
+            "genre": "+;![].MK.＊ ＣORE _ ×°°°×．__",
+            "subtitles": [
+              "[SP MK88]"
+            ],
+            "subartists": [
+              "mov: Cruxhkg, Erin Lo, Trina Lydia / obj: cloo"
+            ],
+            "difficulty": 5,
+            "level": 13
+          },
+          "noteCount": 2628,
+          "bpm": {
+            "init": 170,
+            "min": 170,
+            "median": 170,
+            "max": 170
+          },
+          "duration": 155.2941176470588,
+          "scratch": true,
+          "keys": "7K",
+          "file": "_7I.bms"
+        }
+      ],
+      "title": "●3●+*°°°× 巧煩牙!!＊ T^T 凸",
+      "artist": "♡絕對lunul ^3^♡ .＊曖 +✚rina=Lydi✚+ °°曖＊ 乂煞氣ゑIc*3*乂 (三角関系)",
+      "genre": "+;![].MK.＊ ＣORE _ ×°°°×．__",
+      "bpm": 170,
+      "replaygain": "-9.87 dB",
+      "song_url": "https://soundcloud.com/trainer-lolxd/mk",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=159&event=152",
+      "youtube_url": "https://www.youtube.com/watch?v=w83ij5y72qE",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "preview_offset": 0,
+      "preview_url": "bemuse-data/preview.mp3",
+      "video_offset": 1.4,
+      "added": "2026-10-09T00:00:00.000Z",
+      "id": "%5B%E6%88%90%E9%9F%B3%E6%BA%90%5D%20%E5%B7%A7%E7%85%A9%E7%89%99!!%20%5Bbemuse%5D",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5B%E6%88%90%E9%9F%B3%E6%BA%90%5D%20%E5%B7%A7%E7%85%A9%E7%89%99!!%20%5Bbemuse%5D/"
+    }
+  ]
+}
