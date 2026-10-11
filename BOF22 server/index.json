@@ -3,6 +3,10 @@
     {
       "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5B%E6%88%90%E9%9F%B3%E6%BA%90%5D%20%E5%B7%A7%E7%85%A9%E7%89%99!!%20%5Bbemuse%5D/",
       "added": "2026-10-09"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5B%E6%88%90%E9%9F%B3%E6%BA%90%5D%20Mobile%20Softee%20%5Bbemuse%5D/",
+      "added": "2026-10-11"
     }
   ],
   "songs": [
@@ -217,6 +221,299 @@
       "added": "2026-10-09T00:00:00.000Z",
       "id": "%5B%E6%88%90%E9%9F%B3%E6%BA%90%5D%20%E5%B7%A7%E7%85%A9%E7%89%99!!%20%5Bbemuse%5D",
       "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5B%E6%88%90%E9%9F%B3%E6%BA%90%5D%20%E5%B7%A7%E7%85%A9%E7%89%99!!%20%5Bbemuse%5D/"
+    },
+    {
+      "bemusepack_url": "bemuse-data/sound/metadata.json",
+      "charts": [
+        {
+          "md5": "97095f9829e7c9f5d0a3972622a9cf20",
+          "info": {
+            "title": "Mobile Softee",
+            "artist": "DCWH, Ice, lunul, Trina Lydia",
+            "genre": "Hypertrance",
+            "subtitles": [
+              "[DP Jumbo Orange]"
+            ],
+            "subartists": [
+              "mov: Transendium / obj: lai-"
+            ],
+            "difficulty": 4,
+            "level": 12
+          },
+          "noteCount": 779,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 166.75862068965517,
+          "scratch": true,
+          "keys": "14K",
+          "file": "MS_14A.bms"
+        },
+        {
+          "md5": "d2df52579ba96b5fba44ed61d0a81f1d",
+          "info": {
+            "title": "Mobile Softee",
+            "artist": "DCWH, Ice, lunul, Trina Lydia",
+            "genre": "Hypertrance",
+            "subtitles": [
+              "[SP Lotus Cups]"
+            ],
+            "subartists": [
+              "mov: Transendium / obj: yukari"
+            ],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 1215,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 166.75862068965517,
+          "scratch": true,
+          "keys": "7K",
+          "file": "MS_7H.bms"
+        },
+        {
+          "md5": "e09519f7715b4ebb3e748afac8364414",
+          "info": {
+            "title": "Mobile Softee",
+            "artist": "DCWH, Ice, lunul, Trina Lydia",
+            "genre": "Hypertrance",
+            "subtitles": [
+              "[DP Nutty Drumstick]"
+            ],
+            "subartists": [
+              "mov: Transendium / obj: lai-"
+            ],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 339,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 166.75862068965517,
+          "scratch": true,
+          "keys": "14K",
+          "file": "MS_14N.bms"
+        },
+        {
+          "md5": "59423ec792e650d2d6ea339c40d3f0e3",
+          "info": {
+            "title": "Mobile Softee",
+            "artist": "DCWH, Ice, lunul, Trina Lydia",
+            "genre": "Hypertrance",
+            "subtitles": [
+              "[SP Nutty Drumstick]"
+            ],
+            "subartists": [
+              "mov: Transendium / obj: yukari"
+            ],
+            "difficulty": 2,
+            "level": 7
+          },
+          "noteCount": 794,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 166.75862068965517,
+          "scratch": true,
+          "keys": "7K",
+          "file": "MS_7N.bms"
+        },
+        {
+          "md5": "91617895ce146483d3df8c532ef482c7",
+          "info": {
+            "title": "Mobile Softee",
+            "artist": "DCWH, Ice, lunul, Trina Lydia",
+            "genre": "Hypertrance",
+            "subtitles": [
+              "[SP Soft Ice Cream]"
+            ],
+            "subartists": [
+              "mov: Transendium / obj: DCWH"
+            ],
+            "difficulty": 1,
+            "level": 3
+          },
+          "noteCount": 401,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 166.75862068965517,
+          "scratch": true,
+          "keys": "7K",
+          "file": "MS_7B.bms"
+        },
+        {
+          "md5": "dd9b843724231c8acb7015e0c34f9dd5",
+          "info": {
+            "title": "Mobile Softee",
+            "artist": "DCWH, Ice, lunul, Trina Lydia",
+            "genre": "Hypertrance",
+            "subtitles": [
+              "[SP Strawberry Soft Serve]"
+            ],
+            "subartists": [
+              "mov: Transendium / obj: cloo"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2442,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 166.75862068965517,
+          "scratch": true,
+          "keys": "7K",
+          "file": "MS_7I.bms"
+        },
+        {
+          "md5": "0e19d70138f96b4573f12c3deec2380a",
+          "info": {
+            "title": "Mobile Softee",
+            "artist": "DCWH, Ice, lunul, Trina Lydia",
+            "genre": "Hypertrance",
+            "subtitles": [
+              "[SP Jumbo Orange]"
+            ],
+            "subartists": [
+              "mov: Transendium / obj: lai-"
+            ],
+            "difficulty": 4,
+            "level": 11
+          },
+          "noteCount": 1547,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 166.75862068965517,
+          "scratch": true,
+          "keys": "7K",
+          "file": "MS_7A.bms"
+        },
+        {
+          "md5": "d7d734baa802d3c560cf02e7995624f8",
+          "info": {
+            "title": "Mobile Softee",
+            "artist": "DCWH, Ice, lunul, Trina Lydia",
+            "genre": "Hypertrance",
+            "subtitles": [
+              "[DP Strawberry Soft Serve]"
+            ],
+            "subartists": [
+              "mov: Transendium / obj: cloo"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 1247,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 166.75862068965517,
+          "scratch": true,
+          "keys": "14K",
+          "file": "MS_14I.bms"
+        },
+        {
+          "md5": "610b8e6536ed676514b6f1ccde9de682",
+          "info": {
+            "title": "Mobile Softee",
+            "artist": "DCWH, Ice, lunul, Trina Lydia",
+            "genre": "Hypertrance",
+            "subtitles": [
+              "[SP Scratch Flavoured]"
+            ],
+            "subartists": [
+              "mov: Transendium / obj: cloo"
+            ],
+            "difficulty": 5,
+            "level": 12
+          },
+          "noteCount": 2120,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 166.75862068965517,
+          "scratch": true,
+          "keys": "7K",
+          "file": "MS_7S.bms"
+        },
+        {
+          "md5": "8dfcb16464dd694eeb09dfe21b8b7986",
+          "info": {
+            "title": "Mobile Softee",
+            "artist": "DCWH, Ice, lunul, Trina Lydia",
+            "genre": "Hypertrance",
+            "subtitles": [
+              "[DP Lotus Cups]"
+            ],
+            "subartists": [
+              "mov: Transendium / obj: lai-"
+            ],
+            "difficulty": 3,
+            "level": 10
+          },
+          "noteCount": 527,
+          "bpm": {
+            "init": 145,
+            "min": 145,
+            "median": 145,
+            "max": 145
+          },
+          "duration": 166.75862068965517,
+          "scratch": true,
+          "keys": "14K",
+          "file": "MS_14H.bms"
+        }
+      ],
+      "title": "Mobile Softee",
+      "artist": "DCWH, Ice, lunul, Trina Lydia",
+      "genre": "Hypertrance",
+      "bpm": 145,
+      "replaygain": "-6.04 dB",
+      "bms_url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&num=201&event=152",
+      "youtube_url": "https://youtu.be/bmagaLBy0i0?si=N-7aX5ldH0jpfbq7",
+      "readme": "README.md",
+      "back_image_url": "bemuse-data/back_image.png",
+      "eyecatch_image_url": "bemuse-data/eyecatch_image.png",
+      "video_url": "bemuse-data/bga.mp4",
+      "video_offset": 1.7,
+      "preview_offset": 121,
+      "preview_url": "bemuse-data/preview.mp3",
+      "song_url": "https://soundcloud.com/dcwh/mobilesoftee",
+      "added": "2026-10-11T00:00:00.000Z",
+      "id": "%5B%E6%88%90%E9%9F%B3%E6%BA%90%5D%20Mobile%20Softee%20%5Bbemuse%5D",
+      "path": "https://raw.githubusercontent.com/TrainerLydia/bms/refs/heads/main/%5B%E6%88%90%E9%9F%B3%E6%BA%90%5D%20Mobile%20Softee%20%5Bbemuse%5D/"
     }
   ]
 }
