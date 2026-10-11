@@ -285,5 +285,6 @@
   "video_url": "bemuse-data/bga.mp4",
   "video_offset": 1.7,
   "preview_offset": 121,
-  "preview_url": "bemuse-data/preview.mp3"
+  "preview_url": "bemuse-data/preview.mp3",
+  "song_url": "https://soundcloud.com/dcwh/mobilesoftee"
 }
